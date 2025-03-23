@@ -1,0 +1,1132 @@
+ایک کمرہ۔	event.v.01 Participant +1 room.n.01
+لز موہن	event.v.01 Participant +1 female.n.02 Name "لز موہن"
+باہر دیکھو!	person.n.01 EQU hearer look_out.v.01 Experiencer -1
+این ول	event.v.01 Participant +1 female.n.02 Name "این ول"
+کون مر گیا؟	person.n.01 Name ? die.v.01 Patient -1 Time +1 time.n.08 TPR now
+کیا یہ دور ہے؟	time.n.08 EQU now entity.n.01 far.a.01 Time -2 Value + AttributeOf -1
+گیبی کیسٹ	event.v.01 Participant +1 female.n.02 Name "گیبی کیسٹ"
+وہ کون ہے؟	person.n.01 Name ? be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now person.n.01
+پال کیسٹ	event.v.01 Participant +1 male.n.02 Name "پال کیسٹ"
+یڈینسٹو.	event.v.01 Participant +1 party.n.01 Name "یڈینسٹو"
+جان ارونگ	event.v.01 Participant +1 male.n.02 Name "جان ارونگ"
+مجھے معاف کریں!	person.n.01 EQU hearer forgive.v.01 Agent -1 Theme +1 person.n.01 EQU speaker
+کیا میں ملازم ہوں؟	time.n.08 EQU now person.n.01 EQU speaker hire.v.01 Time -2 Theme -1 Time +1 time.n.08 TPR now
+ٹام نے چیخا۔	male.n.02 Name "ٹام" yell.v.01 Agent -1 Time +1 time.n.08 TPR now
+جان اروینگ	event.v.01 Participant +1 male.n.02 Name "جان ارونگ"
+ہم سی ڈی خریدتے ہیں۔	person.n.01 Sub speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now cd.n.04
+میں مدد کروں گا.	person.n.01 EQU speaker time.n.08 TSU now help.v.01 Agent -2 Time -1
+ایرس ریڈش	event.v.01 Participant +1 female.n.02 Name "ایرس ریڈش"
+کیا ٹام مصروف ہے؟	time.n.08 EQU now male.n.02 Name "ٹام" busy.a.01 Time -2 AttributeOf -1
+مریم یوڈلز۔	female.n.02 Name "میری" yodel.v.01 Agent -1 Time +1 time.n.08 EQU now
+کتنا شور تھا!	be.v.01 Theme +1 Co-Theme +2 entity.n.01 hype.n.01
+کیا ٹام نے کوشش کی؟	time.n.08 TPR now male.n.02 Name "ٹام" try.v.01 Time -2 Agent -1
+درخت لگائیں!	person.n.01 EQU hearer plant.v.01 Agent -1 Theme +1 tree.n.01
+وہ سست ہے.	person.n.01 time.n.08 EQU now lazy.a.02 AttributeOf -2 Time -1
+ہم بچ گئے!	person.n.01 Sub speaker survive.v.01 Theme -1 Time +1 time.n.08 TPR now
+تم پاگل ہو!	person.n.01 EQU hearer time.n.08 EQU now nuts.a.01 AttributeOf -2 Time -1
+تم بیوقوف ہو.	person.n.01 EQU hearer time.n.08 EQU now silly.a.01 AttributeOf -2 Time -1
+مجھے ٹونی پسند آیا۔	person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 Name "ٹونی"
+ایک مکھی گونج رہی ہے۔	NEGATION <1 bee.n.01 NEGATION <1 buzz.v.01 Agent -1
+ٹام بدمزاج ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now groggy.a.01 AttributeOf -2 Time -1
+وہ انتظار کرے گا۔	male.n.02 time.n.08 TSU now wait.v.01 Theme -2 Time -1
+کیا ٹام مر جائے گا؟	time.n.08 TSU now male.n.02 Name "ٹام" die.v.01 Time -2 Patient -1
+کتنا بے ہودہ!	be.v.01 Theme +1 Co-Theme +2 entity.n.01 person.n.01 Role +1 klutz.n.01
+اس نے مجھے پھینک دیا۔	person.n.01 dump.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+سزائے موت	event.v.01 Participant +1 death_penalty.n.01
+اینڈریو کونوے	event.v.01 Participant +1 male.n.02 Name "اینڈریو کونوے"
+کیا میں محبت میں ہوں؟	time.n.08 EQU now person.n.01 EQU speaker in_love.a.01 Time -2 Experiencer -1
+کون چلائے گا؟	person.n.01 Name ? time.n.08 TSU now drive.v.01 Agent -2 Time -1
+کیا میں پھسل رہا ہوں؟	time.n.08 EQU now person.n.01 EQU speaker slip.v.03 Time -2 Theme -1
+اس نے مجھے پھینک دیا۔	person.n.01 dump.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+مجھے ٹٹو چاہیے	person.n.01 EQU speaker time.n.08 EQU now want.n.04 Pivot -2 Time -1 Theme +1 pony.n.01
+آپ روشن ہیں۔	person.n.01 EQU hearer time.n.08 EQU now bright.a.03 AttributeOf -2 Time -1
+تم نشے میں ہو!	person.n.01 EQU hearer time.n.08 EQU now drunk.a.02 Experiencer -2 Time -1
+کیا یہ قانونی ہے؟	time.n.08 EQU now entity.n.01 legal.a.01 Time -2 AttributeOf -1
+میں نے مبالغہ آرائی کی۔	person.n.01 EQU speaker exaggerate.v.01 Agent -1 Time +1 time.n.08 TPR now
+ہم ناخوش ہیں۔	person.n.01 Sub speaker time.n.08 EQU now unhappy.a.01 Experiencer -2 Time -1
+ٹام پتلا ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now skinny.a.01 Theme -2 Time -1
+کیا ٹام کو برطرف کیا گیا تھا؟	time.n.08 TPR now male.n.02 Name "ٹام" fire.v.04 Time -2 Theme -1
+پیکنگ بیکار ہے۔	pack.v.01 suck.v.04 Stimulus -1 Time +1 time.n.08 EQU now
+کتا کیسا ہے؟	state.a.01 Time +1 EQU ? time.n.08 EQU now dog.n.01 Attribute -2
+کیا بلیاں خواب دیکھتے ہیں؟	time.n.08 EQU now cat.n.01 dream.v.02 Time -2 Experiencer -1
+مجھے بہت بھوک لگی ہے!	person.n.01 EQU speaker time.n.08 EQU now so.r.01 hungry.a.01 Experiencer -3 Time -2 Degree -1
+کیا پیلا ہے!	be.v.01 Theme +1 Co-Theme +2 entity.n.01 paella.n.01
+ہم پرہیز کر رہے ہیں۔	person.n.01 Sub speaker time.n.08 EQU now diet.v.01 Agent -2 Time -1
+کین ٹام کو جانتا ہے۔	male.n.02 Name "کین" know.v.04 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "ٹام"
+کیا میں حاملہ ہوں؟	time.n.08 EQU now person.n.01 EQU speaker pregnant.a.01 Time -2 AttributeOf -1
+کون اس کی مدد کرتا ہے؟	person.n.01 Name ? help.v.01 Agent -1 Time +1 Beneficiary +2 time.n.08 EQU now person.n.01
+میں اٹھ نہیں سکتا۔	person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 get_up.v.02 Agent -1 Time +1 time.n.08 EQU now
+میں ناخواندہ ہوں۔	person.n.01 EQU speaker time.n.08 EQU now illiterate.a.01 AttributeOf -2 Time -1
+کیا میں اہل ہوں؟	time.n.08 EQU now person.n.01 EQU speaker qualified.a.01 Time -2 AttributeOf -1
+کیچنگ بند کرو!	person.n.01 EQU hearer stop.v.02 PartOf +1 kvetch.v.01 Agent -2
+میں ترقی کروں گا۔	person.n.01 EQU speaker time.n.08 TSU now prosper.v.01 Agent -2 Time -1
+کیا وہ میرا پیالا ہے؟	be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 person.n.01 EQU speaker mug.n.04 User -1
+سب چلے گئے۔	NEGATION <1 person.n.01 NEGATION <1 leave.v.01 Theme -1 Time +1 time.n.08 TPR now
+مجھے جلدی اس کی ضرورت ہے۔	person.n.01 EQU speaker need.v.02 Pivot -1 Time +1 Theme +2 Manner +3 time.n.08 EQU now entity.n.01 asap.r.01
+مریم نے ہمیں بلایا۔	female.n.02 Name "میری" call.v.03 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now person.n.01 Sub speaker
+کیا وہ پیاری نہیں ہے؟	NEGATION <1 time.n.08 EQU now female.n.02 cute.a.01 Time -2 AttributeOf -1
+وہ پرانی ٹوپی ہے۔	entity.n.01 time.n.08 EQU now old-hat.a.02 AttributeOf -2 Time -1
+کیا شیر چیختے ہیں؟	time.n.08 EQU now tiger.n.02 purr.v.02 Time -2 Agent -1
+موسیقی کا سامنا کریں۔	person.n.01 EQU hearer face.v.01 Agent -1 Theme +1 music.n.05
+یہ ظاہر ہے۔	entity.n.01 time.n.08 EQU now obvious.a.01 AttributeOf -2 Time -1
+کیا آپ مجھے پسندکرتے ہیں؟	time.n.08 EQU now person.n.01 EQU hearer like.v.03 Time -2 Experiencer -1 Stimulus +1 person.n.01 EQU speaker
+لوسی نے مریم سے کہا۔	female.n.02 Name "لوسی" tell.v.02 Agent -1 Time +1 Recipient +2 time.n.08 TPR now female.n.02 Name "میری"
+اس نے اس سے شادی کی۔	person.n.01 marry.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now person.n.01 ANA -3
+اس نے این سے شادی کی۔	person.n.01 marry.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now female.n.02 Name "این"
+میں نے اسے ٹی وی پر دیکھا۔	person.n.01 EQU speaker see.v.01 Experiencer -1 Time +1 Stimulus +2 Instrument +3 time.n.08 TPR now entity.n.01 tv.n.01
+ہم اٹلی میں ہیں۔	person.n.01 Sub speaker be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "اٹلی"
+کسی نے بلایا۔	person.n.01 call.v.03 Agent -1 Time +1 time.n.08 TPR now
+ہر کوئی جیت جاتا ہے!	NEGATION <1 person.n.01 NEGATION <1 win.v.01 Agent -1 Time +1 time.n.08 EQU now
+ہم اسے معاف کر دیتے ہیں۔	person.n.01 Sub speaker forgive.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now person.n.01
+وہ باخ کا کردار ادا کرتی ہے۔	female.n.02 play.v.07 Agent -1 Time +1 Theme +2 time.n.08 EQU now bach.n.02
+گدی!	event.v.01 Participant +2 fucking.a.01 AttributeOf +1 asshole.n.01
+میں سو رہا ہوں	person.n.01 EQU speaker time.n.08 EQU now doze_off.v.01 Experiencer -2 Time -1
+ٹام غیر مسلح تھا۔	male.n.02 Name "ٹام" time.n.08 TPR now unarmed.a.01 AttributeOf -2 Time -1
+بٹن دباؤ.	person.n.01 EQU hearer push.v.02 Agent -1 Theme +1 button.n.07
+مریم نے مجھے تھپڑ مارا۔	female.n.02 Name "میری" slap.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+کیا ہیکسین زہریلا ہے؟	time.n.08 EQU now hexane.n.01 toxic.a.01 Time -2 AttributeOf -1
+میں نے ایک مچھلی پکڑی!	person.n.01 EQU speaker catch.v.08 Agent -1 Time +1 Theme +2 time.n.08 TPR now fish.n.01
+سپاہی بھاگا۔	person.n.01 Role +1 soldier.n.01 run.v.01 Theme -2 Time +1 time.n.08 TPR now
+وہ کتا بدبودار ہے!	dog.n.01 stink.v.02 Theme -1 Time +1 time.n.08 EQU now
+ٹام شاندار ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now brilliant.a.01 AttributeOf -2 Time -1
+کیا آپ سیٹی بجا سکتے ہیں؟	POSSIBILITY <1 person.n.01 EQU hearer whistle.v.01 Agent -1 Time +1 time.n.08 EQU now
+تم ایک بدمعاش ہو۔	person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 grouch.n.01
+ٹام دستک دے رہا ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now knock.v.02 Agent -2 Time -1
+میں نے اپنی زبان کاٹ لی۔	person.n.01 EQU speaker bite.v.01 Experiencer -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker tongue.n.01 PartOf -1
+میں ایک پاگل نہیں ہوں!	person.n.01 EQU speaker NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 freak.n.01
+ایملی رو رہی ہے۔	female.n.02 Name "ایملی" time.n.08 EQU now cry.v.02 Agent -2 Time -1
+مجھے جلدی کرنی ہے!	person.n.01 EQU speaker NECESSITY <1 hurry.v.01 Theme -1
+میں پہلے ہی گیلا ہوں!	person.n.01 EQU speaker time.n.08 EQU now wet.a.01 AttributeOf -2 Time -1
+اسکول مجھے بور کرتا ہے۔	school.n.03 bore.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 EQU speaker
+کیا آپ شادی شدہ ہیں؟	time.n.08 EQU now person.n.01 EQU hearer married.a.01 Time -2 AttributeOf -1
+کیا وہ ٹھیک ہے؟	time.n.08 EQU now person.n.01 all_right.a.01 Time -2 AttributeOf -1
+کون چیخ رہا ہے؟	person.n.01 Name ? time.n.08 EQU now scream.v.01 Agent -2 Time -1
+تمہیں کس چیز نے ڈرایا؟	entity.n.01 EQU ? scare.v.01 Stimulus -1 Time +1 Experiencer +2 time.n.08 TPR now person.n.01 EQU hearer
+مریم نے خطرہ مول لیا۔	female.n.02 Name "میری" take.v.20 Agent -1 Time +1 Theme +2 time.n.08 TPR now risk.n.02
+کیا وہ پیارا نہیں ہے؟	NEGATION <1 time.n.08 EQU now entity.n.01 cute.a.01 Time -2 AttributeOf -1
+ایلکے ہیڈنریچ	event.v.01 Participant +1 female.n.02 Name "ایلکے ہیڈنریچ"
+میں کریک اپ کر رہا ہوں	person.n.01 EQU speaker time.n.08 EQU now crack_up.v.03 Agent -2 Time -1
+چیاپاس کہاں ہے؟	location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now state.n.01 Name "چیاپس"
+یہ بے ایمانی ہے۔	entity.n.01 time.n.08 EQU now dishonest.a.01 AttributeOf -2 Time -1
+سب نے انتظار کیا۔	NEGATION <1 person.n.01 NEGATION <1 wait.v.01 Theme -1 Time +1 time.n.08 TPR now
+کیا آپ نے 911 پر کال کی؟	time.n.08 TPR now person.n.01 EQU hearer call.v.03 Time -2 Agent -1 Theme +1 phone_number.n.01 Name "911"
+تم بہت بیوقوف ہو۔	person.n.01 EQU hearer time.n.08 EQU now so.r.01 stupid.a.01 AttributeOf -3 Time -2 Degree -1
+کوئی بھی جنگ پسند نہیں کرتا۔	NEGATION <1 person.n.01 like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now war.n.01
+میں نے خط لکھا۔	person.n.01 EQU speaker write.v.04 Agent -1 Time +1 Result +2 time.n.08 TPR now letter.n.01
+سکور 1-0 ہے۔	score.n.03 be.v.06 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now score.n.03 Value 1-0
+جارج ناراض تھا!	male.n.02 Name "جارج" time.n.08 TPR now livid.a.03 Experiencer -2 Time -1
+برلسکونی بیکار ہے۔	male.n.02 Name "برلسکونی" suck.v.04 Theme -1 Time +1 time.n.08 EQU now
+کوئی ہنسا۔	person.n.01 laugh.v.01 Agent -1 Time +1 time.n.08 TPR now
+کتنا اچھا خیال ہے!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 nice.a.01 AttributeOf +1 idea.n.01
+اس نے مجھے فون کیا ہے۔	person.n.01 phone.v.01 Agent -1 Time +1 Recipient +2 time.n.08 TPR now person.n.01 EQU speaker
+کیا آپ کا کتا مطلب ہے؟	time.n.08 EQU now person.n.01 EQU hearer dog.n.01 Owner -1 mean.a.02 Time -3 AttributeOf -1
+کیا ٹام خوبصورت تھا؟	time.n.08 TPR now male.n.02 Name "ٹام" handsome.a.01 Time -2 AttributeOf -1
+تم ایک عفریت ہو۔	person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 monster.n.04
+کوءی بھی پرفیکٹ نہیں.	NEGATION <1 person.n.01 time.n.08 EQU now perfect.a.01 AttributeOf -2 Time -1
+وہ ارجنٹائنی ہے۔	person.n.01 time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "ارجنٹینا"
+آئیے سشی کھاتے ہیں۔	time.n.08 TSU now person.n.01 EQU speaker have.v.06 Time -2 Agent -1 Patient +1 sushi.n.01
+چلو پتنگ اڑاتے ہیں۔	time.n.08 TSU now person.n.01 EQU speaker fly.v.05 Time -2 Agent -1 Theme +1 kite.n.03
+ہیملیٹ کس نے لکھا؟	person.n.01 Name ? write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01 Name "ہیملیٹ"
+مجھے کوئی مل گیا۔	person.n.01 EQU speaker find.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01
+کیا یہ متعلقہ ہے؟	time.n.08 EQU now entity.n.01 relevant.a.01 Time -2 AttributeOf -1
+کتنا بھاری بیگ!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 heavy.a.01 Value + bag.n.01 Attribute -1
+ویاگرا کون بناتا ہے؟	organisation.n.02 Name ? make.v.06 Agent -1 Time +1 Product +2 time.n.08 EQU now viagra.n.01
+میں اب بھی رو رہی ہوں۔	person.n.01 EQU speaker time.n.08 EQU now cry.v.02 Agent -2 Time -1
+وہ غیرت مند نہیں ہے۔	person.n.01 NEGATION <1 time.n.08 EQU now jealous.a.02 Experiencer -2 Time -1
+میں انہیں دیکھنا چاہتا ہوں!	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now see.v.01 Experiencer -3 Stimulus +1 entity.n.01
+کیا سیب سرخ ہے؟	time.n.08 EQU now apple.n.01 red.a.01 Time -2 ColourOf -1
+اس کے پاس کوئی ٹوپی نہیں تھی۔	person.n.01 NEGATION <1 have_on.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now hat.n.01
+میں پھینک رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now throw_up.v.01 Agent -2 Time -1
+سب کچھ بیکار ہے۔	NEGATION <1 entity.n.01 NEGATION <1 suck.v.04 Theme -1 Time +1 time.n.08 EQU now
+تبدیلی	event.v.01 Participant +1 transformation.n.01
+کیا یہ ٹام کا بیگ ہے؟	be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 male.n.02 Name "ٹام" bag.n.01 User -1
+ٹام نے کس سے شادی کی؟	person.n.01 Name ? time.n.08 TPR now male.n.02 Name "ٹام" marry.v.01 Co-Agent -3 Time -2 Agent -1
+وہ شرمیلی قسم کی ہے۔	female.n.02 time.n.08 EQU now kind_of.r.01 shy.a.01 AttributeOf -3 Time -2 Degree -1
+یہ سپر پیارا ہے!	entity.n.01 time.n.08 EQU now super.r.01 cute.a.01 AttributeOf -3 Time -2 Degree -1
+کسی نے شکایت نہیں کی۔	NEGATION <1 person.n.01 complain.v.01 Agent -1 Time +1 time.n.08 TPR now
+یہ مضحکہ خیز نہیں ہے!	entity.n.01 NEGATION <1 time.n.08 EQU now funny.a.01 AttributeOf -2 Time -1
+کیا وہ بیڈ کیڑے ہیں؟	be.v.01 Time +1 Co-Theme +2 Theme +3 time.n.08 EQU now entity.n.01 bedbug.n.01
+میں دائیں ہاتھ والا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now right-handed.a.01 AttributeOf -2 Time -1
+ٹام کو کسی نے نہیں دیکھا۔	NEGATION <1 person.n.01 see.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 Name "ٹام"
+ایلجر ہِس کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "ایلجر ہِس"
+کینیڈا بہت اچھا ہے!	country.n.02 Name "کینیڈا" time.n.08 EQU now awesome.a.01 AttributeOf -2 Time -1
+وہ جارجیا سے ہے۔	person.n.01 be.v.03 Theme -1 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "جارجیا"
+یہ کس کی گھڑی ہے؟	person.n.01 Name ? clock.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+یہ غیر اہم ہے۔	entity.n.01 time.n.08 EQU now unimportant.a.01 AttributeOf -2 Time -1
+مجھے کینڈی بھی پسند ہے۔	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now candy.n.01
+کیا ٹام مریم کے ساتھ تھا؟	be.v.03 Time +1 Theme +2 Location +3 time.n.08 EQU now male.n.02 Name "ٹام" female.n.02 Name "میری"
+سب کچھ مفت ہے۔	NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now free.a.03 AttributeOf -2 Time -1
+میں تیار نہیں تھا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now prepared.a.01 AttributeOf -2 Time -1
+میں کبھی واپس نہیں آؤں گا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 TSU now return.v.01 Theme -2 Time -1
+میں نے ایک کیڑا نگل لیا۔	person.n.01 EQU speaker swallow.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now bug.n.01
+کیا آپ آئس سکیٹ کر سکتے ہیں؟	POSSIBILITY <1 person.n.01 EQU hearer ice_skate.v.01 Theme -1
+مجھے ہر جگہ خارش ہوتی ہے۔	NEGATION <1 location.n.01 NEGATION <1 person.n.01 EQU speaker itch.v.02 Time -2 Experiencer -1 Time +1 time.n.08 EQU now
+وہ اب پڑھ رہا ہے۔	male.n.02 time.n.08 EQU now time.n.08 EQU now study.v.05 Agent -3 Time -2 Time -1
+سب بھوکے ہیں۔	NEGATION <1 person.n.01 NEGATION <1 time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+کیا کیتھی بھی گئی تھی؟	time.n.08 TPR now female.n.02 Name "کیتھی" go.v.01 Time -2 Theme -1
+کیا میں 911 پر کال کروں؟	time.n.08 TSU now person.n.01 EQU speaker call.v.03 Time -2 Agent -1 Theme +1 phone_number.n.01 Name "911"
+لوگ چل رہے ہیں۔	person.n.01 time.n.08 EQU now walk.v.01 Theme -2 Time -1
+بطخیں ہڑبڑا گئیں۔	duck.n.01 quack.v.01 Agent -1 Time +1 time.n.08 TPR now
+میں نے ہائی وے 58 لیا۔	person.n.01 EQU speaker take.v.09 Agent -1 Time +1 Theme +2 time.n.08 TPR now highway.n.01 Name "58"
+مجھے راک میوزک پسند ہے۔	person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now rock_music.n.01
+اسے کسی نے نہیں بلایا۔	NEGATION <1 person.n.01 call.v.03 Agent -1 Time +1 Recipient +2 time.n.08 TPR now person.n.01
+ٹام بے رحم ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now unmerciful.a.01 AttributeOf -2 Time -1
+تم نے کچھ نہیں پکڑا۔	person.n.01 EQU hearer NEGATION <1 catch.v.08 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+ہمیں ٹوٹ جانا چاہیے۔	person.n.01 Sub speaker NECESSITY <1 break_up.v.02 Patient -1
+یہ کون سا مہینہ ہے؟	month.n.01 Name ? be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+ایل اے میں کوئی نہیں چلتا۔	NEGATION <1 person.n.01 walk.v.04 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "لاس انجلس"
+ویکمپ کی لاگت 390 ملین یورو تھی۔	company.n.01 Name "ویکمپ" cost.v.01 Theme -1 Time +1 Value +2 time.n.08 EQU now euro.n.01 Quantity +1 quantity.n.01 EQU 390000000
+ہر کوئی نہیں جیتتا!	NEGATION <1 NEGATION <1 person.n.01 NEGATION <1 win.v.01 Agent -1 Time +1 time.n.08 EQU now
+اٹلی یونان نہیں ہے۔	country.n.02 Name "اٹلی" NEGATION <1 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now country.n.02 Name "یونان"
+میں نے ٹام کا لان کاٹا۔	person.n.01 EQU speaker mow.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now male.n.02 Name "ٹام" lawn.n.01 User -1
+میں 1979 میں پیدا ہوا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +1 time.n.08 YearOfCentury 1979
+سب نے ہمیں پسند کیا۔	NEGATION <1 person.n.01 NEGATION <1 like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 Sub speaker
+میرا بندر بھاگ گیا!	person.n.01 EQU speaker monkey.n.01 Owner -1 run_away.v.01 Theme -1 Time +1 time.n.08 TPR now
+پھر بارش ہو رہی ہے!	entity.n.01 time.n.08 EQU now rain.v.01 EQU -2 Time -1
+ہم مختصر ہاتھ والے ہیں۔	person.n.01 Sub speaker time.n.08 EQU now short-handed.a.01 AttributeOf -2 Time -1
+سینڈرا میشبرگر	event.v.01 Participant +1 female.n.02 Name "سینڈرا میشبرگر"
+ال شارپٹن کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "ال شارپٹن"
+کیا آپ فلپائنی ہیں؟	be.v.01 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer person.n.01 Source +1 country.n.02 Name "فلپائن"
+کیا آپ اب بھوکے ہیں؟	time.n.08 EQU now person.n.01 EQU hearer hungry.a.01 Time -2 Experiencer -1 Time +1 time.n.08 EQU now
+یہ بالکل غلط ہے۔	entity.n.01 time.n.08 EQU now totally.r.01 wrong.a.01 AttributeOf -3 Time -2 Degree -1
+نوسٹراڈیمس کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "نوسٹراڈیمس"
+وہ کس کی کتاب ہے؟	person.n.01 Name ? book.n.02 User -1 be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+میری گھڑی 2:30 کہتی ہے۔	person.n.01 EQU speaker watch.n.01 User -1 say.v.11 Theme -1 Time +1 Value +2 time.n.08 EQU now time.n.08 ClockTime 14:30
+مجھے مزاحیہ کتابیں پسند ہیں۔	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now comic_book.n.01
+کیا آپ ناخواندہ ہیں؟	time.n.08 EQU now person.n.01 EQU hearer illiterate.a.01 Time -2 AttributeOf -1
+فریڈرک نطشے	event.v.01 Participant +1 male.n.02 Name "فریڈرک نطشے"
+میں مچھلی پیس رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now grill.v.01 Agent -2 Time -1 Product +1 fish.n.02
+کوئی بھی میری مدد نہیں کر سکتا۔	NEGATION <1 person.n.01 POSSIBILITY <1 help.v.01 Agent -1 Beneficiary +1 person.n.01 EQU speaker
+وہ سانس نہیں لے رہا ہے!	person.n.01 NEGATION <1 time.n.08 EQU now breathe.v.01 Agent -2 Time -1
+کیا میں اب بھی شادی شدہ ہوں؟	time.n.08 EQU now person.n.01 EQU speaker married.a.01 Time -2 AttributeOf -1
+وہ انگریز ہے۔	person.n.01 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Source +1 country.n.02 Name "انگلینڈ"
+وہ سکول چلا گیا۔	male.n.02 drive.v.02 Agent -1 Time +1 Destination +2 time.n.08 TPR now school.n.02
+کچھ ہوا ہے.	entity.n.01 happen.v.01 Theme -1 Time +1 time.n.08 TPR now
+کیا کوئی مارا گیا؟	time.n.08 TPR now person.n.01 kill.v.01 Time -2 Patient -1
+کیا کتا جکڑا ہوا ہے؟	time.n.08 EQU now dog.n.01 chained.a.01 Time -2 AttributeOf -1
+یہ کس کی انگوٹھی ہے؟	person.n.01 Name ? ring.n.08 User -1 be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+بیٹی نے اسے قتل کر دیا۔	female.n.02 Name "بیٹی" murder.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01
+ہم ہنی مون کر رہے ہیں۔	person.n.01 Sub speaker time.n.08 EQU now honeymoon.v.01 Agent -2 Time -1
+آپ لوگ خوش قسمت تھے۔	person.n.01 EQU hearer guy.n.01 SubOf -1 time.n.08 TPR now lucky.a.02 AttributeOf -2 Time -1
+ہر کوئی ٹام سے پیار کرتا ہے۔	NEGATION <1 person.n.01 NEGATION <1 love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "ٹام"
+اب سب کچھ ٹھیک ہے۔	NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now ok.a.01 Theme -2 Time -1 Time +1 time.n.08 EQU now
+وہ گانا کون گاتا ہے؟	person.n.01 Name ? sing.v.02 Agent -1 Time +1 Theme +2 time.n.08 EQU now song.n.01
+یہ یو ایف او کی طرح لگتا ہے۔	entity.n.01 look_like.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now ufo.n.01
+کسی نے مجھ سے رابطہ نہیں کیا۔	NEGATION <1 person.n.01 contact.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 EQU speaker
+میں 6:30 پر واپس آؤں گا۔	person.n.01 EQU speaker time.n.08 TSU now return.v.01 Theme -2 Time -1 Time +1 time.n.08 ClockTime 18:30
+شاید آپ نے اسے چاٹا؟	POSSIBILITY <1 person.n.01 EQU hearer lick.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now entity.n.01
+یہ ڈراونا قسم کا ہے۔	entity.n.01 time.n.08 EQU now kind_of.r.01 creepy.a.01 AttributeOf -3 Time -2 Degree -1
+شاید میں نے مبالغہ آرائی کی۔	POSSIBILITY <1 person.n.01 EQU speaker exaggerate.v.01 Agent -1 Time +1 time.n.08 TPR now
+میں گیارہ بجے اٹھا۔	person.n.01 EQU speaker wake_up.v.02 Agent -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 11:00
+ٹام کیا پی رہا ہے؟	entity.n.01 EQU ? time.n.08 EQU now male.n.02 Name "ٹام" drink.v.01 Patient -3 Time -2 Agent -1
+دوبارہ میچ کے بارے میں کیا خیال ہے؟	state.a.01 AttributeOf +1 EQU ? rematch.n.01
+میں تقریباً چھ بجے آیا۔	person.n.01 EQU speaker come.v.02 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 APX +1 time.n.08 ClockTime 18:00
+اس نے ایک انگوٹھی خریدی۔	person.n.01 buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now thimble.n.02
+میرے خیال میں وہ چالیس سال کی ہے۔	person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 female.n.02 time.n.08 EQU now old.a.01 AttributeOf -2 Time -1 Value +1 measure.n.02 Quantity 40 Unit +1 year.n.01
+ہر کوئی ٹام سے نفرت کرتا ہے۔	NEGATION <1 person.n.01 NEGATION <1 hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "ٹام"
+مجھے بلیک بیری پسند ہے۔	person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now blackberry.n.01
+اینی اوکلی کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now female.n.02 Name "اینی اوکلی"
+ہر کوئی اس سے پیار کرتا ہے۔	NEGATION <1 person.n.01 NEGATION <1 love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now person.n.01
+میں ہمیشہ بس لیتا ہوں۔	NEGATION <1 time.n.08 NEGATION <1 person.n.01 EQU speaker take.v.09 Agent -1 Time +1 Theme +2 time.n.08 EQU now bus.n.01
+سب نے ٹام کو پسند کیا۔	NEGATION <1 person.n.01 NEGATION <1 like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now male.n.02 Name "ٹام"
+آپ ورکاہولک ہیں۔	person.n.01 EQU hearer EQU +2 time.n.08 EQU now person.n.01 Role +1 workaholic.n.01 Time -2
+ماریہ کے بال لمبے ہیں۔	female.n.02 Name "ماریا" have.v.02 Pivot -1 Time +1 Theme +3 time.n.08 EQU now long.a.02 Value + hair.n.01 Attribute -1
+میرا گولف بیگ کہاں ہے؟	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +3 time.n.08 EQU now person.n.01 EQU speaker golf_bag.n.01 User -1
+مجھے الارم گھڑیوں سے نفرت ہے۔	person.n.01 EQU speaker hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now alarm_clock.n.01
+میں اپنی کتاب پڑھ رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now read.v.01 Agent -2 Time -1 Source +2 person.n.01 EQU speaker book.n.01 User -1
+مرد لکڑیاں کاٹ رہے ہیں۔	man.n.01 time.n.08 EQU now cut.v.01 Agent -2 Time -1 Patient +1 wood.n.01
+کلاوا نے لیوسیا سے حسد کیا۔	female.n.02 Name "کلاوا" envy.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now female.n.02 Name "لیوسیا"
+سب دیکھ رہے ہیں۔	NEGATION <1 person.n.01 NEGATION <1 time.n.08 EQU now watch.v.01 Agent -2 Time -1
+ایلس ریولن کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now female.n.02 Name "ایلس ریولن"
+کئی گاڑیاں وہاں سے گزریں۔	car.n.01 Quantity + pass_by.v.01 Theme -1 Time +1 time.n.08 TPR now
+یوسکرکن کہاں ہے؟	location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now city.n.01 Name "یوسکرکن"
+غیر قانونی شکار ہے۔	poach.v.01 time.n.08 EQU now illegal.a.01 AttributeOf -2 Time -1
+میں بوسٹن جا رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now go.v.01 Theme -2 Time -1 Destination +1 city.n.01 Name "بوسٹن"
+تم متعصب ہو	person.n.01 EQU hearer time.n.08 EQU now cantankerous.a.01 AttributeOf -2 Time -1
+وہیل ایک ممالیہ جانور ہے۔	NEGATION <1 whale.n.02 NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now mammal.n.01
+میں چوپین کھیل رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 chopin.n.01
+کیا یہ مناسب ہے؟	time.n.08 EQU now entity.n.01 appropriate.a.01 Time -2 AttributeOf -1
+وہ لڑکا بدمعاش ہے۔	guy.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 bully.n.01
+میں ابھی نشے میں ہوں۔	person.n.01 EQU speaker time.n.08 EQU now drunk.a.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+وہ کس شہر میں ہے؟	city.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now person.n.01
+میں اپنے باس کے ساتھ سو گیا۔	person.n.01 EQU speaker sleep_with.v.01 Agent -1 Time +1 Co-Agent +3 time.n.08 TPR now person.n.01 EQU speaker person.n.01 Role +1 boss.n.01 Of -2
+سینڈوچ کے بارے میں کیا خیال ہے؟	state.a.01 AttributeOf +1 EQU ? sandwich.n.01
+میں اس کا 50,000 ین کا مقروض ہوں۔	person.n.01 EQU speaker owe.v.03 Agent -1 Time +1 Beneficiary +2 Theme +4 time.n.08 EQU now person.n.01 quantity.n.01 EQU 50000 yen.n.02 Quantity -1
+مریم کو ہالووین سے نفرت ہے۔	female.n.02 Name "میری" hate.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now day.n.03 Name "ہالووین"
+کتنے لوگ مر گئے؟	person.n.01 Quantity ? die.v.01 Patient -1 Time +1 time.n.08 TPR now
+ایک سیب کتنا ہے؟	measure.n.02 Quantity ? be.v.13 Value -1 Time +1 Theme +2 time.n.08 EQU now apple.n.01
+ایلن ایورسن کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "ایلن ایورسن"
+انتفاضہ الاقصیٰ	event.v.01 Participant +1 war.n.01 Name "انتفاضہ الاقصی"
+یہ بہت خوفناک ہے !!!	entity.n.01 time.n.08 EQU now so.r.01 scary.a.01 AttributeOf -3 Time -2 Degree -1
+میں اسرائیل میں پیدا ہوا تھا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "اسرائیل"
+آپ لوگوں کو کس نے دعوت دی؟	person.n.01 Name ? invite.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU hearer guy.n.01 SubOf -1
+میں نے ایک چھتری خریدی۔	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now umbrella.n.01
+میں کمزور کافی کو ترجیح دیتا ہوں۔	person.n.01 EQU speaker prefer.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now weak.a.02 AttributeOf +1 coffee.n.01
+کیا آپ کی عمر 17 سال ہے؟	time.n.08 EQU now person.n.01 EQU hearer quantity.n.01 EQU 17 year.n.01 Quantity -1 old.a.01 Time -4 Theme -3 Value -1
+آپ نے کس کو ووٹ دیا؟	person.n.01 Name ? time.n.08 TPR now person.n.01 EQU hearer vote.v.01 Theme -3 Time -2 Agent -1
+وہ فرانس سے آتا ہے۔	person.n.01 come.v.08 Theme -1 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "فرانس"
+التھیا گبسن کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now female.n.02 Name "التھیا گبسن"
+آدھا گھنٹہ لگا۔	entity.n.01 take.v.02 Theme -1 Time +1 Value +3 time.n.08 TPR now quantity.n.01 EQU 0.5 hour.n.01 Quantity -1
+یورپ میں سیلاب نے تباہی مچادی۔	flood.n.01 ravage.v.02 Causer -1 Time +1 Patient +2 time.n.08 EQU now continent.n.01 Name "Europe"
+کوئی آپ پر الزام نہیں لگا رہا ہے۔	NEGATION <1 person.n.01 time.n.08 EQU now blame.v.01 Agent -2 Time -1 Theme +1 person.n.01 EQU hearer
+بیت الخلا کہاں ہے؟	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now restroom.n.01
+کیا آپ نے اسے گوگل کیا ہے؟	person.n.01 EQU hearer google.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01
+کیا آپ نے اسے گوگل کیا ہے؟	person.n.01 EQU hearer google.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01
+مجھے روشن رنگ پسند ہیں۔	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now bright.a.01 AttributeOf +1 color.n.01
+میں بالی جانا چاہتا ہوں۔	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now go.v.01 Theme -3 Destination +1 island.n.01 Name "بالی"
+ٹام کو کس چیز کا ڈر ہے؟	entity.n.01 EQU ? time.n.08 EQU now male.n.02 Name "ٹام" afraid.a.01 Stimulus -3 Time -2 Experiencer -1
+ایک بیئر کتنی ہے؟	measure.n.02 Unit ? Quantity ? be.v.13 Value -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 EQU 1 beer.n.01 Quantity -1
+البرٹو ٹومبا کون ہے؟	person.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "البرٹو ٹومبا"
+کس کے ساتھ گئے تھے؟	person.n.01 Name ? time.n.08 TPR now person.n.01 EQU hearer go.v.01 Co-Theme -3 Time -2 Theme -1
+چار بڑی غلطیاں	event.v.01 Participant +3 quantity.n.01 EQU 4 great.a.03 AttributeOf +1 error.n.01 Quantity -2
+لنکن کا انتقال 1865 میں ہوا۔	male.n.02 Name "لنکن" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1865
+یہ کس کی پنسل ہے؟	person.n.01 Name ? pencil.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+پیزارو نے کس کو مارا؟	person.n.01 Name ? time.n.08 TPR now male.n.02 Name "پیزارو" kill.v.01 Patient -3 Time -2 Agent -1
+میں 6:30 پر واپس آؤں گا۔	person.n.01 EQU speaker time.n.08 TSU now back.r.01 AttributeOf -2 Time -1 Time +1 time.n.08 ClockTime 18:30
+میں ٹینس کھیل رہا تھا۔	person.n.01 EQU speaker time.n.08 TPR now play.v.01 Agent -2 Time -1 Theme +1 tennis.n.01
+مجھے فرانسیسی میں اے ملا۔	person.n.01 EQU speaker get.v.09 Agent -1 Time +1 Extent +2 Theme +3 time.n.08 TPR now score.n.01 Value A french.n.01
+کیا یہ آپ کی سائیکل ہے؟	be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 person.n.01 EQU hearer bicycle.n.01 User -1
+مجھ سے کسی نے بات نہیں کی۔	NEGATION <1 person.n.01 speak.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now person.n.01 EQU speaker
+کیا آپ نے ٹام کو گوگل کیا ہے؟	person.n.01 EQU hearer google.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now male.n.02 Name "ٹام"
+وہ یوکوہاما میں رہتا ہے۔	male.n.02 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "یوکوہاما"
+ٹیم کی کوچنگ کون کرتا ہے؟	person.n.01 Name ? coach.v.01 Agent -1 Time +1 Beneficiary +2 time.n.08 EQU now team.n.01
+ٹام نے مریم کے ساتھ رقص کیا۔	male.n.02 Name "ٹام" dance.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now female.n.02 Name "میری"
+تم نے میری بی ایم ڈبلیو تباہ کر دی!	person.n.01 EQU hearer destroy.v.02 Agent -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 EQU speaker bmw.n.02 User -1
+اپنی سیٹ بیلٹ باندیں.	person.n.01 EQU hearer fasten.v.01 Agent -1 Patient +2 person.n.01 EQU hearer seat_belt.n.01 User -1
+آپ خوش قسمت ہیں۔	person.n.01 EQU hearer time.n.08 EQU now happy-go-lucky.a.01 AttributeOf -2 Time -1
+ایک آدمی بانسری بجا رہا ہے۔	man.n.01 time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 flute.n.01
+اخبار کہاں ہے؟	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now newspaper.n.01
+یہ کس کا ہینڈ بیگ ہے؟	person.n.01 Name ? handbag.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+موسم سرما قریب آ رہا ہے۔	winter.n.01 time.n.08 EQU now approach.v.04 Theme -2 Time -1
+وہ مجھ سے زیادہ ہوشیار ہے۔	person.n.01 time.n.08 EQU now smart.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 person.n.01 EQU speaker
+چار گنا پانچ ہے 20۔	number.n.02 EQU 4 times.n.02 Theme -1 Co-Theme +1 number.n.02 EQU 5 be.v.06 Theme -2 Co-Theme +1 number.n.02 EQU 20
+یہ صوفہ کتنے کا ہے؟	measure.n.02 Quantity ? be.v.13 Value -1 Time +1 Theme +2 time.n.08 EQU now sofa.n.01
+آپ کو کس مکھی نے کاٹا ہے؟	bee.n.01 EQU ? bite.v.04 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU hearer
+میں سویڈش نہیں بولتا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now speak.v.03 Agent -2 Time -1 Theme +1 swedish.n.01
+میں جاپان جانا چاہتا ہوں۔	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now go.v.01 Theme -3 Destination +1 country.n.02 Name "جاپان"
+کون سا جانور چھوٹا ہے؟	animal.n.01 EQU ? time.n.08 EQU now small.a.01 AttributeOf -2 Time -1
+آپ کیا کھانا چاہتے ہیں؟	entity.n.01 EQU ? time.n.08 EQU now person.n.01 EQU hearer want.v.01 Time -2 Pivot -1 Theme +1 eat.v.02 Patient -4 Agent -2
+ٹام نے ہلکا سا مسکرایا۔	male.n.02 Name "ٹام" grimace.v.01 Agent -1 Time +1 Manner +2 time.n.08 TPR now slightly.r.01
+ایک آدمی آٹا گانٹھ رہا ہے۔	man.n.01 time.n.08 EQU now lump.v.01 Agent -2 Time -1 Patient +1 dough.n.01
+کتنا خوبصورت شہر ہے!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 beautiful.a.01 AttributeOf +1 city.n.01
+میلر 1905 میں ریٹائر ہوئے۔	male.n.02 Name "میلر" retire.v.01 Agent -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1905
+یہ جھیل کتنی گہری ہے!	deep.a.03 Value + AttributeOf +1 Time +2 lake.n.01 time.n.08 EQU now
+البرٹ غیورسو کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "البرٹ غیورسو"
+یہ بیرو کتنے کا ہے؟	measure.n.02 Quantity ? be.v.13 Value -1 Time +1 Theme +2 time.n.08 EQU now biro.n.01
+وہ آپ سے جوڑ توڑ کر رہا ہے!	male.n.02 time.n.08 EQU now manipulate.v.05 Agent -2 Time -1 Patient +1 person.n.01 EQU hearer
+اٹلی نے قازقستان کو ہرا دیا۔	team.n.01 Name "اٹلی" beat.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now team.n.01 Name "قازقستان"
+وہ ہمیشہ گپ شپ کرتا ہے۔	NEGATION <1 time.n.08 NEGATION <1 male.n.02 time.n.08 EQU now gossip.v.01 Agent -2 Time -1
+ٹام کا پیٹ پھول گیا۔	male.n.02 Name "ٹام" stomach.n.01 PartOf -1 growl.v.01 Theme -1 Time +1 time.n.08 TPR now
+ٹام نے حقیقت کو توڑ مروڑ دیا۔	male.n.02 Name "ٹام" twist.v.09 Agent -1 Time +1 Patient +2 time.n.08 TPR now truth.n.02
+یہ بہت افسردہ کن ہے۔	entity.n.01 time.n.08 EQU now so.r.01 depressing.a.01 Experiencer -3 Time -2 Degree -1
+کلیوپیٹرا کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "کلیوپیٹرا" die.v.01 Manner -3 Time -2 Patient -1
+گوس ہیڈنک ڈچ ہے۔	male.n.02 Name "گوس ہیڈنک" time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "نیدرلینڈز"
+ہر کوئی جانا چاہتا ہے۔	NEGATION <1 person.n.01 NEGATION <1 want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now go.v.03 Theme -3
+میں ترکی نہیں بولتا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now speak.v.03 Agent -2 Time -1 Theme +1 turkish.n.01
+مجھے اس کی فکر ہے۔	person.n.01 EQU speaker time.n.08 EQU now worried.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01
+کرس نے اپنی تلوار چلائی!	male.n.02 Name "کرس" swing.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 ANA -3 sword.n.01 User -1
+وہ ایل کیپٹن پر چڑھ گیا۔	male.n.02 climb.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now geological_formation.n.01 Name "ایل کیپٹن"
+کیا میں اتنا شفاف ہوں؟	time.n.08 EQU now person.n.01 EQU speaker transparent.a.04 Time -2 AttributeOf -1
+ال پیکینو کتنا لمبا ہے؟	tall.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now male.n.02 Name "ال پیکینو"
+مجھے ڈارک چاکلیٹ پسند ہے۔	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now dark_chocolate.n.01
+ہر کوئی موسیقی سے محبت کرتا ہے۔	NEGATION <1 person.n.01 NEGATION <1 love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now music.n.01
+ڈائنامائٹ کس نے ایجاد کیا؟	person.n.01 Name ? invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now dynamite.n.01
+کسی نے اس کی حوصلہ افزائی نہیں کی۔	NEGATION <1 person.n.01 encourage.v.02 Agent -1 Time +1 Recipient +2 time.n.08 TPR now person.n.01
+باؤش اینڈ لومب کیا ہے؟	entity.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now company.n.01 Name "باؤش اینڈ لومب"
+میں کیا بیوقوف رہا ہوں!	person.n.01 Role +1 fool.n.01 person.n.01 EQU speaker be.v.01 Co-Theme -3 Theme -1 Time +1 time.n.08 TPR now
+کیا خوشی کی حیرت ہے!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 happy.a.02 AttributeOf +1 surprise.n.02
+مریم ٹام کی سابقہ بیوی ہے۔	female.n.02 Name "میری" be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now male.n.02 Name "ٹام" time.n.08 TPR now person.n.01 Role +1 wife.n.01 Of -3 Time -2
+تم پھر سے مسکرا رہے ہو۔	person.n.01 EQU hearer time.n.08 EQU now smirk.v.01 Agent -2 Time -1
+ریڈیم کس نے دریافت کیا؟	person.n.01 Name ? discover.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now radium.n.01
+تم ایک بیوقوف ہو!	person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now fucking.a.01 AttributeOf +1 person.n.01 Role +1 idiot.n.01
+کوئی اس سے آگے نہیں بڑھ سکتا۔	NEGATION <1 person.n.01 POSSIBILITY <1 surpass.v.02 Theme -1 Co-Theme +1 person.n.01
+میرے پاس سائیکل نہیں ہے۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now have.v.04 Pivot -2 Time -1 Theme +1 bicycle.n.01
+کیا آپ ٹام سے ناراض ہیں؟	time.n.08 EQU now person.n.01 EQU hearer angry.a.01 Time -2 Experiencer -1 Stimulus +1 male.n.02 Name "ٹام"
+میں ٹوکیو، جاپان سے ہوں۔	person.n.01 EQU speaker be.v.03 Theme -1 Time +1 Source +2 time.n.08 EQU now city.n.01 Name "ٹوکیو" PartOf +1 country.n.02 Name "جاپان"
+میں نے چابیوں کا ایک گچھا کھو دیا۔	person.n.01 EQU speaker lose.v.04 Agent -1 Time +1 Theme +3 time.n.08 TPR now bunch.n.01 entity.n.01 Sub -1 Sub +1 key.n.01
+کیا آپ کے والد ہسپانوی ہیں؟	time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 father.n.01 Of -2 be.v.03 Time -4 Theme -2 Source +1 country.n.02 Name "ہسپانیہ"
+یہ گھڑی کتنے کی ہے؟	measure.n.02 Unit ? Quantity ? be.v.13 Value -1 Time +1 Theme +2 time.n.08 EQU now watch.n.01
+میری ماں خوبصورت ہے.	person.n.01 EQU speaker person.n.01 Role +1 mother.n.01 Of -2 time.n.08 EQU now beautiful.a.01 AttributeOf -3 Time -1
+یہ سستا ہے، ہے نا؟	NEGATION <1 NEGATION <1 entity.n.01 time.n.08 EQU now cheap.a.01 AttributeOf -2 Time -1 NEGATION <2 NEGATION <1 cheap.a.01 Time +1 AttributeOf +2 time.n.08 EQU now entity.n.01
+ڈین نے لنڈا کے ہاتھ باندھ دیئے۔	male.n.02 Name "ڈین" tie.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 Name "لنڈا" hand.n.01 PartOf -1
+میں تمہارا سر پھاڑ دوں گا!	person.n.01 EQU speaker time.n.08 TSU now tear_off.v.01 Agent -2 Time -1 Patient +2 person.n.01 EQU hearer head.n.01 PartOf -1
+ٹام کی چھتری کہاں ہے؟	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +3 time.n.08 EQU now male.n.02 Name "ٹام" umbrella.n.01 User -1
+کیا مسٹر ناکامورا گھر پر ہیں؟	be.v.03 Time +1 Theme +3 Location +4 time.n.08 EQU now mr.n.01 male.n.02 Name "نکامورا" Title -1 home.n.01
+کیا آپ لوگ میری مدد کر سکتے ہیں؟	POSSIBILITY <1 person.n.01 EQU hearer guy.n.01 SubOf -1 help.v.01 Agent -1 Beneficiary +1 person.n.01 EQU speaker
+"پرنس" کس نے لکھا؟	person.n.01 Name ? write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01 Name "The Prince"
+میں اپنے دانت صاف کر رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now brush.v.03 Agent -2 Time -1 Patient +2 person.n.01 EQU speaker tooth.n.01 PartOf -1
+کیا آپ کو مسالہ دار کھانا پسند ہے؟	time.n.08 EQU now person.n.01 EQU hearer like.v.02 Time -2 Experiencer -1 Stimulus +2 spicy.a.02 AttributeOf +1 food.n.02
+کیا احمقوں کا ٹولہ ہے!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 bunch.n.01 entity.n.01 Sub -1 Sub +1 person.n.01 Role +1 idiot.n.01
+کیا کوئی اور بولی لگا رہا ہے؟	time.n.08 EQU now person.n.01 NEQ +1 person.n.01 bid.v.01 Time -3 Agent -2
+میری گھڑی واٹر پروف ہے۔	person.n.01 EQU speaker watch.n.01 User -1 time.n.08 EQU now waterproof.a.01 AttributeOf -2 Time -1
+مجھے افسوس ہے، میں نے گڑبڑ کر دی۔	person.n.01 EQU speaker time.n.08 EQU now sorry.a.01 Theme -2 Time -1 CONTINUATION <1 person.n.01 EQU speaker fuck_up.v.01 Agent -1 Time +1 time.n.08 TPR now
+میرا نام ایڈگر ڈیگاس ہے۔	person.n.01 EQU speaker name.n.01 Bearer -1 be.v.06 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Edgar Degas"
+میں نے کسی کو قتل نہیں کیا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now murder.v.01 Agent -2 Time -1 Patient +1 person.n.01
+مائیک ٹائسن کتنا لمبا ہے؟	tall.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now male.n.02 Name "مائک ٹائسن"
+یہ کس کی چھتری ہے؟	person.n.01 Name ? umbrella.n.01 User -1 be.v.01 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+کیا یہ کچھ سنجیدہ ہے؟	be.v.01 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now entity.n.01 entity.n.01 Attribute +1 serious.a.01
+ٹام میرا سابق بوائے فرینڈ ہے۔	male.n.02 Name "ٹام" be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker time.n.08 TPR now person.n.01 Role +1 boyfriend.n.01 Of -3 Time -2
+کیا آپ کو سفید شراب پسند ہے؟	time.n.08 EQU now person.n.01 EQU hearer like.v.02 Time -2 Experiencer -1 Stimulus +1 white_wine.n.01
+ملی کو چاکلیٹ پسند ہے۔	female.n.02 Name "ملی" love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chocolate.n.02
+تم سب کچھ برباد کر دو گے۔	person.n.01 EQU hearer NEGATION <1 entity.n.01 NEGATION <1 time.n.08 TSU now ruin.v.01 Agent -3 Patient -2 Time -1
+کیا تم اس کے ساتھ سوتے تھے؟	time.n.08 TPR now person.n.01 EQU hearer sleep_with.v.01 Time -2 Agent -1 Co-Agent +1 person.n.01
+اس کا نام جان رکھا گیا۔	male.n.02 time.n.08 TPR now christen.v.01 Theme -2 Time -1 Result +1 name.n.01 EQU "جان"
+ایڈز افریقہ میں پھیلتا ہے۔	aids.n.01 spread.v.02 Theme -1 Time +1 Location +2 time.n.08 EQU now continent.n.01 Name "افریقہ"
+این فرینک کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "این فرینک" die.v.01 Manner -3 Time -2 Patient -1
+کیا آپ نے کوئی قانون توڑا؟	time.n.08 TPR now person.n.01 EQU hearer break.v.06 Time -2 Agent -1 Theme +1 law.n.02
+وہ نوٹ بک کس کی ہے؟	person.n.01 Name ? notebook.n.02 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+تمہیں کس مکھی نے ڈنک مارا ہے؟	bee.n.01 EQU ? sting.v.02 Agent -1 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU hearer
+میں اسٹونین نہیں بولتا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now speak.v.03 Agent -2 Time -1 Theme +1 estonian.n.01
+کیا یہ کینیڈا کا پیسہ ہے؟	be.v.01 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 country.n.02 Name "کینیڈا" money.n.01 Source -1
+مجھے ٹیپیوکا پڈنگ پسند ہے۔	person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now tapioca_pudding.n.01
+کیا شاندار نظارہ ہے!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 wonderful.a.01 AttributeOf +1 sight.n.01
+اسے مٹی سے الرجی ہے۔	person.n.01 time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 dust.n.01
+یہ کس کی نصابی کتاب ہے؟	person.n.01 Name ? textbook.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+آپ کا آخری نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer last_name.n.01 Bearer -1
+میں نے تقریباً 50 ڈالر ادا کئے۔	person.n.01 EQU speaker pay.v.01 Agent -1 Time +1 Asset +3 time.n.08 TPR now quantity.n.01 APX 50 dollar.n.01 Quantity -1
+ایک بچہ ہارپ بجا رہا ہے۔	child.n.01 time.n.08 EQU now play.v.03 Agent -2 Time -1 Theme +1 harp.n.01
+کیا میری وضاحت واضح ہے؟	time.n.08 EQU now person.n.01 EQU speaker explanation.n.01 Creator -1 clear.a.01 Time -3 AttributeOf -1
+میں کس سے بات کر رہا ہوں؟	person.n.01 Name ? time.n.08 EQU now person.n.01 EQU speaker speak.v.02 Co-Agent -3 Time -2 Agent -1
+آپ کے درمیانی نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer middle_name.n.01 Bearer -1
+آپ کا پہلا نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer maiden_name.n.01 Bearer -1
+شمال کی ہوا چل رہی ہے۔	north.n.04 wind.n.01 Source -1 time.n.08 EQU now blow.v.02 Theme -2 Time -1
+کیلی ٹی وی پر نظر آئے گی۔	female.n.02 Name "کیلی" time.n.08 TSU now appear.v.02 Theme -2 Time -1 Location +1 tv.n.01
+یہ ایک سنہری بازیافت ہے۔	entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now golden_retriever.n.01
+تم ایک طاقتور عورت ہو!	person.n.01 EQU hearer be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now powerful.a.03 AttributeOf +1 woman.n.01
+میں نے ٹام کو وہ نہیں بیچا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now sell.v.01 Agent -2 Time -1 Recipient +1 Theme +2 male.n.02 Name "ٹام" entity.n.01
+اس کے بائسپس بہت بڑے ہیں۔	person.n.01 biceps.n.01 PartOf -1 time.n.08 EQU now very.r.01 big.a.01 Time -2 Degree -1 Value + AttributeOf -3
+لوگ اسے یوچن کہتے ہیں۔	person.n.01 call.v.01 Agent -1 Time +1 Theme +2 Result +3 time.n.08 EQU now female.n.02 name.n.01 EQU "یوچن"
+تمہاری بہن کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now person.n.01 EQU hearer person.n.01 Role +1 sister.n.01 Of -2 die.v.01 Manner -5 Time -4 Patient -2
+تم لوگ کہاں ملے تھے؟	location.n.01 Name ? time.n.08 TPR now person.n.01 EQU hearer guy.n.01 SubOf -1 meet.v.08 Location -4 Time -3 Agent -1
+برائن نیویارک کے لیے روانہ ہو گئے۔	male.n.02 Name "برائن" leave.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now city.n.01 Name "نیو یارک"
+تقریباً دو ہفتے۔	event.v.01 Participant +2 quantity.n.01 APX 2 week.n.01 Quantity -1
+تم سے سگریٹ کی بدبو آتی ہے۔	person.n.01 EQU hearer stink.v.02 Theme -1 Time +1 Causer +2 time.n.08 EQU now cigarette.n.01
+پیٹسی کلائن کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "پیٹسی کلائن" die.v.01 Manner -3 Time -2 Patient -1
+سب بھوکے ہوں گے۔	NEGATION <1 person.n.01 NEGATION <1 time.n.08 TSU now hungry.a.01 Experiencer -2 Time -1
+ہر شخص نے $7,000 ادا کیا۔	NEGATION <1 person.n.01 NEGATION <1 pay.v.01 Agent -1 Time +1 Asset +2 time.n.08 TPR now dollar.n.01 Quantity +1 quantity.n.01 EQU 7000
+پی ایل او کا مطلب کیا ہے؟	entity.n.01 Name ? time.n.08 EQU now acronym.n.01 EQU "PLO" stand_for.v.02 Co-Theme -3 Time -2 Theme -1
+ٹام خوشی سے خوش ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now blissfully.r.01 happy.a.01 Experiencer -3 Time -2 Degree -1
+میں کسی کو مارنا چاہتا ہوں۔	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now kill.v.01 Agent -3 Patient +1 person.n.01
+ٹام اس سے ناخوش ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now unhappy.a.01 Experiencer -2 Time -1 Stimulus +1 entity.n.01
+مجھے ایک مچھر نے کاٹا تھا۔	person.n.01 EQU speaker time.n.08 TPR now bite.v.04 Patient -2 Time -1 Agent +1 mosquito.n.01
+کوئی اس آدمی کو پکڑ لے!	person.n.01 catch.v.04 Agent -1 Theme +1 man.n.01
+اتاہولپا کس سے لڑا؟	person.n.01 Name ? time.n.08 TPR now male.n.02 Name "اتاہولپا" fight.v.01 Co-Agent -3 Time -2 Agent -1
+آپ کا پہلا نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer first_name.n.01 Bearer -1
+میں ہیتھر سے شادی کرنا چاہتا ہوں۔	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now marry.v.01 Agent -3 Co-Agent +1 female.n.02 Name "ہیتھر"
+کوئی بھی اس پر یقین نہیں کر سکتا تھا۔	NEGATION <1 person.n.01 POSSIBILITY <1 believe.v.01 Experiencer -1 Stimulus +1 entity.n.01
+بلی کا کمپیوٹر نیا ہے۔	male.n.02 Name "بلی" computer.n.01 User -1 time.n.08 EQU now new.a.01 AttributeOf -2 Time -1
+کیا یہ ٹام کی رہائش گاہ ہے؟	be.v.02 Time +1 Theme +2 Co-Theme +4 time.n.08 EQU now entity.n.01 male.n.02 Name "ٹام" residence.n.01 User -1
+میرے پاس لینڈ لائن نہیں ہے۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now have.v.04 Pivot -2 Time -1 Theme +1 landline.n.01
+یہ کس کا اخبار ہے؟	person.n.01 Name ? newspaper.n.03 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+آر اینڈ بی کا کیا مطلب ہے؟	entity.n.01 Name ? time.n.08 EQU now acronym.n.01 EQU "R&B" stand_for.v.02 Co-Theme -3 Time -2 Theme -1
+کم از کم دستی پڑھیں!	person.n.01 EQU hearer read.v.01 Agent -1 Source +2 fucking.a.01 AttributeOf +1 manual.n.01
+وہ ہوکائیڈو سے نہیں ہے۔	person.n.01 be.v.03 Theme -1 Time +1 time.n.08 EQU now NEGATION <1 entity.n.01 EQU -2 Source +1 island.n.01 Name "ہوکائیڈو"
+میری گرل فرینڈ نے مجھے پھینک دیا۔	person.n.01 EQU speaker person.n.01 Role +1 girlfriend.n.02 Of -2 dump.v.02 Agent -2 Time +1 Patient +2 time.n.08 TPR now person.n.01 EQU speaker
+کیا آپ بڑبڑانا چھوڑ دیں گے؟	time.n.08 TSU now person.n.01 EQU hearer stop.v.02 Time -2 PartOf +1 babble.v.01 Agent -2
+جوڈی کو رقص کا شوق ہے۔	female.n.02 Name "جوڈی" time.n.08 EQU now fond.a.03 Experiencer -2 Time -1 Stimulus +1 dancing.n.01
+ٹام کا کون سا سوٹ کیس ہے؟	suitcase.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "ٹام" suitcase.n.01 User -1
+کتنا شاندار خاندان ہے!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 marvelous.a.01 AttributeOf +1 family.n.01
+کیا خوبصورت غروب آفتاب ہے!	be.v.01 Theme +1 Co-Theme +3 entity.n.01 beautiful.a.01 AttributeOf +1 sunset.n.03
+جارج جھیل کتنی ٹھنڈی ہے؟	cold.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now lake.n.01 Name "جھیل جارج"
+جِل کی منگنی جیک سے ہو گئی ہے۔	female.n.02 Name "جیل" time.n.08 EQU now engage.v.05 Theme -2 Time -1 Co-Theme +1 male.n.02 Name "جیک"
+ایک لڑکا اپنے بالوں کو اسٹائل کر رہا ہے۔	boy.n.01 time.n.08 EQU now style.v.02 Agent -2 Time -1 Patient +2 male.n.02 hair.n.01 PartOf -1
+میں اپنی تلوار تیز کر رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now sharpen.v.01 Agent -2 Time -1 Patient +2 person.n.01 EQU speaker sword.n.01 User -1
+میں وولگوگراڈ میں رہ رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now live.v.01 Theme -2 Time -1 Location +1 city.n.01 Name "وولگوگراد"
+اس کی نئی کار شاندار ہے۔	person.n.01 new.a.01 AttributeOf +1 car.n.01 User -2 time.n.08 EQU now wonderful.a.01 AttributeOf -2 Time -1
+ٹام کے علاوہ سب مسکرائے۔	NEGATION <1 person.n.01 NEQ +1 male.n.02 Name "ٹام" NEGATION <1 smile.v.01 Agent -2 Time +1 time.n.08 TPR now
+وہ ایسپرانٹو سیکھ رہی ہے۔	female.n.02 time.n.08 EQU now learn.v.01 Agent -2 Time -1 Topic +1 esperanto.n.01
+جمی ہینڈرکس کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "جمی ہینڈرکس" die.v.01 Manner -3 Time -2 Patient -1
+اس نے ماؤنٹ ایورسٹ کو فتح کیا۔	person.n.01 conquer.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now mountain.n.01 Name "ماؤنٹ ایورسٹ"
+اس سے مجھے حیرت نہیں ہوتی۔	entity.n.01 NEGATION <1 time.n.08 EQU now surprise.v.01 Stimulus -2 Time -1 Experiencer +1 person.n.01 EQU speaker
+ہیری چپن کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "ہیری چپن" die.v.01 Manner -3 Time -2 Patient -1
+جارج نے میری بہن سے شادی کی۔	male.n.02 Name "جارج" marry.v.01 Agent -1 Time +1 Co-Agent +3 time.n.08 TPR now person.n.01 EQU speaker person.n.01 Role +1 sister.n.01 Of -2
+مجھے کسی تحفے کی امید نہیں تھی۔	person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now expect.v.01 Agent -2 Time -1 Theme +1 gift.n.01
+یہ کس کا سیل فون ہے؟	person.n.01 Name ? cellphone.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+میں اداسی کا شکار ہوں۔	person.n.01 EQU speaker suffer.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now melancholy.n.01
+اس سی ڈی کی قیمت 10 ڈالر ہے۔	cd.n.04 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 10 dollar.n.01 Quantity -1
+لیڈی ڈیانا کا پیرس میں انتقال ہو گیا۔	lady.n.03 female.n.02 Name "ڈیانا" Title -1 die.v.01 Patient -1 Time +1 Location +2 time.n.08 TPR now city.n.01 Name "پیرس"
+بہت سے لوگ نکو کی تعریف کرتے ہیں۔	person.n.01 Quantity + admire.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now city.n.01 Name "نکو"
+ایک طیارہ ٹیک آف کر رہا ہے۔	aircraft.n.01 time.n.08 EQU now take_off.v.03 Theme -2 Time -1
+وہ ڈراپ ڈیڈ خوبصورت ہے۔	person.n.01 time.n.08 EQU now drop-dead.r.01 gorgeous.a.01 AttributeOf -3 Time -2 Degree -1
+ہم چھ بجے کھانا کھائیں گے۔	person.n.01 Sub speaker time.n.08 TSU now eat.v.02 Agent -2 Time -1 Time +1 time.n.08 ClockTime 18:00
+ٹام کی توجہ بھٹک گئی۔	male.n.02 Name "ٹام" attention.n.01 Creator -1 wander.v.05 Theme -1 Time +1 time.n.08 TPR now
+میرے پیٹ میں شدید درد تھا۔	person.n.01 EQU speaker have.v.16 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now bad.a.03 AttributeOf +1 stomachache.n.01
+یہ کتنا لمبا پل ہے!	long.a.02 Value + bridge.n.01 Attribute -1 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+مریم چینی سمجھتی ہے۔	female.n.02 Name "میری" understand.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chinese.n.01
+لاطینی ایک مردہ زبان ہے۔	latin.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now dead_language.n.01
+جیری گارسیا کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "جیری گارسیا" die.v.01 Manner -3 Time -2 Patient -1
+آپ متضاد ہو رہے ہیں۔	person.n.01 EQU hearer time.n.08 EQU now contentious.a.01 AttributeOf -2 Time -1
+میں نے دن ٹام کے ساتھ گزارا۔	person.n.01 EQU speaker spend.v.01 Agent -1 Time +1 Duration +2 Co-Agent +3 time.n.08 TPR now day.n.04 male.n.02 Name "ٹام"
+اس کے باوجود میں کامیاب رہا۔	person.n.01 EQU speaker succeed.v.01 Agent -1 Time +1 time.n.08 TPR now CONTRAST <1 event.v.01 Participant +1 entity.n.01
+کیا کسی نے ٹام سے بات کی ہے؟	person.n.01 talk.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "ٹام"
+میرا طوطا کل مر گیا۔	person.n.01 EQU speaker parrot.n.01 Owner -1 die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1
+اس کی کتنی پیاری آنکھیں ہیں!	lovely.a.01 AttributeOf +1 eye.n.01 person.n.01 have.v.02 Theme -2 Pivot -1 Time +1 time.n.08 EQU now
+مکھن دودھ سے بنایا جاتا ہے۔	butter.n.01 time.n.08 EQU now make.v.06 Product -2 Time -1 Material +1 milk.n.01
+ایڈون ٹینگ کہاں سے ہے؟	location.n.01 Name ? be.v.03 Source -1 Time +1 Theme +2 time.n.08 EQU now male.n.02 Name "ایڈون ٹینگ"
+آئیے چھپ چھپا کر کھیلیں!	time.n.08 TSU now person.n.01 EQU speaker play.v.01 Time -2 Agent -1 Theme +1 hide-and-seek.n.01
+وہ ایک پرائیویٹ جاسوس ہے۔	person.n.01 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 private_detective.n.01
+یہ ایک شاہکار ہوگا!	entity.n.01 time.n.08 TSU now be.v.01 Theme -2 Time -1 Co-Theme +1 masterpiece.n.01
+قیدی فرار ہوگیا!	person.n.01 Role +1 prisoner.n.01 escape.v.01 Theme -2 Time +1 time.n.08 TPR now
+ٹڈے کیا کھاتے ہیں؟	entity.n.01 EQU ? time.n.08 EQU now grasshopper.n.01 eat.v.03 Theme -3 Time -2 Agent -1
+میں جانتا ہوں کہ یہ کس کا بیگ ہے۔	person.n.01 EQU speaker know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 Name ? bag.n.01 User -1 entity.n.01 be.v.02 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+مجھے کچھ بوسیدہ بو آ رہی ہے۔	person.n.01 EQU speaker smell.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now entity.n.01 Attribute +1 rotten.a.02
+ریکارڈو میرا پہلا نام ہے۔	male.n.02 EQU "ریکارڈو" be.v.02 Co-Theme -1 Time +1 Theme +3 time.n.08 EQU now person.n.01 EQU speaker first_name.n.01 Bearer -1
+میں بیکن اور انڈے پکاؤں گا۔	person.n.01 EQU speaker time.n.08 TSU now cook.v.02 Agent -2 Time -1 Patient +1 bacon_and_eggs.n.02
+اس نے دھوپ کا چشمہ پہن رکھا ہے۔	person.n.01 time.n.08 EQU now wear.v.02 Agent -2 Time -1 Theme +1 sunglasses.n.01
+چلو چائے خانے چلتے ہیں!	time.n.08 TSU now person.n.01 EQU speaker go.v.01 Time -2 Theme -1 Destination +1 teahouse.n.01
+میں اپنی غلطی تسلیم کرتا ہوں۔	person.n.01 EQU speaker acknowledge.v.01 Agent -1 Time +1 Theme +3 time.n.08 EQU now person.n.01 EQU speaker mistake.n.01 Creator -1
+کیا آپ مجھے فرانسیسی سکھائیں گے؟	time.n.08 TSU now person.n.01 EQU hearer teach.v.01 Time -2 Agent -1 Recipient +1 Theme +2 person.n.01 EQU speaker french.n.01
+سب بچے ناچ رہے تھے۔	NEGATION <1 entity.n.01 PartOf +1 kid.n.01 NEGATION <1 time.n.08 TPR now dance.v.02 Theme -3 Time -1
+کیرول ہسپانوی زبان سیکھ رہی ہے۔	female.n.02 Name "کیرول" time.n.08 EQU now study.v.05 Agent -2 Time -1 Theme +1 spanish.n.01
+جوڈی گارلینڈ کتنا لمبا تھا؟	tall.a.01 Time +1 AttributeOf +2 time.n.08 TPR now female.n.02 Name "جوڈی Garland"
+ایک لڑکی اپنے بالوں کو اسٹائل کر رہی ہے۔	girl.n.01 time.n.08 EQU now style.v.02 Agent -2 Time -1 Patient +2 female.n.02 hair.n.01 PartOf -1
+یہ میری ماں کا چہواہوا ہے۔	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 mom.n.01 Of -2 chihuahua.n.03 Owner -2
+تھرمامیٹر 10C پڑھتا ہے۔	thermometer.n.01 read.v.08 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 10 degree_celsius.n.01 Quantity -1
+آپ کس سے بات کر رہے تھے؟	person.n.01 Name ? time.n.08 TPR now person.n.01 EQU hearer talk.v.01 Co-Agent -3 Time -2 Agent -1
+ایکٹینیم 1,051 ° C پر پگھلتا ہے۔	actinium.n.01 melt.v.01 Patient -1 Time +1 Extent +3 time.n.08 EQU now quantity.n.01 EQU 1051 degree_celsius.n.01 Quantity -1
+یہ کس کی پینٹنگز ہیں؟	person.n.01 Name ? painting.n.01 Creator -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01
+کل، میں نے ایک سیب کھایا۔	time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1 person.n.01 EQU speaker eat.v.01 Time -4 Agent -1 Time +1 Patient +2 time.n.08 TPR now apple.n.01
+برلن کس ملک میں ہے؟	country.n.02 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now city.n.01 Name "برلن"
+کسی کو کچھ شک نہیں تھا۔	NEGATION <1 person.n.01 suspect.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+اس کتاب کی قیمت 4 ڈالر ہے۔	book.n.02 cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 4 dollar.n.01 Quantity -1
+لیکن یہ کمپاس کہاں ہے؟	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now compass.n.01
+ایک آدمی بگل بجا رہا ہے۔	man.n.01 time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 trumpet.n.01
+کیا آپ کو مسٹر سائٹو یاد ہے؟	time.n.08 EQU now person.n.01 EQU hearer remember.v.01 Time -2 Agent -1 Theme +2 mr.n.01 male.n.02 Name "سائٹو" Title -1
+چار گنا پانچ ہے بیس۔	number.n.02 EQU 4 times.n.02 Theme -1 Co-Theme +1 number.n.02 EQU 5 be.v.06 Theme -2 Co-Theme +1 number.n.02 EQU 20
+نوحہ کناں دیوار کہاں ہے؟	location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now structure.n.01 Name "Wailing Wall"
+کرسٹوف کوچ کا ایک سروے	event.v.01 Participant +1 survey.n.02 Creator +1 male.n.02 Name "کرسٹوف کوچ"
+ایک مگرمچھ نے ٹام کو کھا لیا ہے۔	crocodile.n.01 eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 Name "ٹام"
+وہ بلیمیا کا شکار تھی۔	person.n.01 suffer.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now bulimia.n.01
+کس سے بات کر رہے ہو؟	person.n.01 Name ? time.n.08 EQU now person.n.01 EQU hearer talk.v.01 Co-Agent -3 Time -2 Agent -1
+میں نے ٹام کی چھتری ادھار لی۔	person.n.01 EQU speaker borrow.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "ٹام" umbrella.n.01 User -1
+میں نے ٹام کو تین گھنٹے پہلے دیکھا تھا۔	person.n.01 EQU speaker see.v.01 Experiencer -1 Time +1 Stimulus +2 Time +5 time.n.08 TPR now male.n.02 Name "ٹام" quantity.n.01 EQU 3 hour.n.01 Quantity -1 TAB now time.n.08 TAB -1
+اس نے کئی مقابلے جیتے۔	person.n.01 win.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now competition.n.02 Quantity +
+ٹام نے مریم کا کلینیٹ توڑ دیا۔	male.n.02 Name "ٹام" break.v.03 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 Name "میری" clarinet.n.01 User -1
+اوچ! میں نے خود کو چھیڑا ہے!	say.v.01 Agent speaker Theme +1 ouch.n.01 CONTINUATION <1 person.n.01 EQU speaker prick.v.01 Experiencer -1 Patient -1 Time +1 time.n.08 TPR now
+مارٹی روبنز کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "مارٹی روبنز" die.v.01 Manner -3 Time -2 Patient -1
+مجھے شوگی کھیلنے کا شوق ہے۔	person.n.01 EQU speaker time.n.08 EQU now fond.a.03 Experiencer -2 Time -1 Stimulus +2 entity.n.01 play.v.01 Agent -1 Theme +1 shogi.n.01
+ماریو نے ایک خوردبین خریدی۔	male.n.02 Name "ماریو" buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now microscope.n.01
+ہر کوئی آپ سے متفق ہے۔	NEGATION <1 person.n.01 NEGATION <1 agree.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 EQU now person.n.01 EQU hearer
+وہ والی بال کے کھلاڑی ہیں۔	person.n.01 be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 volleyball_player.n.01
+اگر تم خوش ہو تو میں خوش ہوں۔	person.n.01 EQU hearer time.n.08 EQU now happy.a.01 Experiencer -2 Time -1 CONSEQUENCE <1 person.n.01 EQU speaker time.n.08 EQU now glad.a.01 AttributeOf -2 Time -1
+کیا آپ کو راک اینڈ رول پسند ہے؟	time.n.08 EQU now person.n.01 EQU hearer like.v.02 Time -2 Experiencer -1 Stimulus +1 rock_and_roll.n.01
+کیا مقعد کی دراڑیں قابل علاج ہیں؟	time.n.08 EQU now anal.a.01 AttributeOf +1 fissure.n.01 curable.a.01 Time -3 AttributeOf -1
+وہ بہت خوش قسمت ہے۔	person.n.01 time.n.08 EQU now very.r.01 happy-go-lucky.a.01 AttributeOf -3 Time -2 Degree -1
+کسی نے اسے مجھ سے چرایا ہے۔	person.n.01 steal.v.01 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now entity.n.01 person.n.01 EQU speaker
+میری 36 ہفتوں کی حاملہ ہے۔	female.n.02 Name "میری" time.n.08 EQU now quantity.n.01 EQU 36 week.n.01 Quantity -1 pregnant.a.01 AttributeOf -4 Time -3 Duration -1
+کونسی گاڑی میں بھیڑ کم ہے؟	car.n.01 EQU ? time.n.08 EQU now less.r.01 Theme -2 crowded.a.01 AttributeOf -3 Time -2 Degree -1
+لڑکے کو کہاں دیکھا؟	location.n.01 EQU ? time.n.08 TPR now person.n.01 EQU hearer see.v.01 Location -3 Time -2 Experiencer -1 Stimulus +1 boy.n.01
+کیا میں یہ لغت استعمال کر سکتا ہوں؟	POSSIBILITY <1 person.n.01 EQU speaker use.v.01 Agent -1 Theme +1 dictionary.n.01
+ہیری ہوڈینی کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "ہیری ہوڈینی" die.v.01 Manner -3 Time -2 Patient -1
+ٹھنڈے غسل نے اسے تازگی بخشی۔	cold.a.01 Value + bath.n.02 Attribute -1 refresh.v.02 Stimulus -1 Time +1 Experiencer +2 time.n.08 TPR now person.n.01
+سب لڑکے ناچ رہے تھے۔	NEGATION <1 entity.n.01 PartOf +1 boy.n.01 NEGATION <1 time.n.08 TPR now dance.v.02 Theme -3 Time -1
+کیا آپ کو چاکلیٹ کا دودھ پسند ہے؟	time.n.08 EQU now person.n.01 EQU hearer like.v.02 Time -2 Experiencer -1 Stimulus +1 chocolate_milk.n.01
+بل کو بندوق سے مارا گیا۔	male.n.02 Name "بل" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Instrument +1 gun.n.01
+معمولی باتوں پر جھگڑا نہ کریں۔	person.n.01 EQU hearer NEGATION <1 time.n.08 EQU now quarrel.v.01 Agent -2 Time -1 Theme +1 trifle.n.03
+مجھے چاکلیٹ آئس کریم پسند ہے۔	person.n.01 EQU speaker like.v.02 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chocolate_ice_cream.n.01
+دونوں عمارتیں جل کر خاکستر ہوگئیں۔	building.n.01 Quantity 2 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 burn_down.v.01 Patient -1 Time +1 time.n.08 TPR now
+بلال کرم سے لمبا ہے۔	male.n.02 Name "بلال" time.n.08 EQU now tall.a.01 AttributeOf -2 Time -1 Degree +1 more.r.01 Theme -3 Co-Theme +1 male.n.02 Name "کرم"
+اس کا مذاق توہین کی حد تک ہے۔	person.n.01 joke.n.01 Creator -1 border_on.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now insult.n.02
+کیا کوئی آپ کا انتظار کر رہا ہے؟	time.n.08 EQU now person.n.01 wait.v.01 Time -2 Theme -1 Goal +1 person.n.01 EQU hearer
+میں نے کسی چیز کو ہاتھ نہیں لگایا۔	person.n.01 EQU speaker NEGATION <1 touch.v.01 Agent -1 Time +1 Experiencer +2 time.n.08 TPR now entity.n.01
+مریم کمہار کا پہیہ استعمال کرتی ہے۔	female.n.02 Name "میری" use.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now potter's_wheel.n.01
+ٹام نے چیری کا درخت کاٹا۔	male.n.02 Name "ٹام" cut_down.v.06 Agent -1 Time +1 Patient +2 time.n.08 TPR now cherry_tree.n.01
+میں فرانسیسی اور انگریزی بولتا ہوں۔	person.n.01 EQU speaker speak.v.03 Agent -1 Time +1 Theme +3 time.n.08 EQU now french.n.01 entity.n.01 Sub -1 Sub +1 english.n.01
+لنکن خود خاموش تھا۔	male.n.02 Name "لنکن" male.n.02 EQU -1 time.n.08 TPR now silent.a.02 AttributeOf -2 Time -1
+لوسی چینی کاںٹا استعمال نہیں کر سکتی۔	female.n.02 Name "لوسی" NEGATION <1 POSSIBILITY <1 use.v.01 Agent -1 Theme +1 chopstick.n.01
+مجھے چاکلیٹ آئس کریم پسند ہے!	person.n.01 EQU speaker like.v.03 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now chocolate_ice_cream.n.01
+آپ کے والد کی کون سی گاڑی ہے؟	car.n.01 EQU ? be.v.01 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 father.n.01 User -2 car.n.01 User -2
+مجھے ایک طرح کی نیند آ رہی ہے۔	person.n.01 EQU speaker time.n.08 EQU now feel.v.04 Experiencer -2 Time -1 Stimulus +2 kind_of.r.01 sleepy.a.01 AttributeOf -4 Degree -1
+جیک کی کتاب دلچسپ ہے۔	male.n.02 Name "جیک" book.n.01 Creator -1 time.n.08 EQU now interesting.a.01 AttributeOf -2 Time -1
+ماؤنٹ کنابالو کتنا اونچا ہے؟	high.a.02 Value ? AttributeOf +1 mountain.n.01 Name "Mount Kinabalu"
+قیدی فرار ہو رہے ہیں!	person.n.01 Role +1 prisoner.n.01 time.n.08 EQU now escape.v.01 Theme -3 Time -1
+پیرس میں فیشن کیا ہے؟	entity.n.01 EQU ? time.n.08 EQU now fashionable.a.03 AttributeOf -2 Time -1 Location +1 city.n.01 Name "پیرس"
+وہ زراعت کی تعلیم حاصل کر رہا ہے۔	male.n.02 time.n.08 EQU now study.v.02 Agent -2 Time -1 Theme +1 agriculture.n.02
+کیا آپ اور رینڈی ہمارے ساتھ شامل ہوں گے؟	time.n.08 TSU now person.n.01 EQU hearer entity.n.01 Sub -1 Sub +1 male.n.02 Name "رینڈی" join.v.03 Time -4 Theme -2 Co-Theme +1 person.n.01 Sub speaker
+وہ ہمیشہ جھگڑتے رہتے ہیں۔	NEGATION <1 time.n.08 NEGATION <1 person.n.01 time.n.08 EQU now quarrel.v.01 Agent -2 Time -1
+مہاتما گاندھی کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "مہاتما گاندھی" die.v.01 Manner -3 Time -2 Patient -1
+کسی نے ٹام کا گٹار چرا لیا۔	person.n.01 steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "ٹام" guitar.n.01 User -1
+میں کیوبا کا سگار پی رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now smoke.v.01 Agent -2 Time -1 Patient +2 country.n.02 Name "کیوبا" cigar.n.01 Source -1
+تمہاری مادری زبان کیا ہے؟	entity.n.01 EQU ? be.v.03 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer mother_tongue.n.01 Creator -1
+تم لوگ کیا پی رہے ہو؟	entity.n.01 EQU ? time.n.08 EQU now person.n.01 EQU hearer guy.n.01 SubOf -1 drink.v.01 Patient -4 Time -3 Agent -1
+میں مک ڈونلڈز کے لیے کام کر رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now work.v.02 Agent -2 Time -1 Co-Agent +1 organization.n.01 Name "McDonald's"
+ماؤنٹ میک کینلے کتنا اونچا ہے؟	tall.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now mountain.n.01 Name "Mount McKinley"
+باربی کا پورا نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now female.n.02 Name "باربی" full.a.03 AttributeOf +1 name.n.01 Bearer -2
+کسی نے پولیس کو بلایا۔	person.n.01 call.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now police.n.01
+فرمی لیب نے لینکس ایل ٹی ایس بنایا۔	company.n.01 Name "FermiLab" create.v.06 Agent -1 Time +1 Result +2 time.n.08 TPR now software.n.01 Name "Linux LTS"
+اوسامو دزائی نے خود کو مار ڈالا۔	male.n.02 Name "اوسامو دزائی" kill.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now male.n.02 ANA -3
+اسکیٹ بورڈنگ خطرناک ہے۔	skateboard.v.01 time.n.08 EQU now dangerous.a.01 AttributeOf -2 Time -1
+آپ کا وزن تھوڑا زیادہ ہے۔	person.n.01 EQU hearer time.n.08 EQU now a_little.r.01 overweight.a.01 AttributeOf -3 Time -2 Degree -1
+یہ اس سے بہت بڑا ہے۔	entity.n.01 time.n.08 EQU now measure.n.02 Quantity + big.a.01 AttributeOf -3 Time -2 Degree +1 more.r.01 Theme -4 Value -2 Co-Theme +1 entity.n.01
+مجھے ونیلا آئس کریم چاہیے	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now vanilla_ice_cream.n.01
+میگما کس چیز پر مشتمل ہے؟	entity.n.01 EQU ? time.n.08 EQU now magma.n.01 consist.v.04 Attribute -3 Time -2 Theme -1
+میں جام کے لیے شہد کا متبادل دیتا ہوں۔	person.n.01 EQU speaker substitute.v.01 Agent -1 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now honey.n.01 jam.n.01
+کیا آپ نے یہ خود پکایا ہے؟	time.n.08 TPR now person.n.01 EQU hearer cook.v.02 Time -2 Agent -1 Patient +1 entity.n.01 person.n.01 EQU -3
+میری نے اپنی لپ اسٹک کھول دی۔	female.n.02 Name "میری" unscrew.v.01 Agent -1 Time +1 Patient +3 time.n.08 TPR now female.n.02 ANA -3 lipstick.n.01 User -1
+لمبے بال فیشن سے باہر ہیں۔	long.a.02 Value + hair.n.01 Attribute -1 time.n.08 EQU now unfashionable.a.01 AttributeOf -2 Time -1
+کیا کچھ اور ہوا ہے؟	entity.n.01 NEQ +1 entity.n.01 happen.v.01 Theme -2 Time +1 time.n.08 TPR now
+اب سب کچھ ٹھیک ہے۔	NEGATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now all_right.a.01 AttributeOf -2 Time -1 Time +1 time.n.08 EQU now
+وہ شدید سردی میں مبتلا تھا۔	male.n.02 suffer.v.02 Experiencer -1 Time +1 Stimulus +3 time.n.08 TPR now bad.a.02 AttributeOf +1 cold.n.01
+کیا آپ کو سفید چاکلیٹ پسند ہے؟	time.n.08 EQU now person.n.01 EQU hearer like.v.02 Time -2 Experiencer -1 Stimulus +1 white_chocolate.n.01
+کیک کی قیمت کتنی ہے؟	measure.n.02 Unit ? Quantity ? time.n.08 EQU now cake.n.03 cost.v.01 Value -3 Time -2 Theme -1
+کیا آپ نے واپسی کا ٹکٹ خریدا ہے؟	time.n.08 TPR now person.n.01 EQU hearer buy.v.01 Time -2 Agent -1 Theme +1 return_ticket.n.01
+آپ کون سا براؤزر استعمال کر رہے ہیں؟	browser.n.02 EQU ? time.n.08 EQU now person.n.01 EQU hearer use.v.01 Theme -3 Time -2 Agent -1
+مسٹر سمتھ مجھے انگریزی سکھاتے ہیں۔	mr.n.01 male.n.02 Name "سمتھ" Title -1 teach.v.01 Agent -1 Time +1 Recipient +2 Topic +3 time.n.08 EQU now person.n.01 EQU speaker english.n.01
+یہ عمارت ہماری ہے۔	building.n.01 belong.v.01 Theme -1 Time +1 Pivot +2 time.n.08 EQU now person.n.01 Sub speaker
+یہ آسان ہے، ہے نا؟	entity.n.01 time.n.08 EQU now convenient.a.01 AttributeOf -2 Time -1
+آپ ترکی میں کہاں رہتے ہیں؟	location.n.01 Name ? PartOf +1 country.n.02 Name "ترکی" time.n.08 EQU now person.n.01 EQU hearer live.v.01 Location -4 Time -2 Theme -1
+اس کی سانسیں شراب سے بھر رہی ہیں۔	person.n.01 breath.n.02 Creator -1 reek.v.02 Location -1 Time +1 Theme +2 time.n.08 EQU now alcohol.n.01
+وہ کیوبیک میں فرانسیسی بولتے ہیں۔	person.n.01 speak.v.03 Agent -1 Time +1 Theme +2 Location +3 time.n.08 EQU now french.n.01 state.n.01 Name "کیوبیک"
+ہم کسی سے ڈرنے والے نہیں ہیں۔	person.n.01 Sub speaker NEGATION <1 time.n.08 EQU now scared.a.01 Experiencer -2 Time -1 Stimulus +1 person.n.01
+میں 1968 میں ٹوکیو میں پیدا ہوا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 Time +2 city.n.01 Name "ٹوکیو" time.n.08 YearOfCentury 1968
+آٹھ رینجرز اہلکاروں کی جانچ پڑتال کی گئی۔	quantity.n.01 EQU 8 person.n.01 Quantity -1 Role +1 ranger.n.02 time.n.08 TPR now examine.v.03 Theme -3 Time -1
+ماؤنٹ فوجی غیر معمولی ہے۔	mountain.n.01 Name "Mount فوجی" time.n.08 EQU now extraordinary.a.01 AttributeOf -2 Time -1
+اس کے ڈھیلے سب جھریاں ہیں۔	person.n.01 slacks.n.01 User -1 NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 time.n.08 EQU now wrinkled.a.02 AttributeOf -2 Time -1
+میں اب والی بال کھیل رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now play.v.01 Agent -2 Time -1 Theme +1 Time +2 volleyball.n.01 time.n.08 EQU now
+کیا یہ شراب ارجنٹائن کی ہے؟	be.v.03 Time +1 Theme +2 Source +3 time.n.08 EQU now wine.n.01 country.n.02 Name "ارجنٹائن"
+کیا کسی نے اس سے بات کی ہے؟	person.n.01 speak.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now person.n.01
+تم گھبرا گئے، ہے نا؟	person.n.01 EQU hearer freak_out.v.01 Experiencer -1 Time +1 time.n.08 TPR now
+مجھے ایک ہارنیٹ نے ڈنک مارا ہے۔	person.n.01 EQU speaker time.n.08 TPR now sting.v.02 Patient -2 Time -1 Agent +1 hornet.n.01
+وہ آدمی مکمل طور پر پاگل ہے!	guy.n.01 time.n.08 EQU now completely.r.01 nuts.a.01 AttributeOf -3 Time -2 Degree -1
+لیکن ہم اسے نہیں سمجھ سکتے۔	person.n.01 Sub speaker NEGATION <1 POSSIBILITY <1 understand.v.01 Experiencer -1 Stimulus +1 person.n.01
+بچوں کو نزلہ زکام آسانی سے ہوتا ہے۔	child.n.01 catch.v.19 Recipient -1 Time +1 Theme +2 Manner +3 time.n.08 EQU now cold.n.01 easily.r.01
+ڈبلن میرا پسندیدہ شہر ہے۔	city.n.01 Name "ڈبلن" be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker favourite.a.02 Experiencer -1 Stimulus +1 town.n.01
+وہ کتنا مغرور آدمی ہے!	haughty.a.01 AttributeOf +1 person.n.01 Role +1 fellow.n.01 male.n.02 be.v.01 Co-Theme -3 Theme -1 Time +1 time.n.08 EQU now
+کیا کینیڈا میں انگریزی بولی جاتی ہے؟	time.n.08 EQU now english.n.01 speak.v.03 Time -2 Theme -1 Location +1 country.n.02 Name "کینیڈا"
+میں کافی نہیں پیتا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now drink.v.01 Agent -2 Time -1 Patient +1 coffee.n.01
+آپ نے کون سے کیڑے کھائے ہیں؟	insect.n.01 EQU ? person.n.01 EQU hearer eat.v.01 Patient -2 Agent -1 Time +1 time.n.08 TPR now
+انڈیانا کا کوچ کون ہے؟	person.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 coach.n.01 Of +1 team.n.01 Name "Indiana"
+تین بلب جل چکے ہیں۔	quantity.n.01 EQU 3 bulb.n.02 Quantity -1 burn_out.v.01 Patient -1 Time +1 time.n.08 TPR now
+اس نے جلدی روسی زبان حاصل کی۔	person.n.01 acquire.v.05 Agent -1 Time +1 Theme +2 Manner +3 time.n.08 TPR now russian.n.02 quickly.r.02
+میں جانتا ہوں کہ آپ کی ڈائری کس نے چرائی ہے۔	person.n.01 EQU speaker know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 Name ? steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU hearer diary.n.02 User -1
+جوآن کی موت تپ دق سے ہوئی۔	male.n.02 Name "جوآن" die.v.01 Patient -1 Time +1 Causer +2 time.n.08 TPR now tuberculosis.n.01
+میری دو ماہ کی حاملہ ہے۔	female.n.02 Name "میری" time.n.08 EQU now quantity.n.01 EQU 2 month.n.02 Quantity -1 pregnant.a.01 AttributeOf -4 Time -3 Duration -1
+آپ نے کتنے سیب خریدے؟	apple.n.01 Quantity ? time.n.08 TPR now person.n.01 EQU hearer buy.v.01 Theme -3 Time -2 Agent -1
+کیا کسی نے کچھ سنا؟	time.n.08 TPR now person.n.01 hear.v.01 Time -2 Experiencer -1 Stimulus +1 entity.n.01
+جیکی رابنسن کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "جیکی رابنسن" die.v.01 Manner -3 Time -2 Patient -1
+پیٹر کا کاٹیج بہت بڑا ہے۔	male.n.02 Name "پیٹر" cottage.n.01 User -1 time.n.08 EQU now very.r.01 big.a.01 Time -2 Degree -1 Value + AttributeOf -3
+میں نے ناشتے سے پہلے غسل کیا۔	person.n.01 EQU speaker shower.v.03 Agent -1 Time +1 Time +2 time.n.08 TPR now time.n.08 EPR +1 breakfast.n.01
+ٹام کے پاس کوئی رازداری نہیں تھی۔	male.n.02 Name "ٹام" NEGATION <1 time.n.08 TPR now have.v.02 Pivot -2 Time -1 Theme +1 privacy.n.01
+ٹام نے سب سے ہاتھ ملایا۔	male.n.02 Name "ٹام" NEGATION <1 person.n.01 NEGATION <1 shake.v.09 Agent -2 Time +1 Patient +2 time.n.08 TPR now hand.n.01 PartOf -3
+اس نے وہ چیری کا درخت کاٹ دیا۔	person.n.01 cut_down.v.06 Agent -1 Time +1 Patient +2 time.n.08 TPR now cherry_tree.n.01
+مسز تھامس نے ہمیں تاریخ پڑھائی۔	mrs.n.01 female.n.02 Name "تھامس" Title -1 teach.v.01 Agent -1 Time +1 Recipient +2 Topic +3 time.n.08 TPR now person.n.01 Sub speaker history.n.03
+ماؤنٹ فوجی 3776 میٹر بلند ہے۔	mountain.n.01 Name "ماؤنٹ فوجی" time.n.08 EQU now quantity.n.01 EQU 3776 meter.n.01 Quantity -1 high.a.02 Theme -4 Time -3 Value -1
+آپ کا پسندیدہ کارٹون کون سا ہے؟	entity.n.01 EQU ? be.v.03 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 cartoon.n.01
+ٹام نے اپنے دفتر کا دروازہ کھولا۔	male.n.02 Name "ٹام" unlock.v.01 Agent -1 Time +1 Patient +4 time.n.08 TPR now male.n.02 ANA -3 office.n.01 door.n.01 User -2 PartOf -1
+ٹام نے کاؤ بوائے ٹوپی پہن رکھی تھی۔	male.n.02 Name "ٹام" time.n.08 TPR now wear.v.01 Agent -2 Time -1 Theme +1 cowboy_hat.n.01
+اس ہال میں 2000 افراد موجود ہیں۔	hall.n.03 hold.v.12 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 2000 person.n.01 Quantity -1
+چیک مارکیٹیں گر گئی ہیں۔	country.n.02 Name "چیک ریپبلک" market.n.01 Location -1 collapse.v.01 Patient -1 Time +1 time.n.08 TPR now
+آپ سلائی مشینیں جمع کرتے ہیں۔	person.n.01 EQU hearer assemble.v.01 Agent -1 Time +1 Product +2 time.n.08 EQU now sewing_machine.n.01
+چارلس بوکوسکی کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "چارلس بوکوسکی" die.v.01 Manner -3 Time -2 Patient -1
+گولڈن ریٹریور چل رہا ہے۔	golden_retriever.n.01 time.n.08 EQU now run.v.01 Theme -2 Time -1
+آپ کی کامیابی میری حسد کو بڑھا دیتی ہے۔	person.n.01 EQU hearer success.n.03 Creator -1 excite.v.01 Stimulus -1 Time +1 Experiencer +3 time.n.08 EQU now person.n.01 EQU speaker envy.n.01 Creator -1
+بارش ہونے کی صورت میں میں نہیں جاؤں گا۔	CONDITION <1 event.v.01 Participant i entity.n.01 rain.v.01 EQU -1 Time +1 time.n.08 TSU now terra_incognita.n.03 EQU i EQU -2 CONSEQUENCE <1 person.n.01 EQU speaker NEGATION <1 time.n.08 TSU now go.v.01 Theme -2 Time -1
+کیا یہ محب وطن بھول گئے ہیں؟	time.n.08 EQU now person.n.01 Role +1 patriot.n.01 forgotten.a.01 Time -3 AttributeOf -2
+گولڈا میر کہاں پروان چڑھی؟	location.n.01 Name ? time.n.08 TPR now female.n.02 Name "گولڈا میر" grow_up.v.01 Location -3 Time -2 Patient -1
+میں نے لندن سے کتاب منگوائی۔	person.n.01 EQU speaker order.v.02 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now book.n.02 city.n.01 Name "لندن"
+نپولیئن کو 1804 میں تاج پہنایا گیا۔	male.n.02 Name "نپولیئن" time.n.08 TPR now crown.v.01 Theme -2 Time -1 Time +1 time.n.08 YearOfCentury 1804
+میں اپنے گیلے کپڑے جھاڑ رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now wring.v.04 Agent -2 Time -1 Patient +3 person.n.01 EQU speaker wet.a.01 AttributeOf +1 clothes.n.01 User -2
+آپ کس مضمون میں ناقص ہیں؟	subject.n.03 EQU ? time.n.08 EQU now person.n.01 EQU hearer poor.a.04 Theme -3 Time -2 AttributeOf -1
+میں جانتا ہوں کہ وہ خوبصورت ہے۔	male.n.02 EQU speaker know.v.01 Proposition >1 Experiencer -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 time.n.08 EQU now beautiful.a.01 AttributeOf -2 Time -1
+ایک بڑا طوفان قریب آ رہا ہے۔	big.a.01 Value + typhoon.n.01 Attribute -1 time.n.08 EQU now approach.v.04 Theme -2 Time -1
+میں نے کبھی شطرنج میں سبقت حاصل نہیں کی۔	person.n.01 EQU speaker NEGATION <1 excel.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now chess.n.02
+وہ کل ٹوکیو سے آیا تھا۔	male.n.02 come.v.02 Theme -1 Time +1 Source +2 Time +3 time.n.08 TPR now city.n.01 Name "ٹوکیو" time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1
+پارکنگ میٹر کہاں ہیں؟	location.n.01 EQU ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now parking_meter.n.01
+وہ کتنے پیارے کتے ہیں!	lovely.a.01 AttributeOf +1 puppy.n.01 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+میز کے نیچے لڑھکا ہوا سکہ۔	coin.n.01 roll.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now location.n.01 SZN +1 desk.n.01
+میں 22 مارچ 1962 کو پیدا ہوا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 MonthOfYear 3 EQU +1 time.n.08 DayOfMonth 22 EQU +1 time.n.08 YearOfCentury 1962
+اکارڈو 24 کاپریسز پر مشتمل ہے۔	male.n.02 Name "اکارڈو" compose.v.02 Agent -1 Time +1 Result +3 time.n.08 TPR now quantity.n.01 EQU 24 capriccio.n.01 Quantity -1
+مجھے یقین ہے کہ اس کی عمر 40 سال ہے۔	person.n.01 EQU speaker believe.v.02 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 person.n.01 time.n.08 EQU now quantity.n.01 EQU 40 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+میں 23 مئی کو پہنچوں گا۔	person.n.01 EQU speaker time.n.08 TSU now arrive.v.01 Theme -2 Time -1 Time +1 time.n.08 DayOfMonth 23 MonthOfYear 5 time.n.08 EQU -1
+چند آدمی کرکٹ کھیل رہے ہیں۔	man.n.01 Quantity - time.n.08 EQU now play.v.01 Agent -2 Time -1 Theme +1 cricket.n.02
+آپ چیری کا جوس پی رہے ہیں۔	person.n.01 EQU hearer time.n.08 EQU now drink.v.01 Agent -2 Time -1 Patient +2 cherry.n.03 juice.n.01 MadeOf -1
+ٹام نے ایک سیاسی جماعت میں شمولیت اختیار کی۔	male.n.02 Name "ٹام" join.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now political_party.n.01
+ایک میکسیکن نے اسے ہسپانوی زبان سکھائی۔	person.n.01 Source +1 country.n.02 Name "میکسیکو" teach.v.01 Agent -2 Time +1 Recipient +2 Topic +3 time.n.08 TPR now person.n.01 spanish.n.01
+ٹینس میرا پسندیدہ کھیل ہے۔	tennis.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker preferred.a.02 Experiencer -1 Stimulus +1 sport.n.01
+میں تمہارا موبائل چوری کر لوں گا!	person.n.01 EQU speaker time.n.08 TSU now steal.v.01 Agent -2 Time -1 Theme +2 person.n.01 EQU hearer mobile_phone.n.01 User -1
+میں نے دو بار خودکشی کی کوشش کی ہے۔	person.n.01 EQU speaker attempt.v.01 Agent -1 Time +1 Theme +2 Frequency +3 time.n.08 TPR now suicide.n.01 time.n.01 Quantity 2
+بل کو چور نے قتل کر دیا۔	male.n.02 Name "بل" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Agent +1 person.n.01 Role +1 burglar.n.01
+آپ کا کتا کس سال پیدا ہوا؟	time.n.08 YearOfCentury ? time.n.08 TPR now person.n.01 EQU hearer dog.n.01 Owner -1 bear.v.02 Time -4 Time -3 Patient -1
+ٹام روانی سے جاپانی بولتا ہے۔	male.n.02 Name "ٹام" speak.v.03 Agent -1 Time +1 Theme +2 Manner +3 time.n.08 EQU now japanese.n.02 fluently.r.01
+یہ پھول کتنا خوبصورت ہے!	beautiful.a.01 AttributeOf +1 Time +2 flower.n.01 time.n.08 EQU now
+اگر تم اسے کھاؤ گے تو مر جاؤ گے۔	person.n.01 EQU hearer eat.v.01 Agent -1 Time +1 Patient +2 time.n.08 EQU now entity.n.01 CONSEQUENCE <1 person.n.01 EQU hearer time.n.08 TSU now die.v.01 Patient -2 Time -1
+مجھے اپنا ایل اے ٹرپ منسوخ کر دینا چاہیے۔	person.n.01 EQU speaker NECESSITY <1 cancel.v.01 Agent -1 Theme +3 person.n.01 EQU speaker city.n.01 Name "لاس انجلس" trip.n.01 User -2 Destination -1
+ویٹس گیرو لائٹس کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "ویٹس گیرو لائٹس" die.v.01 Manner -3 Time -2 Patient -1
+کیا آپ کی مادری زبان چینی ہے؟	be.v.02 Time +1 Theme +3 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer mother_tongue.n.01 Creator -1 chinese.n.01
+فلائٹ 226 10:30 پر ٹیک آف کرتی ہے۔	flight.n.09 Name "226" take_off.v.03 Theme -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 10:30
+اس نے مجھے ایک نئی لغت خریدی۔	person.n.01 buy.v.01 Agent -1 Time +1 Beneficiary +2 Theme +4 time.n.08 TPR now person.n.01 EQU speaker new.a.05 AttributeOf +1 dictionary.n.01
+کون سایوں میں چھپ رہا ہے؟	person.n.01 Name ? time.n.08 EQU now lurk.v.01 Theme -2 Time -1 Location +1 shadow.n.02
+100 کا مربع جڑ کیا ہے؟	entity.n.01 EQU ? be.v.06 Theme -1 Co-Theme +1 square_root.n.01 Of +1 number.n.02 EQU 100
+میری گھڑی پانچ منٹ تیز ہے۔	person.n.01 EQU speaker watch.n.01 User -1 time.n.08 EQU now quantity.n.01 EQU 5 minute.n.01 Quantity -1 fast.a.02 Theme -4 Time -3 Value -1
+آپ کس قسم کا تحفہ چاہتے ہیں؟	entity.n.01 InstanceOf +1 EQU ? gift.n.01 time.n.08 EQU now person.n.01 EQU hearer want.v.01 Theme -4 Time -2 Pivot -1
+سفید شراب کے 3 چمچ شامل کریں۔	person.n.01 EQU hearer add.v.01 Agent -1 Patient +3 quantity.n.01 EQU 3 spoonful.n.01 Quantity -1 entity.n.01 Sub -1 Sub +1 white_wine.n.01
+میں ایک درجن کیلے خریدنا چاہتا ہوں۔	person.n.01 EQU speaker want.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now buy.v.01 Agent -3 Theme +2 quantity.n.01 EQU 6 banana.n.01 Quantity -1
+ڈاکٹر سوس کا اصل نام کیا تھا؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 TPR now doctor.n.04 male.n.02 Name "سوس" Title -1 real.a.01 AttributeOf +1 name.n.01 Bearer -2
+تم لوگ بالکل بے خبر ہو۔	person.n.01 EQU hearer guy.n.01 SubOf -1 time.n.08 EQU now totally.r.01 clueless.a.01 AttributeOf -3 Time -2 Degree -1
+کیا تم اس عورت کے ساتھ سوتے تھے؟	time.n.08 TPR now person.n.01 EQU hearer sleep_with.v.01 Time -2 Agent -1 Co-Agent +1 woman.n.01
+"حیرت انگیز" ایک بہت زیادہ استعمال شدہ لفظ ہے۔	word.n.01 EQU "Awesome" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now overuse.v.01 Theme +1 word.n.01
+ہندوستان ایک ترقی پذیر ملک ہے۔	state.n.04 Name "بھارت" EQU +1 developing_country.n.01
+ٹرین صبح 7:15 پر روانہ ہوتی ہے۔	train.n.01 depart.v.01 Theme -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 07:15
+مجھے افسوس ہے کہ میں نے آپ کو غلط سمجھا۔	person.n.01 EQU speaker time.n.08 EQU now sorry.a.01 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 EQU speaker misunderstand.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 EQU hearer
+میری فلائٹ دوپہر 2:30 بجے پہنچی۔	person.n.01 EQU speaker flight.n.02 User -1 arrive.v.01 Theme -1 Time +1 Time +2 time.n.08 TPR now time.n.08 ClockTime 14:30
+سب نے اس کی بہادری کی تعریف کی۔	NEGATION <1 person.n.01 NEGATION <1 praise.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 heroism.n.01 Creator -1
+نینسی بہت پیاری ہے، ہے نا؟	NEGATION <1 NEGATION <1 female.n.02 Name "نینسی" time.n.08 EQU now very.r.01 cute.a.01 Time -2 Degree -1 Value + AttributeOf -3 NEGATION <2 NEGATION <1 very.r.01 cute.a.01 Degree -1 Value + Time +1 AttributeOf +2 time.n.08 EQU now female.n.02
+سکاٹ لینڈ کس براعظم میں ہے؟	continent.n.01 Name ? be.v.03 PartOf -1 Time +1 Theme +2 time.n.08 EQU now country.n.02 Name "سکاٹ لینڈ"
+"گلاگ آرکیپیلاگو" کس نے لکھا؟	person.n.01 Name ? write.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01 Name "Gulag Archipelago"
+عینک کی قیمت کتنی تھی؟	measure.n.02 Unit ? Quantity ? time.n.08 TPR now glasses.n.03 cost.v.01 Value -3 Time -2 Theme -1
+میں نے ایک قلم خریدا، لیکن میں نے اسے کھو دیا۔	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now pen.n.01 CONTRAST <1 person.n.01 EQU speaker lose.v.04 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+آپ کون سے ساز بجاتے ہیں؟	instrument.n.06 EQU ? time.n.08 EQU now person.n.01 EQU hearer play.v.07 Theme -3 Time -2 Agent -1
+یہ آپ کا منصوبہ تھا، ہے نہ؟	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now person.n.01 EQU hearer plan.n.01 User -1
+انٹونیا کوئیلو نویلو کون ہے؟	person.n.01 EQU ? be.v.08 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now female.n.02 Name "انٹونیا کوئیلو نویلو"
+آپ کس ملک میں پیدا ہوئے؟	country.n.02 Name ? time.n.08 TPR now person.n.01 EQU hearer bear.v.02 Location -3 Time -2 Patient -1
+میں اس کا ایک ہزار ڈالر کا مقروض تھا۔	person.n.01 EQU speaker owe.v.03 Agent -1 Time +1 Beneficiary +2 Theme +4 time.n.08 TPR now person.n.01 quantity.n.01 EQU 1000 dollar.n.01 Quantity -1
+مجھے کسی دوا سے الرجی ہے۔	person.n.01 EQU speaker time.n.08 EQU now allergic.a.02 Experiencer -2 Time -1 Stimulus +1 medicine.n.02
+ایڈیسن نے لائٹ بلب ایجاد کیا۔	male.n.02 Name "ایڈیسن" invent.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now lightbulb.n.01
+ریمسما کے اغوا کی خبر	event.v.01 Participant +1 news.n.02 Topic +2 male.n.02 Name "ریمسما" kidnapping.n.01 Theme -1
+آپ کس قسم کی کتاب چاہتے ہیں؟	entity.n.01 InstanceOf +1 EQU ? book.n.01 time.n.08 EQU now person.n.01 EQU hearer want.v.01 Theme -4 Time -2 Pivot -1
+آپ ٹھیک ہیں. میں ٹیکسی سے جاؤں گا۔	person.n.01 EQU hearer time.n.08 EQU now right.a.05 AttributeOf -2 Time -1 CONTINUATION <1 person.n.01 EQU speaker time.n.08 TSU now go.v.01 Theme -2 Time -1 Instrument +1 taxi.n.01
+میں نے آپ کا آخری نام نہیں سمجھا۔	person.n.01 EQU speaker NEGATION <1 time.n.08 TPR now catch.v.21 Experiencer -2 Time -1 Stimulus +2 person.n.01 EQU hearer last_name.n.01 Bearer -1
+یاسر عرفات عباس کی جگہ لے گئے۔	male.n.02 Name "یاسر عرفات" succeed.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "عباس"
+براہ کرم، اپنی سیٹ بیلٹ باندھ لیں۔	person.n.01 EQU hearer fasten.v.01 Agent -1 Patient +2 Manner +3 person.n.01 EQU hearer seat_belt.n.01 User -1 please.r.01
+جان کوئنسی ایڈمز کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "جان کوئنسی ایڈمز" die.v.01 Manner -3 Time -2 Patient -1
+کیا آج آپ نے دودھ پیا ہے؟	time.n.08 TPR now person.n.01 EQU hearer drink.v.01 Time -2 Agent -1 Patient +1 Time +2 milk.n.01 time.n.08 TIN +1 day.n.03 TCT now
+وہ درمیانی عمر کی موٹی عورت ہے۔	female.n.02 be.v.01 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now middle-aged.a.01 AttributeOf +2 fat.a.01 AttributeOf +1 woman.n.01
+لنکن واشنگٹن واپس آ گئے۔	male.n.02 Name "لنکن" return.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now city.n.01 Name "واشنگٹن"
+یوریکو ہیمیکوسا نے خودکشی کرلی۔	female.n.02 Name "یوریکو ہمیکوسا" kill.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now female.n.02 ANA -3
+یہ کس دہشت گرد گروہ نے کیا؟	terrorist_group.n.01 Name ? do.v.02 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01
+سٹٹگارٹ ہوائی اڈے میں بہتری آئی ہے۔	city.n.01 Name "اشٹوتگارٹ" airport.n.01 Location -1 improve.v.02 Patient -1 Time +1 time.n.08 TPR now
+آپ کا پسندیدہ فاسٹ فوڈ کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 fast_food.n.01
+کیا آپ کو اپنے آپ پر شرم نہیں آتی؟	NEGATION <1 time.n.08 EQU now person.n.01 EQU hearer ashamed.a.01 Time -2 Experiencer -1 Stimulus +1 person.n.01 EQU hearer
+ایمرجنسی کی صورت میں 119 پر کال کریں۔	CONDITION <1 event.v.01 Participant +1 entity.n.01 EQU +1 emergency.n.01 CONSEQUENCE <1 person.n.01 EQU hearer call.v.03 Agent -1 Theme +1 phone_number.n.01 Name "119"
+ڈرائیوروں کو سیٹ بیلٹ پہننا چاہیے۔	person.n.01 Role +1 driver.n.01 NECESSITY <1 wear.v.02 Agent -2 Theme +1 seat_belt.n.01
+کیا آپ اب بھی ٹام کے ساتھ محبت میں ہیں؟	time.n.08 EQU now person.n.01 EQU hearer in_love.a.01 Time -2 Experiencer -1 Stimulus +1 male.n.02 Name "ٹام"
+ہمیں ہر روز ایک ڈائری رکھنی چاہیے۔	person.n.01 Sub speaker NECESSITY <1 NEGATION <1 day.n.01 NEGATION <1 keep.v.08 Agent -2 Time -1 Theme +1 diary.n.01
+کرسٹو جرمن ریخسٹگ کو لپیٹ رہا ہے۔	male.n.02 Name "کرسٹو" wrap.v.03 Agent -1 Time +1 Theme +3 time.n.08 EQU now country.n.02 Name "جرمنی" house.n.01 Name "ریخسٹگ" Location -1
+میلوسووچ کا پہلا نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Co-Theme -1 Time +1 Theme +3 time.n.08 EQU now male.n.02 Name "میلوسووچ" first_name.n.01 Bearer -1
+اورور پاکیس نے شبرول سے شادی کی۔	female.n.02 Name "اورور پاکیس" marry.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "شبرول"
+آج کل کسی کو بھی کتابیں مل سکتی ہیں۔	NEGATION <1 person.n.01 NEGATION <1 POSSIBILITY <1 time.n.08 EQU now get.v.01 Pivot -2 Time -1 Theme +1 book.n.02
+یہ کتنا خوبصورت طلوع آفتاب ہے!	beautiful.a.01 AttributeOf +1 sunrise.n.01 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+وہ 28 جولائی 1888 کو پیدا ہوئے۔	male.n.02 time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 MonthOfYear 7 EQU +1 time.n.08 DayOfMonth 28 time.n.08 YearOfCentury 1888 EQU -1
+میں نے یہ ٹوپی 2000 ین میں خریدی ہے۔	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +2 Asset +4 time.n.08 TPR now hat.n.01 quantity.n.01 EQU 2000 yen.n.02 Quantity -1
+سفر ہمیں کہاں لے جا رہا ہے؟	location.n.01 Name ? time.n.08 EQU now journey.n.01 take.v.27 Location -3 Time -2 Causer -1 Theme +1 person.n.01 Sub speaker
+کچھ لوگ پاجامہ نہیں پہنتے۔	person.n.01 NEGATION <1 time.n.08 EQU now wear.v.01 Agent -2 Time -1 Theme +1 pajama.n.02
+یہ ناقابل یقین تھا، ہے نا؟	entity.n.01 time.n.08 TPR now incredible.a.01 AttributeOf -2 Time -1
+کوہل نے اقتصادی اقدامات کا اعلان کیا۔	male.n.02 Name "کوہل" announce.v.02 Agent -1 Time +1 Result +3 time.n.08 TPR now economy.n.01 measure.n.01 Theme -1
+ہیدیو نوگوچی ایک عظیم آدمی تھا۔	male.n.02 Name "ہیدیو نوگوچی" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now great.a.02 AttributeOf +1 man.n.01
+اٹلی نے 1935 میں ایتھوپیا پر حملہ کیا۔	state.n.04 Name "اٹلی" invade.v.01 Agent -1 Time +1 Theme +2 Time +3 time.n.08 TPR now country.n.02 Name "ایتھوپیا" time.n.08 YearOfCentury 1935
+روزانہ ٹریفک حادثات ہوتے رہتے ہیں۔	NEGATION <1 day.n.01 NEGATION <1 traffic.n.01 accident.n.01 Causer -1 happen.v.02 Time -3 Theme -1 Time +1 time.n.08 EQU now
+فرڈینینڈ مارکوس کے بعد کون ہوا؟	person.n.01 Name ? succeed.v.02 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now male.n.02 Name "فرڈینینڈ مارکوس"
+کابینہ کی تشکیل مشکل ہے۔	form.v.01 Result +1 cabinet.n.02 time.n.08 EQU now difficult.a.01 AttributeOf -3 Time -1
+گیئرمو اورٹیز کہاں پیدا ہوا تھا؟	location.n.01 Name ? time.n.08 TPR now male.n.02 Name "گیئرمو اورٹیز" bear.v.02 Location -3 Time -2 Patient -1
+آپ کی کنیت کا تلفظ کیسے ہوتا ہے؟	manner.n.01 EQU ? time.n.08 EQU now person.n.01 EQU hearer surname.n.01 Bearer -1 pronounce.v.01 Manner -4 Time -3 Theme -1
+گوٹی پر بھتہ خوری کا الزام تھا۔	male.n.02 Name "گوٹی" time.n.08 TPR now accuse.v.01 Theme -2 Time -1 Attribute +1 extortion.n.03
+ٹام بہت ملنسار نہیں ہے، ہے نا؟	male.n.02 Name "ٹام" NEGATION <1 very.r.01 sociable.a.01 Degree -1 Value + AttributeOf -2 Time +1 time.n.08 EQU now
+شاگرد پیٹر کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now disciple.n.01 male.n.02 Name "پیٹر" Role -1 die.v.01 Manner -4 Time -3 Patient -1
+مہاتما گاندھی نے کہاں تعلیم حاصل کی؟	location.n.01 Name ? time.n.08 TPR now male.n.02 Name "مہاتما گاندھی" study.v.02 Location -3 Time -2 Agent -1
+میں نے سب کچھ خود بخود کیا۔	person.n.01 EQU speaker NEGATION <1 entity.n.01 NEGATION <1 do.v.02 Agent -2 Theme -1 Time +1 Manner +2 time.n.08 TPR now automatically.r.02
+دوسرے لفظوں میں اس نے ہمیں دھوکہ دیا۔	person.n.01 betray.v.05 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 Sub speaker
+سام ایک فلسفی ہے، ہے نا؟	male.n.02 Name "سام" be.v.08 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 philosopher.n.01
+نیننا فریلون کہاں رہتی ہے؟	location.n.01 Name ? time.n.08 EQU now female.n.02 Name "نیننا فریلون" live.v.01 Location -3 Time -2 Theme -1
+کچھ عجیب ہو رہا ہے۔	entity.n.01 Attribute +1 strange.a.01 time.n.08 EQU now happen.v.01 Theme -3 Time -1
+میں کلاسٹروفوبیا کا شکار ہوں گا۔	person.n.01 EQU speaker time.n.08 TSU now suffer.v.02 Experiencer -2 Time -1 Stimulus +1 claustrophobia.n.01
+ٹام کون سے آلات بجاتا ہے؟	instrument.n.06 EQU ? time.n.08 EQU now male.n.02 Name "ٹام" play.v.07 Theme -3 Time -2 Agent -1
+ولکنز نے 1987 میں میلان چھوڑ دیا۔	male.n.02 Name "ولکنز" depart.v.01 Theme -1 Time +1 Source +2 Time +3 time.n.08 TPR now city.n.01 Name "ملان" time.n.08 YearOfCentury 1987
+ہم نے ارجنٹائن سے گوشت درآمد کیا۔	person.n.01 Sub speaker import.v.01 Agent -1 Theme +1 Source +2 meat.n.01 country.n.02 Name "ارجنٹائن"
+رومانیہ نے عراق میں 730 فوجی بھیجے۔	state.n.04 Name "رومانیا" send.v.01 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now quantity.n.01 EQU 730 troop.n.01 Quantity -1 country.n.02 Name "عراق"
+گریس نے ولیم سے اسکول میں ملاقات کی ہے۔	female.n.02 Name "گریس" meet.v.08 Agent -1 Time +1 Co-Agent +2 Location +3 time.n.08 TPR now male.n.02 Name "ولیم" school.n.02
+مجھے ڈر ہے کہ تم نے مجھے غلط سمجھا۔	person.n.01 EQU speaker time.n.08 EQU now afraid.a.02 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 EQU hearer misunderstand.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 EQU speaker
+انا پولٹکوسکایا کو قتل کر دیا گیا تھا۔	female.n.02 Name "انا پولٹکوسکایا" time.n.08 TPR now murder.v.01 Patient -2 Time -1
+جولائیس ارونگ کے بیٹے کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now male.n.02 Name "جولائیس ارونگ" person.n.01 Role +1 son.n.01 Of -2 die.n.01 Manner -5 Time -4 Patient -2
+آسٹریلیا میں انگریزی بولی جاتی ہے۔	country.n.02 Name "آسٹریلیا" english.n.01 time.n.08 EQU now speak.v.03 Location -3 Theme -2 Time -1
+ٹام کس قسم کی کار چلاتا ہے؟	entity.n.01 InstanceOf +1 EQU ? car.n.01 time.n.08 EQU now male.n.02 Name "ٹام" drive.v.01 Theme -4 Time -2 Agent -1
+میں 14 فروری 1960 کو پیدا ہوا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 MonthOfYear 2 EQU +1 time.n.08 DayOfMonth 14 time.n.08 YearOfCentury 1960 EQU -1
+ٹام فن تعمیر میں اہم ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now major.v.01 Agent -2 Time -1 Theme +1 architecture.n.02
+آئیے بیس شیش کباب آرڈر کرتے ہیں!	time.n.08 TSU now person.n.01 EQU speaker order.v.02 Time -2 Agent -1 Theme +2 quantity.n.01 EQU 20 shish_kebab.n.01 Quantity -1
+بہت سے شاگرد الجبرا میں ناقص ہیں۔	person.n.01 Quantity + Role +1 pupil.n.03 time.n.08 EQU now poor.a.04 AttributeOf -3 Time -1 Theme +1 algebra.n.01
+ٹام نے مریم کو رومال پیش کیا۔	male.n.02 Name "ٹام" offer.v.02 Agent -1 Time +1 Beneficiary +2 Theme +3 time.n.08 TPR now female.n.02 Name "میری" handkerchief.n.01
+الیگزینڈر برتھیئر کا انتقال 1799 میں ہوا۔	male.n.02 Name "الیگزینڈر برتھیئر" die.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1799
+کیا آپ کچھ سکیمبلڈ انڈے چاہتے ہیں؟	time.n.08 EQU now person.n.01 EQU hearer want.v.01 Time -2 Pivot -1 Time +1 Theme +2 time.n.08 EQU now scrambled_eggs.n.01
+ڈیوڈ روانی سے فرانسیسی بول سکتا ہے۔	male.n.02 Name "ڈیوڈ" POSSIBILITY <1 speak.v.03 Agent -1 Theme +1 Manner +2 french.n.01 fluently.r.01
+سینٹ پیٹرز اسکوائر پر ہجوم ہے۔	public_square.n.01 Name "سینٹ پیٹرز اسکوائر" time.n.08 EQU now crowded.a.01 AttributeOf -2 Time -1
+پہلی جنگ عظیم 1914 سے 1918 تک جاری رہی۔	war.n.01 Name "WW1" last.v.01 Theme -1 Time +1 Start +2 Finish +3 time.n.08 TPR now time.n.08 YearOfCentury 1914 time.n.08 YearOfCentury 1918
+مریم نے خود کو تولیہ میں لپیٹ لیا۔	female.n.02 Name "میری" wrap.v.01 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now female.n.02 ANA -3 towel.n.01
+گیارہ بجنے میں دس منٹ ہیں۔	time.n.08 EQU now EQU +1 time.n.08 ClockTime 10:50
+محترمہ یاماموتو ہمیں انگریزی پڑھاتی ہیں۔	ms.n.05 female.n.02 Name "یاماموتو" Title -1 teach.v.01 Agent -1 Time +1 Recipient +2 Theme +3 time.n.08 EQU now person.n.01 Sub speaker english.n.01
+کلاوا ہر چیز کو زیادہ آسان بنا دیتا ہے۔	male.n.02 Name "کلاوا" NEGATION <1 entity.n.01 NEGATION <1 oversimplify.v.01 Agent -2 Theme -1 Time +1 time.n.08 EQU now
+آپ کا وزن کتنے کلو گرام ہے؟	kilogram.n.01 Quantity ? time.n.08 EQU now person.n.01 EQU hearer weigh.v.01 Value -3 Time -2 Theme -1
+پیر سے جمعہ تک برفباری ہوئی۔	entity.n.01 snow.v.01 Time +1 EQU -1 Start +2 Finish +3 time.n.08 TPR now time.n.08 DayOfWeek monday time.n.08 DayOfWeek friday
+میں اپنی ناقص انگریزی پر شرمندہ ہوں۔	person.n.01 EQU speaker time.n.08 EQU now ashamed.a.01 Experiencer -2 Time -1 Stimulus +3 person.n.01 EQU speaker poor.a.05 AttributeOf +1 english.n.01 Creator -2
+کتوں کی وفاداری ہمیں متاثر کرتی ہے۔	dog.n.01 faithfulness.n.01 Creator -1 impress.v.02 Stimulus -1 Time +1 Experiencer +2 time.n.08 EQU now person.n.01 Sub speaker
+8 جنوری 1642 کو گلیلیو کا انتقال ہوا۔	male.n.02 Name "گلیلیو" die.v.01 Patient -1 Time +1 Time +3 time.n.08 TPR now time.n.08 MonthOfYear 1 EQU +1 time.n.08 DayOfMonth 8 EQU +1 time.n.08 YearOfCentury 1642
+زلزلہ خوفناک تھا!	fucking.a.01 AttributeOf +1 earthquake.n.01 time.n.08 TPR now terrible.a.01 AttributeOf -2 Time -1
+کیا اسے پارکنسن کی بیماری تھی؟	time.n.08 TPR now person.n.01 have.v.12 Time -2 Experiencer -1 Stimulus +1 parkinson's_disease.n.01
+کون سا دریا ڈبلن سے گزرتا ہے؟	river.n.01 Name ? run.v.06 Theme -1 Time +1 Path +2 time.n.08 EQU now city.n.01 Name "ڈبلن"
+تارو انگریزی بولتا ہے نا؟	male.n.02 Name "تارو" speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now english.n.01
+میرے دوستوں میں سے کوئی بھی کافی نہیں پیتا۔	NEGATION <1 person.n.01 SubOf +2 person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 User -2 drink.v.01 Agent -4 Time +1 Patient +2 time.n.08 EQU now coffee.n.01
+میں 2 جنوری 1968 کو پیدا ہوا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 MonthOfYear 1 EQU +1 time.n.08 DayOfMonth 2 time.n.08 YearOfCentury 1968 EQU -1
+کیا آپ مجھے ایک کلو بیر دے سکتے ہیں؟	POSSIBILITY <1 person.n.01 EQU hearer give.v.03 Agent -1 Recipient +1 Theme +3 person.n.01 EQU speaker kilo.n.01 entity.n.01 Sub -1 Sub +1 plum.n.02
+میں ایک پیشہ ور فوٹوگرافر ہوں۔	person.n.01 EQU speaker be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now professional.a.01 AttributeOf +1 person.n.01 Role +1 photographer.n.01
+کیا آپ کچھ بیکن اور انڈے چاہتے ہیں؟	time.n.08 EQU now person.n.01 EQU hearer want.v.01 Time -2 Pivot -1 Theme +1 bacon_and_eggs.n.02
+میں مقعد کی خارش میں مبتلا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now suffer.v.02 Experiencer -2 Time -1 Stimulus +2 anal.a.01 Theme +1 itching.n.01
+میرے ای میل میں کچھ گڑبڑ ہے۔	entity.n.01 time.n.08 EQU now wrong.a.04 AttributeOf -2 Time -1 Causer +2 person.n.01 EQU speaker e-mail.n.01 User -1
+جوڈی ایک اچھی گلوکارہ نہیں ہے، کیا وہ ہے؟	female.n.02 Name "جوڈی" NEGATION <1 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now good.a.08 AttributeOf +2 person.n.01 Role +1 singer.n.01
+مریم کو ٹائر استری سے مارا گیا۔	female.n.02 Name "میری" time.n.08 TPR now kill.v.01 Patient -2 Time -1 Instrument +1 tire_iron.n.01
+چونکہ یہ ضروری ہے، میں یہ کروں گا۔	entity.n.01 time.n.08 EQU now important.a.01 AttributeOf -2 Time -1 EXPLANATION <1 person.n.01 EQU speaker time.n.08 TSU now do.v.02 Agent -2 Time -1 Theme +1 entity.n.01
+ایملی پیپسی پر کوکا کولا کو ترجیح دیتی ہیں۔	female.n.02 Name "ایملی" prefer.v.01 Pivot -1 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now coca_cola.n.01 pepsi.n.01
+ڈبہ بند کھانا اسے دلچسپی نہیں دیتا۔	canned_food.n.01 NEGATION <1 time.n.08 EQU now interest.v.01 Stimulus -2 Time -1 Experiencer +1 person.n.01
+مجھے آپ کا خط کل ملا۔	person.n.01 EQU speaker receive.v.01 Agent -1 Time +1 Theme +3 Time +4 time.n.08 TPR now person.n.01 EQU hearer letter.n.01 Creator -1 time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1
+میرا بیٹا آسٹیوپوروسس کا شکار ہے۔	person.n.01 EQU speaker person.n.01 Role +1 son.n.01 Of -2 suffer.v.02 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+اگر آپ ہمیں چبھو گے تو کیا ہم خون نہیں بہائیں گے؟	person.n.01 EQU hearer prick.v.01 Agent -1 Time +1 Patient +2 time.n.08 EQU now person.n.01 Sub speaker CONSEQUENCE <1 NEGATION <1 time.n.08 EQU now person.n.01 Sub speaker bleed.v.01 Time -2 Source -1 Time +1 time.n.08 EQU now
+لوکوئیل نے 2004 میں 1 بلین ڈالر کمائے۔	company.n.01 Name "Lukoil" earn.v.01 Agent -1 Time +1 Theme +2 Time +4 time.n.08 TPR now dollar.n.01 Quantity +1 quantity.n.01 EQU 1000000000 time.n.08 YearOfCentury 2004
+ٹام ہمیشہ شکایت کرتا ہے، ہے نا؟	NEGATION <1 time.n.08 NEGATION <1 male.n.02 Name "ٹام" complain.v.01 Agent -1 Time +1 time.n.08 EQU now
+کوئی بھی رنگ میں مٹھی نہیں لڑ رہا ہے۔	NEGATION <1 person.n.01 time.n.08 EQU now fistfight.v.01 Agent -2 Time -1 Location +1 ring.n.07
+کیا اسے پارکنسن کی بیماری تھی؟	time.n.08 TPR now person.n.01 have.v.12 Time -2 Experiencer -1 Stimulus +1 parkinson's_disease.n.01
+مریم نے ایک جعلی گوچی ہینڈ بیگ خریدا۔	female.n.02 Name "میری" buy.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now fake.a.02 entity.n.01 Attribute -1 APX +2 company.n.01 Name "Gucci" handbag.n.01 Creator -1
+مسٹر جانسن کا پہلا نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now mr.n.01 male.n.02 Name "جانسن" Title -1 first_name.n.01 User -1
+لنکن کو 1865 میں قتل کر دیا گیا تھا۔	male.n.02 Name "لنکن" time.n.08 TPR now assassinate.v.01 Patient -2 Time -1 Time +1 time.n.08 YearOfCentury 1865
+ٹام نے 20 اکتوبر کو میری سے ملاقات کی۔	male.n.02 Name "ٹام" visit.v.07 Theme -1 Time +1 Location +2 Time +4 time.n.08 TPR now female.n.02 Name "میری" time.n.08 MonthOfYear 10 EQU +1 time.n.08 DayOfMonth 20
+ایک عورت واٹر اسکوٹر پر سوار ہے۔	woman.n.01 time.n.08 EQU now ride.v.02 Agent -2 Time -1 Theme +1 water_scooter.n.01
+میں 10 اکتوبر 1972 کو پیدا ہوا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 MonthOfYear 10 EQU +1 time.n.08 DayOfMonth 10 time.n.08 YearOfCentury 1972 EQU -1
+جوڈتھ ملر سی آئی اے کی رکن ہیں۔	female.n.02 Name "جوڈتھ ملر" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 member.n.01 PartOf +1 agency.n.01 Name "سی آئی اے"
+آپ نے یہ افواہ کس سے سنی؟	person.n.01 Name ? time.n.08 TPR now person.n.01 EQU hearer hear.v.02 Time -2 Source -3 Agent -1 Theme +1 rumor.n.01
+وہ بہت قابل کاروباری آدمی ہے۔	male.n.02 be.v.01 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now very.r.01 capable.a.05 Degree -1 AttributeOf +2 person.n.01 Role +1 businessman.n.01
+ایک لڑکی بانسری بجا رہی ہے۔	flute.n.01 time.n.08 EQU now play.v.07 Theme -2 Time -1 Agent +1 girl.n.01
+محترمہ منٹن آسٹریلیا میں پیدا ہوئیں۔	ms.n.05 female.n.02 Name "منٹن" Title -1 time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "آسٹریلیا"
+"کیوٹو" "ٹوکیو" کا ایک انگرام ہے۔	word.n.01 EQU "کیوٹو" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now anagram.n.01 Of +1 word.n.01 EQU "ٹوکیو"
+30 سے زائد افراد نے خودکشی کی۔	quantity.n.01 MOR +1 quantity.n.01 EQU 30 person.n.01 Quantity -2 commit.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now suicide.n.01
+ہماری ٹرین ساڑھے آٹھ بجے نکلتی ہے۔	person.n.01 Sub speaker train.n.01 User -1 leave.v.01 Theme -1 Time +1 Time +2 time.n.08 TSU now time.n.08 ClockTime 20:30
+جم کو سیب پسند نہیں ہے، کیا وہ؟	male.n.02 Name "جم" NEGATION <1 time.n.08 EQU now like.v.02 Experiencer -2 Time -1 Stimulus +1 apple.n.01
+وہ ایک بہترین دماغی سرجن ہے۔	person.n.01 be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now excellent.a.01 AttributeOf +2 person.n.01 Role +1 brain_surgeon.n.01
+آپ کس قسم کی پارٹی چاہتے ہیں؟	entity.n.01 InstanceOf +1 EQU ? party.n.04 time.n.08 EQU now person.n.01 EQU hearer want.v.01 Theme -4 Time -2 Pivot -1
+فرینک سیناترا کا عرفی نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Co-Theme -1 Time +1 Theme +3 time.n.08 EQU now male.n.02 Name "فرینک سیناترا" nickname.n.01 Bearer -1
+میرے والد میرے لیے ایک دوست کی طرح ہیں۔	person.n.01 EQU speaker person.n.01 Role +1 father.n.01 Of -2 time.n.08 EQU now like.a.01 Theme -3 Time -1 Co-Theme +1 person.n.01 Role +1 friend.n.01 Of +1 person.n.01 EQU speaker
+پئیر بیریگووائی خودکشی کرتا ہے۔	male.n.02 Name "پئیر بیریگووائی" commit.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now suicide.n.01
+آپ آسٹریا میں کہاں پلے بڑھے؟	location.n.01 Name ? PartOf +1 country.n.02 Name "آسٹریا" time.n.08 TPR now person.n.01 EQU hearer grow_up.v.01 Location -4 Time -2 Patient -1
+میں نے کیوٹو یونیورسٹی سے گریجویشن کیا۔	person.n.01 EQU speaker graduate.v.01 Agent -1 Time +1 Source +2 time.n.08 TPR now university.n.03 Name "کیوٹو University"
+اس نے اسٹاک میں 500,000 ین کی سرمایہ کاری کی۔	person.n.01 invest.v.01 Agent -1 Time +1 Asset +3 Goal +4 time.n.08 TPR now quantity.n.01 EQU 500000 yen.n.02 Quantity -1 stock.n.01
+ایچ بی وی یونین نے ڈوئچے بینک پر تنقید کی۔	alliance.n.03 Name "HBV Union" criticize.v.01 Agent -1 Time +1 Theme +2 time.n.08 EQU now company.n.01 Name "Deutsche Bank"
+میں نے غلطی سے سب کچھ حذف کر دیا۔	person.n.01 EQU speaker NEGATION <1 entity.n.01 NEGATION <1 accidentally.r.01 delete.v.02 Agent -3 Patient -2 Manner -1 Time +1 time.n.08 TPR now
+بیٹلز کا آپ کا پسندیدہ گانا کون سا ہے؟	entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 User -1 Stimulus +2 musical_organization.n.01 Name "بیٹلز" song.n.01 Creator -1
+آپ کے پہلے نام کا تلفظ کیسے ہوتا ہے؟	manner.n.01 EQU ? time.n.08 EQU now person.n.01 EQU hearer first_name.n.01 Bearer -1 pronounce.v.01 Manner -4 Time -3 Theme -1
+آپ کی بیٹی کا وزن کتنا ہے؟	measure.n.02 Quantity ? time.n.08 EQU now person.n.01 EQU hearer person.n.01 Role +1 daughter.n.01 Of -2 weigh.v.01 Value -5 Time -4 Theme -2
+ہانگ کانگ کو کس ملک نے نوآبادیاتی بنایا؟	country.n.01 Name ? colonize.v.01 Agent -1 Time +1 Patient +2 time.n.08 TPR now region.n.03 Name "Hong Kong"
+بہر حال، مجھے بے حد فخر ہے۔	person.n.01 EQU speaker time.n.08 EQU now immensely.r.01 proud.a.01 Experiencer -3 Time -2 Degree -1
+مانچسٹر یونائیٹڈ نے فلہم کو شکست دی۔	team.n.01 Name "مانچسٹر یونائیٹڈ" defeat.v.01 Agent -1 Time +1 Co-Agent +2 time.n.08 TPR now team.n.01 Name "فلہم"
+یہ چھتری کس کی ہے؟	person.n.01 Name ? time.n.08 EQU now umbrella.n.01 belong.v.01 Pivot -3 Time -2 Theme -1
+یہ کتنا دلچسپ ناول ہے!	interesting.a.01 Stimulus +1 novel.n.01 entity.n.01 be.v.01 Co-Theme -2 Theme -1 Time +1 time.n.08 EQU now
+آخر کار ہم کیلیفورنیا پہنچ گئے۔	at_last.r.01 person.n.01 Sub speaker arrive.v.01 Manner -2 Theme -1 Time +1 Destination +2 time.n.08 TPR now state.n.01 Name "کیلیفورنیا"
+میری خالہ آسٹیوپوروسس کا شکار ہیں۔	person.n.01 EQU speaker person.n.01 Role +1 aunt.n.01 Of -2 suffer.v.02 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+آکلینڈ نیوزی لینڈ کا ایک شہر ہے۔	city.n.01 Name "آکلینڈ" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now city.n.01 PartOf +1 country.n.02 Name "نیوزی لینڈ"
+ٹام کو جان کی سابقہ بیوی سے پیار ہے۔	male.n.02 Name "ٹام" time.n.08 EQU now in_love.a.01 Experiencer -2 Time -1 Stimulus +3 male.n.02 Name "جان" time.n.08 TPR now person.n.01 Role +1 wife.n.01 Of -3 Time -2
+مجھے پیزا نہیں چاہیے مجھے بھوک نہیں ہے۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now want.v.01 Pivot -2 Time -1 Theme +1 pizza.n.01 CONTINUATION <1 person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now hungry.a.01 Experiencer -2 Time -1
+سچیکو جوڈی سے زیادہ مشہور ہے۔	female.n.02 Name "سچیکو" time.n.08 EQU now more.r.01 Theme -2 Co-Theme +2 popular.a.01 Stimulus -3 Time -2 Degree -1 female.n.02 Name "جوڈی"
+آپ کی پسندیدہ ڈزنی فلم کون سی ہے؟	entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +2 male.n.02 Name "ڈزنی" movie.n.01 Creator -1
+اس کے باوجود، مجھے بہت فخر ہے۔	person.n.01 EQU speaker time.n.08 EQU now extremely.r.01 proud.a.01 AttributeOf -3 Time -2 Degree -1
+ڈیوڈ لی روتھ کی سالگرہ کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "ڈیوڈ لی روتھ" birthday.n.02 FeatureOf -1
+یہ مشینیں اب کام نہیں کر رہی ہیں۔	machine.n.01 NEGATION <1 time.n.08 EQU now work.v.04 Theme -2 Time -1 Time +1 time.n.08 EQU now
+میں لیسا کے رویے سے ناراض تھا.	person.n.01 EQU speaker time.n.08 TPR now outraged.a.01 Experiencer -2 Time -1 Stimulus +2 female.n.02 Name "لیسا" behavior.n.01 Creator -1
+میرلین منرو کا وزن کتنا تھا؟	measure.n.02 Unit ? Quantity ? time.n.08 TPR now female.n.02 Name "میرلین منرو" weigh.v.01 Value -3 Time -2 Theme -1
+میں اسے جانتا ہوں لیکن وہ مجھے نہیں جانتا۔	person.n.01 EQU speaker know.v.04 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 CONTRAST <1 male.n.02 ANA -1 NEGATION <1 time.n.08 EQU now know.v.04 Experiencer -2 Time -1 Stimulus +1 person.n.01 EQU speaker
+پارمالٹ کی قیمت 14.3 بلین یورو ہے۔	company.n.01 Name "Parmalat" cost.v.01 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 14300000000 euro.n.01 Quantity -1
+سیناکال کورٹ لینڈ مینور میں رہتا ہے۔	female.n.02 Name "سیناکال" reside.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.02 Name "کورٹ لینڈ مینور"
+یہ ایک چادر اور خنجر آپریشن ہے۔	entity.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now cloak-and-dagger.a.01 AttributeOf +1 operation.n.03
+کیا آپ اب بھی باسون بجا رہے ہیں؟	time.n.08 EQU now person.n.01 EQU hearer play.v.07 Time -2 Agent -1 Theme +1 bassoon.n.01
+پوپوکاٹیپٹل آتش فشاں کہاں ہے؟	location.n.01 Name ? be.v.03 Location -1 Time +1 Theme +2 time.n.08 EQU now volcano.n.02 Name "پوپوکاٹیپٹل"
+میں بہت سی افریقی زبانیں بول سکتا ہوں۔	person.n.01 EQU speaker POSSIBILITY <1 speak.v.03 Agent -1 Theme +2 continent.n.01 Name "افریقا" language.n.01 Quantity + Source -1
+میز پر کتنے میگزین ہیں؟	magazine.n.02 Quantity ? be.v.03 Theme -1 Time +1 Location +2 time.n.08 EQU now desk.n.01
+میرے پڑوسی کا نام ڈینگ ڈاپنگ ہے۔	person.n.01 EQU speaker person.n.01 Role +1 neighbour.n.01 Of -2 name.n.01 Bearer -2 be.v.06 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 EQU "Deng Daping"
+مولی شینن کی ماں کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "مولی شینن" person.n.01 Role +1 mother.n.01 Of -2 die.v.01 Manner -5 Time -4 Patient -2
+گولڈن گیٹ پل کتنا لمبا ہے؟	long.a.02 Value ? Time +1 AttributeOf +2 time.n.08 EQU now bridge.n.01 Name "Golden Gate Bridge"
+گرین لینڈ میں کتنے ایسکیموس رہتے ہیں؟	person.n.01 Quantity ? Role +1 eskimo.n.01 live.v.01 Theme -2 Time +1 Location +2 time.n.08 EQU now island.n.01 Name "گرین لینڈ"
+وہ سٹاربکس کافی کا عادی ہے۔	male.n.02 time.n.08 EQU now addicted.a.01 Experiencer -2 Time -1 Stimulus +2 company.n.01 Name "سٹاربکس" coffee.n.01 Creator -1
+مجھے نہیں لگتا کہ میں نے کوئی قانون توڑا ہے۔	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now think.v.01 Time -1 Proposition >1 Agent -2 CONTINUATION <0 person.n.01 EQU speaker break.v.06 Agent -1 Time +1 Theme +2 time.n.08 TPR now law.n.02
+کیا ٹام بائیں ہاتھ کا ہے یا دائیں ہاتھ والا؟	male.n.02 Name "ٹام" ALTERNATION <1 time.n.08 EQU now left-handed.a.01 AttributeOf -2 Time -1 ALTERNATION <2 time.n.08 EQU now right-handed.a.01 AttributeOf -4 Time -1
+یہ آپ کی غلطی نہیں ہے، یہ ایلیسن کی ہے.	entity.n.01 NEGATION <1 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer fault.n.01 User -1 CONTRAST <1 entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 Name "الیسن" fault.n.01 Creator -1
+یہ پھول خوبصورت ہے نا؟	NEGATION <1 NEGATION <1 flower.n.01 time.n.08 EQU now beautiful.a.01 AttributeOf -2 Time -1 NEGATION <2 NEGATION <1 beautiful.a.01 Time +1 AttributeOf +2 time.n.08 EQU now entity.n.01
+آپ نے کس قسم کے تحائف خریدے؟	entity.n.01 InstanceOf +1 EQU ? souvenir.n.01 time.n.08 TPR now person.n.01 EQU hearer buy.v.01 Theme -4 Time -2 Agent -1
+سوئٹزرلینڈ ایک خوبصورت ملک ہے۔	country.n.02 Name "سوئٹزرلینڈ" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now beautiful.a.01 AttributeOf +1 country.n.02
+اس آدمی نے میرا پرس چرا لیا! اسے روکو!	guy.n.01 steal.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker wallet.n.01 User -1 CONTINUATION <1 person.n.01 EQU hearer stop.v.05 Agent -1 Patient +1 male.n.02
+آپ کس قسم کی شراب تجویز کرتے ہیں؟	entity.n.01 InstanceOf +1 EQU ? wine.n.01 time.n.08 EQU now person.n.01 EQU hearer recommend.v.02 Theme -4 Time -2 Agent -1
+یہ آپ کی ہینڈ رائٹنگ ہے، ہے نا؟	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now person.n.01 EQU hearer handwriting.n.01 Creator -1
+یہ وینڈنگ مشین کام نہیں کر رہی ہے۔	vending_machine.n.01 NEGATION <1 time.n.08 EQU now work.v.04 Theme -2 Time -1
+بوسنیا کس ملک میں واقع ہے؟	country.n.02 Name ? time.n.08 EQU now region.n.03 Name "بوسنیا" located.a.01 Location -3 Time -2 Theme -1
+مجھے گاڑھا، کریمی مشروم کا سوپ پسند ہے۔	person.n.01 EQU speaker love.v.01 Experiencer -1 Time +1 Stimulus +6 time.n.08 EQU now thick.a.03 AttributeOf +4 creamy.a.02 AttributeOf +3 mushroom.n.01 mushroom.n.01 soup.n.01 MadeOf -2 MadeOf -1
+مجھے یقین ہے کہ وہ بے قصور ہے۔	person.n.01 EQU speaker time.n.08 EQU now convinced.a.01 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 time.n.08 EQU now innocent.a.01 AttributeOf -2 Time -1
+ڈین بوسٹن، میساچوسٹس میں رہتا ہے۔	male.n.02 Name "ڈین" live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now city.n.01 Name "بوسٹن" PartOf +1 state.n.01 Name "میساچوسٹس"
+ہم نے دشمن کے پرچم کو تباہ کر دیا ہے!	person.n.01 Sub speaker destroy.v.02 Agent -1 Time +1 Patient +3 time.n.08 TPR now enemy.n.01 flagship.n.02 User -1
+او جے سمپسن پر قتل کا الزام تھا۔	male.n.02 Name "او جے سمپسن" time.n.08 TPR now accuse.v.01 Theme -2 Time -1 Attribute +1 murder.n.01
+بہت سے فلسفی یونان سے آئے ہیں۔	person.n.01 Quantity + Role +1 philosopher.n.01 come.v.08 Theme -2 Time +1 Source +2 time.n.08 EQU now country.n.02 Name "یونان"
+ان چشموں کی قیمت کتنی تھی؟	measure.n.02 Unit ? Quantity ? time.n.08 TPR now sunglasses.n.01 cost.v.01 Value -3 Time -2 Theme -1
+اوسلو میں کتنے عجائب گھر ہیں؟	museum.n.01 Quantity ? be.v.03 Theme -1 Time +1 EQU +2 Location +3 time.n.08 EQU now entity.n.01 city.n.01 Name "اوسلو"
+بدھ کا امتحان مشکل ہو گا۔	time.n.08 DayOfWeek wednesday test.n.02 Time -1 time.n.08 TSU now difficult.a.01 AttributeOf -2 Time -1
+آپ کی پسندیدہ قسم کی سشی کون سی ہے؟	entity.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 entity.n.01 InstanceOf +1 sushi.n.01
+مصر کس براعظم پر واقع ہے؟	continent.n.01 Name ? time.n.08 EQU now country.n.02 Name "مصر" located.a.01 Location -3 Time -2 Theme -1
+آپ کی پسندیدہ قسم کی کینڈی کون سی ہے؟	entity.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 entity.n.01 InstanceOf +1 candy.n.01
+کیا آسٹریلیا میں نلکوں کا پانی پینے کے قابل ہے؟	time.n.08 EQU now tap_water.n.01 drinkable.a.01 Time -2 Theme -1 Location +1 country.n.02 Name "آسٹریلیا"
+ٹام نے اپنی بلٹ پروف جیکٹ اتار دی۔	male.n.02 Name "ٹام" take_off.v.06 Agent -1 Time +1 Theme +4 time.n.08 TPR now male.n.02 ANA -3 bulletproof.a.02 AttributeOf +1 vest.n.01 User -2
+نیکوس کورکولس ایک یونانی اداکار تھا۔	male.n.02 Name "نیکوس کورکولس" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now country.n.02 Name "یونان" person.n.01 Source -1 Role +1 actor.n.01
+میں قومی ترانہ یاد کر رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now memorize.v.01 Agent -2 Time -1 Topic +1 national_anthem.n.01
+میرے دوست کو چاکلیٹ آئس کریم پسند ہے۔	person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 Of -2 like.v.02 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now chocolate_ice_cream.n.01
+مجھے بیرونی زمین واسیوں نے اغوا کیا تھا۔	person.n.01 EQU speaker time.n.08 TPR now abduct.v.01 Theme -2 Time -1 Agent +1 extraterrestrial.n.01
+اگر تم جلدی کرو گے تو تم اس سے آگے نکل جاؤ گے۔	person.n.01 EQU hearer hurry.v.01 Theme -1 Time +1 time.n.08 EQU now CONSEQUENCE <1 person.n.01 EQU hearer time.n.08 TSU now overtake.v.01 Theme -2 Time -1 Co-Theme +1 male.n.02
+میں ابھی کچھ پیزا لینے جا سکتا ہوں۔	person.n.01 EQU speaker POSSIBILITY <1 go_for.v.04 Pivot -1 Theme +1 Time +2 pizza.n.01 time.n.08 EQU now
+اسے کھینچنے میں مجھے کئی گھنٹے لگے۔	time.n.08 TPR now person.n.01 EQU speaker hour.n.01 Quantity + draw.v.06 Time -3 Agent -2 Duration -1 Result +1 entity.n.01
+یہ میرا پسندیدہ قسم کا سینڈوچ ہے۔	entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker favorite.a.02 Experiencer -1 Stimulus +1 entity.n.01 InstanceOf +1 sandwich.n.01
+میوکو نے اپنے لیے ایک لباس ڈیزائن کیا۔	female.n.02 Name "میوکو" design.v.03 Agent -1 Time +1 Result +2 Beneficiary +3 time.n.08 TPR now dress.n.01 female.n.02 ANA -4
+ٹرگو لائی ناروے کے سفارت کار تھے۔	male.n.02 Name "ٹرگو لائی" be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now country.n.02 Name "ناروے" person.n.01 Source -1 Role +1 diplomat.n.01
+میں اس وقت کنمنگ میں رہ رہا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now live.v.01 Theme -2 Time -1 Location +1 Time +2 city.n.01 Name "کنمنگ" time.n.08 EQU now
+اونٹ کے ایک یا دو کوہان ہوتے ہیں۔	camel.n.01 have.v.02 Pivot -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 NEGATION <1 NEGATION <1 quantity.n.01 EQU 1 hump.n.01 EQU -2 Quantity -1 NEGATION <2 quantity.n.01 EQU 2 hump.n.01 EQU -4 Quantity -1
+میں نے ان اسپیکرز کے لیے R$2600.00 ادا کیا۔	person.n.01 EQU speaker pay.v.01 Agent -1 Time +1 Asset +2 Theme +4 time.n.08 TPR now real.n.02 Quantity +1 quantity.n.01 EQU 2600 speaker.n.02
+"یہ سب جانتے ہیں۔" پیٹر نے کہا۔"	say.v.01 Proposition >1 Time +1 Agent +2 time.n.08 TPR now male.n.02 Name "پیٹر" CONTINUATION <0 NEGATION <1 person.n.01 NEGATION <1 know.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now entity.n.01
+نیلسن منڈیلا کو کہاں قید کیا گیا؟	location.n.01 Name ? time.n.08 TPR now male.n.02 Name "نیلسن منڈیلا" imprison.v.01 Location -3 Time -2 Patient -1
+میرا بیڈروم مکڑیوں سے رینگ رہا ہے۔	person.n.01 EQU speaker bedroom.n.01 User -1 time.n.08 EQU now crawl.v.03 Location -2 Time -1 Theme +1 spider.n.01
+میں نے آپ کی چائے میں چند بلیو بیریز ڈال دی ہیں۔	person.n.01 EQU speaker put.v.01 Agent -1 Time +1 Theme +2 Destination +4 time.n.08 TPR now blueberry.n.02 Quantity - person.n.01 EQU hearer tea.n.01 User -1
+گراہم گرین میرا پسندیدہ مصنف ہے۔	male.n.02 Name "گراہم گرین" be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker favourite.a.02 Experiencer -1 Stimulus +2 person.n.01 Role +1 writer.n.01
+اس کی قیمت کم از کم سو پیسو ہوگی۔	entity.n.01 time.n.08 TSU now cost.v.01 Theme -2 Time -1 Value +3 quantity.n.01 BOT +1 quantity.n.01 EQU 100 peso.n.03 Quantity -2
+کیا آپ دودھ کی بجائے شراب پئیں گے؟	time.n.08 TSU now person.n.01 EQU hearer drink.v.01 Time -2 Agent -1 Patient +1 wine.n.01 NEGATION <1 entity.n.01 EQU -2 Patient +1 milk.n.01
+کیلگری کس صوبے میں واقع ہے؟	province.n.01 Name ? time.n.08 EQU now city.n.01 Name "کیلگری" located.a.01 Location -3 Time -2 Theme -1
+کیا آپ کے پاس کوئی کم قیمت ہے؟	time.n.08 EQU now person.n.01 EQU hearer have.v.01 Time -2 Pivot -1 Theme +1 entity.n.01 less.r.01 Theme -1 expensive.a.01 AttributeOf -2 Degree -1
+میں نے آمیزون.کام سے ایک کتاب منگوائی ہے۔	person.n.01 EQU speaker order.v.02 Agent -1 Time +1 Theme +2 Source +3 time.n.08 TPR now book.n.02 url.n.01 Name "Amazon.com"
+ایلوس پریسلی کا درمیانی نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "ایلوس پریسلی" middle_name.n.01 Bearer -1
+مارگٹ 1908 میں بورڈو میں پیدا ہوا۔	female.n.02 Name "مارگٹ" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 Time +2 city.n.02 Name "بورڈو" time.n.08 YearOfCentury 1908
+لتھوینیا یورپی یونین میں داخل ہو گیا۔	state.n.04 Name "لتھوینیا" enter.v.03 Theme -1 Time +1 Goal +2 time.n.08 EQU now alliance.n.03 Name "European Union"
+میری ریتمیکل جمناسٹک کی مشق کرتی ہے۔	female.n.02 Name "میری" practice.v.03 Agent -1 Time +1 Theme +3 time.n.08 EQU now rhythmical.a.01 AttributeOf +1 gymnastics.n.01
+ٹام کو کچھ دلچسپ ملا ہے۔	male.n.02 Name "ٹام" find.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now entity.n.01 interesting.a.01 AttributeOf -1
+1497 میں، جان کیبٹ نے کینیڈا کی تلاش کی۔	time.n.08 YearOfCentury 1497 male.n.02 Name "جان Cabot" explore.v.02 Time -2 Agent -1 Time +1 Theme +2 time.n.08 TPR now country.n.02 Name "کینیڈا"
+تمام سفر پہلے قدم سے شروع ہوتے ہیں۔	NEGATION <1 journey.n.01 NEGATION <1 begin.v.01 Theme -1 Instrument +1 first_step.n.01
+کیا یہ تصویریں جرمنی میں لی گئی تھیں؟	time.n.08 TPR now picture.n.01 take.v.16 Time -2 Theme -1 Location +1 country.n.02 Name "جرمنی"
+اروبا کے کتنے باشندے ہیں؟	person.n.01 Quantity ? Role +1 inhabitant.n.01 time.n.08 EQU now island.n.01 Name "اروبا" have.v.02 Theme -4 Time -2 Pivot -1
+میں انگریزی، فرانسیسی اور ہسپانوی بولتا ہوں۔	person.n.01 EQU speaker speak.v.03 Agent -1 Time +1 Theme +4 time.n.08 EQU now english.n.01 french.n.01 entity.n.01 Sub -2 Sub -1 Sub +1 spanish.n.01
+ایک عورت الیکٹرک گٹار بجا رہی ہے۔	woman.n.01 time.n.08 EQU now play.v.07 Agent -2 Time -1 Theme +1 electric_guitar.n.01
+مارجوری کینن راولنگز کی موت کیسے ہوئی؟	manner.n.01 EQU ? time.n.08 TPR now female.n.02 Name "مارجوری کینن راولنگز" die.v.01 Manner -3 Time -2 Patient -1
+اسنوپ ڈوگی ڈوگ کا اصل نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now male.n.02 Name "اسنوپ ڈوگی ڈوگ" real.a.01 AttributeOf +1 name.n.01 Bearer -2
+ہر طرح کے شوق نے میرے دماغ کو بھر دیا۔	NEGATION <1 entity.n.01 InstanceOf +1 fancy.n.01 NEGATION <1 fill.v.01 Agent -2 Time +1 Destination +3 time.n.08 TPR now person.n.01 EQU speaker brain.n.01 PartOf -1
+بیب روتھ نے کتنے ہوم رنز بنائے؟	home_run.n.01 Quantity ? time.n.08 TPR now male.n.02 Name "بیب روتھ" hit.v.08 Theme -3 Time -2 Agent -1
+کاظم رجاوی کو کہاں قتل کیا گیا؟	location.n.01 Name ? time.n.08 TPR now male.n.02 Name "کاظم رجاوی" assassinate.v.01 Location -3 Time -2 Patient -1
+جارج ماچاڈو کس شہر میں پیدا ہوئے؟	city.n.01 Name ? time.n.08 TPR now male.n.02 Name "جارج ماچاڈو" bear.v.02 Location -3 Time -2 Patient -1
+نینسی خود میز کو نہیں ہلا سکی۔	female.n.02 Name "نینسی" NEGATION <1 POSSIBILITY <1 move.v.02 Agent -1 Theme +1 desk.n.01 female.n.02 EQU -3
+مس کلین ہر جمعہ کو ٹیسٹ دیتی ہیں۔	NEGATION <1 time.n.08 DayOfWeek friday NEGATION <1 miss.n.03 female.n.02 Name "کلین" Title -1 give.v.06 Agent -1 Time -3 Time +1 Theme +2 time.n.08 EQU now test.n.03
+بوسٹن میں آپ کا پسندیدہ ہوٹل کون سا ہے؟	entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 hotel.n.01 Location +1 city.n.01 Name "بوسٹن"
+کیا آپ بیلجیئم یا جرمن بیئر کو ترجیح دیتے ہیں؟	time.n.08 EQU now person.n.01 EQU hearer prefer.v.01 Time -2 Experiencer -1 Stimulus +1 entity.n.01 NEGATION <1 NEGATION <1 country.n.02 Name "بیلجیم" beer.n.01 EQU -2 Source -1 NEGATION <2 country.n.02 Name "جرمنی" beer.n.01 EQU -4 Source -1
+میں نے اپنی عمر کے بارے میں اپنی گرل فرینڈ سے جھوٹ بولا۔	person.n.01 EQU speaker lie.v.05 Agent -1 Time +1 Recipient +3 Topic +6 time.n.08 TPR now person.n.01 EQU speaker person.n.01 Role +1 girlfriend.n.02 Of -2 person.n.01 EQU speaker age.n.01 FeatureOf -1
+وہ مسوری خچر کی طرح ضدی ہے۔	person.n.01 time.n.08 EQU now as.r.01 Theme -2 Co-Theme +3 stubborn.a.01 AttributeOf -3 Time -2 Degree -1 state.n.01 Name "مسوری" mule.n.01 Source -1
+انگریزی کے علاوہ وہ جرمن بولتا ہے۔	entity.n.01 english.n.01 SubOf -1 male.n.02 speak.v.03 Theme -3 Agent -1 Time +1 time.n.08 EQU now german.n.02 SubOf -5
+میری کو ایک یتیم بچہ گلہری ملا۔	female.n.02 Name "میری" find.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now orphaned.a.01 AttributeOf +1 baby.n.06 squirrel.n.01 EQU -1
+جان لینن کا تعلق کس گروہ سے تھا؟	group.n.01 Name ? time.n.08 TPR now male.n.02 Name "جان لینن" belong.v.05 Goal -3 Time -2 Theme -1
+ٹام نے تین کلو سیب خریدے۔	male.n.02 Name "ٹام" buy.v.01 Agent -1 Time +1 Theme +4 time.n.08 TPR now quantity.n.01 EQU 3 kilogram.n.01 Quantity -1 entity.n.01 Sub -1 Sub +1 apple.n.01
+ماؤنٹ فوجی جاپان کا سب سے اونچا پہاڑ ہے۔	mountain.n.01 Name "ماؤنٹ فوجی" be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now country.n.02 Name "جاپان" tall.a.01 Degree +1 most.r.01 mountain.n.01 Location -3 Attribute -2
+اچانک لائٹ چلی گئی۔	all_of_a_sudden.r.02 light.n.02 go_out.v.04 Manner -2 Patient -1 Time +1 time.n.08 TPR now
+یہ انسائیکلوپیڈیا میری بیوی کا ہے۔	encyclopedia.n.01 belong.v.01 Theme -1 Time +1 Pivot +3 time.n.08 EQU now person.n.01 EQU speaker person.n.01 Role +1 wife.n.01 Of -2
+سویڈن میں کتنے باشندے ہیں؟	person.n.01 Quantity ? Role +1 inhabitant.n.01 time.n.08 EQU now country.n.02 Name "سویڈن" have.v.02 Theme -4 Time -2 Pivot -1
+وہ حیاتیات کے شعبے میں کام کر رہے ہیں۔	person.n.01 time.n.08 EQU now work.v.02 Agent -2 Time -1 Theme +1 field.n.04 EQU +1 biology.n.01
+نکولس بریڈی کو کون سی کمپنی ملی؟	company.n.01 Name ? time.n.08 TPR now male.n.02 Name "نکولس بریڈی" found.v.01 Theme -3 Time -2 Agent -1
+برائن سب کیچڑ والا ہے۔ وہ فٹ بال کھیلتا تھا۔	male.n.02 Name "برائن" NEGATION <1 entity.n.01 SubOf -1 NEGATION <1 time.n.08 EQU now muddy.a.01 AttributeOf -2 Time -1 CONTINUATION <1 male.n.02 ANA -4 play.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now football.n.01
+وہ اسے اسٹاک مارکیٹ میں لے رہا ہے۔	male.n.02 time.n.08 EQU now rake_in.v.01 Agent -2 Time -1 Theme +1 Source +2 entity.n.01 stock_market.n.01
+بلباؤ باسک کنٹری کا ایک شہر ہے۔	city.n.01 Name "بلباؤ" be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now city.n.01 PartOf +1 country.n.02 Name "باسک کنٹری"
+میں 31 مئی 1940 کو پیدا ہوا۔	person.n.01 EQU speaker time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +1 time.n.08 DayOfMonth 31 time.n.08 MonthOfYear 5 EQU -1 time.n.08 YearOfCentury 1940 EQU -1
+نہ ٹام اور نہ ہی میری فرانسیسی بول سکتے ہیں۔	NEGATION <1 male.n.02 Name "ٹام" POSSIBILITY <1 speak.v.03 Agent -1 Theme +1 french.n.01 NEGATION <3 female.n.02 Name "میری" POSSIBILITY <1 speak.v.03 Agent -1 Theme +1 french.n.01
+اس نے سیاہ بالوں والی اطالوی لڑکی سے شادی کی۔	person.n.01 marry.v.01 Agent -1 Time +1 Co-Agent +4 time.n.08 TPR now dark-haired.a.01 AttributeOf +2 country.n.02 Name "اٹلی" girl.n.01 Source -1
+یوگانسکنیفٹیگاز کی لاگت 27.5 بلین امریکی ڈالر ہے۔	company.n.01 Name "یوگانسکنیفٹیگاز" cost.v.01 Theme -1 Time +1 Value +2 time.n.08 EQU now united_states_dollar.n.01 Quantity +1 quantity.n.01 EQU 27500000000
+کیوٹو کا دورہ بہت سارے سیاح کرتے ہیں۔	city.n.01 Name "کیوٹو" time.n.08 EQU now visit.v.02 Theme -2 Time -1 Agent +1 entity.n.01 Quantity + EQU +1 person.n.01 Role +1 tourist.n.01
+میرے تمام دوست کمپیوٹر گیمز پسند کرتے ہیں۔	NEGATION <1 entity.n.01 PartOf +2 person.n.01 EQU speaker person.n.01 Role +1 friend.n.01 Of -2 NEGATION <1 like.v.02 Experiencer -4 Time +1 Stimulus +2 time.n.08 EQU now computer_game.n.01
+سوزن امریکی تاریخ میں اہم کردار ادا کر رہی ہے۔	female.n.02 Name "سوزن" time.n.08 EQU now major.v.01 Agent -2 Time -1 Theme +2 country.n.02 Name "امریکا" history.n.03 Theme -1
+اورنج سٹی، فلوریڈا کتنی اونچائی پر ہے؟	altitude.n.01 YearOfCentury ? be.v.03 Time -1 Time +1 Theme +2 time.n.08 EQU now city.n.01 Name "اورنج سٹی" PartOf +1 state.n.01 Name "فلوریڈا"
+ملکہ الزبتھ اول کا انتقال 1603 میں ہوا۔	queen.n.02 female.n.02 Name "الزبیتھ اول" Title -1 pass_away.v.01 Patient -1 Time +1 Time +2 time.n.08 TPR now time.n.08 YearOfCentury 1603
+میرا پڑوسی آسٹیوپوروسس کا شکار ہے۔	person.n.01 Sub speaker person.n.01 Role +1 neighbor.n.01 Of -2 suffer.v.02 Experiencer -2 Time +1 Stimulus +2 time.n.08 EQU now osteoporosis.n.01
+ایک عورت ریک پر سیخیں رکھ رہی ہے۔	woman.n.01 time.n.08 EQU now place.v.01 Agent -2 Time -1 Theme +1 Destination +2 skewer.n.01 rack.n.01
+کولمبیا میں کیتھولک رسم و رواج غالب ہیں۔	country.n.02 Name "کولمبیا" catholic.a.01 AttributeOf +1 custom.n.01 prevail.v.01 Location -3 Theme -1 Time +1 time.n.08 EQU now
+ایڈورڈ سپیر ایک امریکی ماہر لسانیات تھے۔	male.n.02 Name "ایڈورڈ سپیئر" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 TPR now country.n.02 Name "امریکا" person.n.01 Source -1 Role +1 linguist.n.01
+ہیمبرگ پولیس نے اس سے پوچھ گچھ کی۔	person.n.01 time.n.08 TPR now interrogate.v.02 Recipient -2 Time -1 Agent +2 city.n.01 Name "ہیمبرگ" police.n.01 Source -1
+ابرامس نے سگریٹ براؤن کے حوالے کر دیا۔	male.n.02 Name "ابرامس" hand.v.01 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now cigarette.n.01 male.n.02 Name "براؤن"
+برٹش کولمبیا کینیڈا میں واقع ہے۔	state.n.01 Name "برٹش کولمبیا" time.n.08 EQU now located.a.01 Theme -2 Time -1 Location +1 country.n.02 Name "کینیڈا"
+میں ایک تیس سالہ غیر شادی شدہ عورت ہوں۔	person.n.01 EQU speaker be.v.01 Theme -1 Time +1 Co-Theme +6 time.n.08 EQU now quantity.n.01 EQU 30 year.n.01 old.a.01 Value -1 AttributeOf +2 unmarried.a.01 AttributeOf +1 woman.n.01 Quantity -4
+شاعر ایملی ڈکنسن کا انتقال کس سال ہوا؟	time.n.08 YearOfCentury ? time.n.08 TPR now poet.n.01 female.n.02 Name "ایملی ڈکنسن" Role -1 die.v.01 Time -4 Time -3 Patient -1
+ساداکو ساساکی کا انتقال 25 اکتوبر 1955 کو ہوا۔	female.n.02 Name "ساداکو ساساکی" die.v.01 Patient -1 Time +1 Time +3 time.n.08 TPR now time.n.08 MonthOfYear 10 EQU +1 time.n.08 DayOfMonth 25 EQU +1 time.n.08 YearOfCentury 1955
+مخفف "پرس" کا کیا مطلب ہے؟	entity.n.01 Name ? time.n.08 EQU now acronym.n.01 EQU +1 acronym.n.01 EQU "پرس" stand_for.v.02 Co-Theme -4 Time -3 Theme -2
+بہر حال یہ پروگرام کامیاب رہا۔	at_any_rate.r.01 program.n.02 be.v.01 Manner -2 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now success.n.01
+جو بھی آئے کہہ دے میں گھر سے دور ہوں۔	NEGATION <1 person.n.01 come.v.01 Theme -1 Time +1 time.n.08 EQU now NEGATION <1 person.n.01 EQU hearer say.v.01 Proposition >1 Agent -1 CONTINUATION <0 person.n.01 EQU speaker time.n.08 EQU now away.a.01 Theme -2 Time -1 Source +1 home.n.01
+نکولائی لینن (ولادیمیر ایلیچ اولیانوف)	event.v.01 Participant +1 male.n.02 Name "نکولائی لینن" male.n.02 Name "ولادیمیر ایلچ اولیانوف" EQU -1
+جین آسٹن کی کتابیں بہت خوبصورت ہیں!	female.n.02 Name "جین آسٹن" book.n.01 Creator -1 time.n.08 EQU now very.r.01 beautiful.a.01 AttributeOf -3 Time -2 Degree -1
+ایک آدمی سوڈا کھول کر پی رہا ہے۔	man.n.01 time.n.08 EQU now time.n.08 EQU now open.v.01 Agent -3 Time -2 Patient +1 soda.n.02 drink.v.01 Agent -5 Time -3 Patient +1 entity.n.01
+ویتنام کے کتنے باشندے ہیں؟	person.n.01 Quantity ? Role +1 inhabitant.n.01 time.n.08 EQU now country.n.02 Name "ویتنام" have.v.02 Theme -4 Time -2 Pivot -1
+آپ کی پسندیدہ قسم کی چاکلیٹ کون سی ہے؟	entity.n.01 EQU ? be.v.01 Co-Theme -1 Time +1 Theme +4 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 Experiencer -1 Stimulus +1 entity.n.01 InstanceOf +1 chocolate.n.02
+گلدان میں کتنے پھول ہیں؟	flower.n.01 Quantity ? be.v.03 Theme -1 Time +1 EQU +2 Location +3 time.n.08 EQU now entity.n.01 location.n.01 STI +1 vase.n.01
+امریکہ میں کون سی زبان بولی جاتی ہے؟	language.n.01 EQU ? time.n.08 EQU now speak.v.03 Theme -2 Time -1 Location +1 country.n.02 Name "امریکا"
+کیا آپ میری بجائے پارٹی میں جائیں گے؟	time.n.08 TSU now person.n.01 EQU hearer go.v.01 Time -2 Theme -1 Destination +1 party.n.04 NEGATION <1 entity.n.01 EQU -2 Theme +1 person.n.01 EQU speaker
+میں فننش ہوں، لیکن میں سویڈش بھی بولتا ہوں۔	person.n.01 EQU speaker time.n.08 EQU now be.v.03 Theme -2 Time -1 Source +1 country.n.02 Name "فن لینڈ" CONTRAST <1 person.n.01 EQU speaker speak.v.03 Agent -1 Time +1 Theme +2 time.n.08 EQU now swedish.n.01
+ہارنلڈ لیمب نے بہت سی سوانح عمری لکھی۔	male.n.02 Name "ہارنلڈ لیمب" author.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now biography.n.01 Quantity +
+مارکس کیمبی نے کس کالج کے لیے کھیلا؟	college.n.02 Name ? time.n.08 TPR now male.n.02 Name "مارکس کیمبی" play.v.01 Beneficiary -3 Time -2 Agent -1
+کیا آپ کے پاس کیوٹو شہر کا نقشہ ہے؟	time.n.08 EQU now person.n.01 EQU hearer have.v.01 Time -2 Pivot -1 Theme +1 map.n.01 Content +1 city.n.01 EQU +1 city.n.01 Name "کیوٹو"
+تقریباً 69 ملین لوگوں نے ووٹ ڈالے۔	quantity.n.01 LES +1 quantity.n.01 EQU 69000000 person.n.01 Quantity -2 vote.v.01 Agent -1 Time +1 time.n.08 TPR now
+کنازوا کے کتنے باشندے ہیں؟	person.n.01 Quantity ? Role +1 inhabitant.n.01 time.n.08 EQU now city.n.01 Name "کنازوا" have.v.02 Theme -4 Time -2 Pivot -1
+ہم 9:00 بجے شکاگو پہنچ رہے تھے۔	person.n.01 Sub speaker time.n.08 TPR now arrive.v.01 Theme -2 Time -1 Destination +1 Time +2 city.n.01 Name "شکاگو" time.n.08 ClockTime 21:00
+مسٹر اینڈی برہم نےاف سی کائزرسلاوٹرن کو چھوڑ دیا۔	mr.n.01 male.n.02 Name "اینڈی برہم" Title -1 quit.v.02 Agent -1 Time +1 Theme +2 time.n.08 EQU now team.n.01 Name "اف سی کائزرسلاوٹرن"
+ٹام کو ایک جنگلی ہپوپوٹیمس نے روند دیا تھا۔	male.n.02 Name "ٹام" time.n.08 TPR now trample.v.02 Patient -2 Time -1 Agent +2 wild.a.02 AttributeOf +1 hippopotamus.n.01
+انجینئر ٹیلی فون کے کھمبے پر چڑھ گیا۔	person.n.01 Role +1 engineer.n.01 climb.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now telephone_pole.n.01
+جیک وائٹ اور کیرن ایلسن طلاق یافتہ ہیں۔	male.n.02 Name "جیک وائٹ" entity.n.01 Sub -1 Sub +1 female.n.02 Name "کیرن ایلسن" time.n.08 EQU now divorced.a.01 AttributeOf -3 Time -1
+اگر آپ پنسل چاہتے ہیں تو میں آپ کو ایک ادھار دوں گا۔	person.n.01 EQU hearer want.v.02 Pivot -1 Time +1 Theme +2 time.n.08 EQU now pencil.n.01 CONSEQUENCE <1 person.n.01 EQU speaker time.n.08 TSU now lend.v.02 Agent -2 Time -1 Recipient +1 Theme +2 person.n.01 EQU hearer pencil.n.01
+مسٹر وائٹ 10:30 بجے ٹوکیو پہنچیں گے۔	mr.n.01 male.n.02 Name "وائٹ" Title -1 time.n.08 TSU now arrive.v.01 Theme -2 Time -1 Destination +1 Time +2 city.n.01 Name "ٹوکیو" time.n.08 ClockTime 10:30
+مارٹن لوتھر کنگ کو 1968 میں قتل کر دیا گیا تھا۔	male.n.02 Name "مارٹن لوتھر کنگ" time.n.08 TPR now murder.v.01 Patient -2 Time -1 Time +1 time.n.08 YearOfCentury 1968
+چیچنیا کے کتنے باشندے ہیں؟	person.n.01 Quantity ? Role +1 inhabitant.n.01 time.n.08 EQU now country.n.02 Name "چیچنیا" have.v.01 Theme -4 Time -2 Pivot -1
+ہوپ ہولکم کس انجمن کی قیادت کرتا ہے؟	association.n.01 Name ? time.n.08 EQU now female.n.02 Name "ہوپ ہولکم" lead.v.07 Theme -3 Time -2 Agent -1
+ڈین لن ہارٹ اسٹوری کاؤنٹی میں رہتا ہے۔	male.n.02 Name "ڈین لن ہارٹ" reside.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now county.n.02 Name "Storey County"
+میکڈونو نے 10 اگست کو ہوائی چھوڑ دیا۔	vehicle.n.01 Name "میکڈونو" leave.v.01 Theme -1 Time +1 Source +2 Time +4 time.n.08 TPR now island.n.01 Name "ہوائی" time.n.08 DayOfMonth 10 EQU +1 time.n.08 MonthOfYear 8
+اچانک آسمان پر بادل چھا گئے۔	all_of_a_sudden.r.02 sky.n.01 become.v.01 Manner -2 Patient -1 Time +1 Result +2 time.n.08 TPR now overcast.a.01 AttributeOf -3
+مجھے ایک پنسل چاہیے کیا میں آپ کا ایک استعمال کر سکتا ہوں؟	person.n.01 EQU speaker need.v.01 Pivot -1 Time +1 Theme +2 time.n.08 EQU now pencil.n.01 CONTINUATION <1 POSSIBILITY <1 person.n.01 EQU speaker use.v.01 Agent -1 Theme +1 pencil.n.01 User +1 entity.n.01 User +1 person.n.01 EQU hearer
+مائیکل جے ڈیوس کی قیادت میں کون سی کمپنی ہے؟	company.n.01 Name ? time.n.08 EQU now lead.v.07 Theme -2 Time -1 Agent +1 male.n.02 Name "مائیکل جے ڈیوس"
+گلوکارہ جولی کیلی کہاں پڑھاتی ہے؟	location.n.01 Name ? time.n.08 EQU now singer.n.01 female.n.02 Name "جولی کیلی" Role -1 teach.v.01 Location -4 Time -3 Agent -1
+میں نے ایک ایپل ماؤس خریدا۔ یہ صرف 69 یورو ہے!	person.n.01 EQU speaker buy.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now company.n.01 Name "Apple" mouse.n.04 Creator -1 CONTINUATION <1 entity.n.01 be.v.13 Theme -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 EQU 69 euro.n.01 Quantity -1
+قدیم قالین خاص طور پر قیمتی ہیں۔	antique.a.01 AttributeOf +1 carpet.n.01 time.n.08 EQU now especially.r.01 valuable.a.01 AttributeOf -3 Time -2 Degree -1
+آلٹو کروز ڈی لا ڈیمانڈا کتنا لمبا ہے؟	tall.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now mountain.n.01 Name "Alto Cruz de la Demanda"
+سڈ گریگوری کس کمپنی میں کام کرتا ہے؟	company.n.01 Name ? time.n.08 EQU now male.n.02 Name "سڈ گریگوری" work.v.02 Co-Agent -3 Time -2 Agent -1
+کنڈکٹر سیجی کا پورا نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now full.a.03 AttributeOf +1 name.n.01 Bearer +2 conductor.n.01 male.n.02 Name "سیجی" Role -1
+بروس اسپرنگسٹن نیو جرسی میں پیدا ہوئے۔	male.n.02 Name "بروس اسپرنگسٹن" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 state.n.01 Name "نیو جرسی"
+الزبتھ نیوفیلڈ کو کون سا انعام دیا گیا؟	prize.n.01 EQU ? time.n.08 TPR now female.n.02 Name "الزبتھ نیوفیلڈ" award.v.01 Theme -3 Time -2 Goal -1
+کس راک بینڈ نے "ایک پوری لوٹا محبت" گایا؟	rock_band.n.01 Name ? sing.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now music.n.01 Name "ایک پوری لوٹا محبت"
+میری ماں نے سیب کے جوس کی دو بوتلیں خریدیں۔	person.n.01 EQU speaker person.n.01 Role +1 mum.n.02 Of -2 buy.v.01 Agent -2 Time +1 Theme +4 time.n.08 TPR now quantity.n.01 EQU 2 bottle.n.02 Quantity -1 entity.n.01 Sub -1 Sub +1 apple_juice.n.01
+ہم غیر مسلح روسی لوگوں کو گولی نہیں ماریں گے..."	person.n.01 Sub speaker NEGATION <1 time.n.08 TSU now shoot.v.01 Agent -2 Time -1 Patient +3 unarmed.a.01 AttributeOf +2 country.n.02 Name "روس" person.n.01 Source -1
+http://www.anl.siemens.de/news/press.html	event.v.01 Participant +1 url.n.01 Name "http://www.anl.siemens.de/news/press.html"
+میں نانا ہوں۔ میں ہیدیکی یاماوچی کی بیٹی ہوں۔	person.n.01 EQU speaker be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now female.n.02 Name "نانا" CONTINUATION <1 person.n.01 EQU speaker be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "ہیدیکی یاماوچی" person.n.01 Role +1 daughter.n.01 Of -2
+ڈونلڈ ٹرمپ ایک مشہور کاروباری شخصیت ہیں۔	male.n.02 Name "ڈونلڈ ٹرمپ" be.v.08 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now famous.a.01 AttributeOf +2 person.n.01 Role +1 businessperson.n.01
+ہارنٹس کے ایک غول نے بچوں پر حملہ کر دیا۔	swarm.n.02 entity.n.01 Sub -1 Sub +1 hornet.n.01 attack.v.04 Agent -2 Time +1 Patient +2 time.n.08 TPR now child.n.01
+ڈی این اے کا مخفف کیا ہے؟	entity.n.01 Name ? time.n.08 EQU now abbreviation.n.01 EQU +1 word.n.01 EQU "ڈی این اے" stand_for.v.02 Co-Theme -4 Time -3 Theme -2
+میکا کورسماکی کے بھائی کا نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now male.n.02 Name "میکا کورسماکی" person.n.01 Role +1 brother.n.01 Of -2 name.n.01 Bearer -2
+لوئس آرمسٹرانگ کونسا آلہ بجاتے تھے؟	instrument.n.06 EQU ? time.n.08 TPR now male.n.02 Name "لوئس آرمسٹرانگ" play.v.07 Theme -3 Time -2 Agent -1
+سوئٹزرلینڈ کو فرانسیسی میں "سوئس" کہتے ہیں۔	country.n.02 Name "سوئٹزرلینڈ" time.n.08 EQU now call.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "Suisse" french.n.01
+رومیو کو فوری طور پر جولیٹ سے پیار ہو گیا۔	male.n.02 Name "رومیو" instantly.r.01 fall.v.03 Manner -1 Patient -2 Time +1 Result +2 Stimulus +3 time.n.08 TPR now in_love.a.01 Experiencer -4 female.n.02 Name "جولیٹ"
+ہزاروں امریکیوں کے پاس گاڑیاں تھیں۔	entity.n.01 Quantity +1 EQU +2 quantity.n.01 MOR 2000 person.n.01 Source +1 country.n.02 Name "امریکا" own.v.01 Pivot -4 Time +1 Theme +2 time.n.08 TPR now automobile.n.01
+لوگوں کے دو گروپ فٹ بال کھیل رہے ہیں۔	quantity.n.01 EQU 2 group.n.01 Quantity -1 Part +1 person.n.01 time.n.08 EQU now play.v.01 Agent -3 Time -1 Theme +1 football.n.01
+شہنشاہ اوریلیس نے 271 میں اس کے مطابق عمل کیا۔	emperor.n.01 male.n.02 Name "اوریلیس" Title -1 act.v.01 Agent -1 Time +1 Manner +2 Time +3 time.n.08 TPR now accordingly.r.02 time.n.08 YearOfCentury 271
+اس کی غلطیوں کے باوجود سب اس کی عزت کرتے تھے۔	NEGATION <1 person.n.01 NEGATION <1 respect.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now person.n.01 CONTRAST <1 event.v.01 Participant +2 person.n.01 error.n.01 Creator -1
+کنزابورو اوے کو کونسا نوبل انعام دیا گیا؟	nobel_prize.n.01 Name ? time.n.08 TPR now male.n.02 Name "کنزابورو اوے" award.v.01 Theme -3 Time -2 Beneficiary -1
+البانیہ کو البانی زبان میں "شقیپیریا" کہا جاتا ہے۔	country.n.02 Name "البانیا" time.n.08 EQU now call.v.01 Theme -2 Time -1 Result +1 Context +2 name.n.01 EQU "شقیپیریا" albanian.n.02
+کس موسیقار نے "دی گوٹرڈمرنگ" لکھا؟	person.n.01 Name ? Role +1 composer.n.01 write.v.06 Agent -2 Time +1 Result +2 time.n.08 TPR now music.n.01 Name "دی گوٹرڈمرنگ"
+جوزف دی میمبرو کی عمر کتنی تھی جب وہ مر گیا؟	old.a.01 Value ? Time +1 AttributeOf +2 time.n.08 TPR now male.n.02 Name "جوزف دی میمبرو" male.n.02 ANA -1 die.v.01 TIN -4 Patient -1 Time +1 time.n.08 TPR now
+یہ عجیب بات ہے کہ ٹام نے اس کا ذکر نہیں کیا۔	entity.n.01 time.n.08 EQU now strange.a.01 Time -1 Proposition >1 EQU -2 CONTINUATION <0 male.n.02 Name "ٹام" NEGATION <1 time.n.08 TPR now mention.v.01 Agent -2 Time -1 Topic +1 entity.n.01
+اسوان ہائی ڈیم کس ملک میں واقع ہے؟	country.n.02 Name ? time.n.08 EQU now structure.n.01 Name "Aswan High Dam" located.a.01 Location -3 Time -2 Theme -1
+http://www.hoechst.com/press_e/17017e1.htm	event.v.01 Participant +1 url.n.01 Name "http://www.hoechst.com/press_e/17017e1.htm"
+میں گندے لطیفے جانتا ہوں، لیکن میں انہیں نہیں بتاتا۔	person.n.01 EQU speaker know.v.01 Experiencer -1 Time +1 Stimulus +3 time.n.08 EQU now dirty.a.02 AttributeOf +1 joke.n.01 CONTRAST <1 person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now tell.v.03 Agent -2 Time -1 Topic +1 entity.n.01
+صدر فوجیموری 1995 میں دوبارہ منتخب ہوئے۔	president.n.03 male.n.02 Name "فوجیموری" Title -1 time.n.08 TPR now reelect.v.01 Theme -2 Time -1 Time +1 time.n.08 YearOfCentury 1995
+http://www.anl.siemens.de/about/index.html	event.v.01 Participant +1 address.n.01 Name "http://www.anl.siemens.de/about/index.html"
+اگر میں نے آپ کو غلط سمجھا ہے، تو میں بہت معذرت خواہ ہوں۔	person.n.01 EQU speaker misjudge.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now person.n.01 EQU hearer CONSEQUENCE <1 person.n.01 EQU speaker time.n.08 EQU now terribly.r.01 sorry.a.01 AttributeOf -3 Time -2 Degree -1
+میں پاگل پن کا شکار نہیں ہوں - میں اس سے لطف اندوز ہوں!	person.n.01 EQU speaker NEGATION <1 time.n.08 EQU now suffer.v.02 Experiencer -2 Time -1 Stimulus +1 insanity.n.01 CONTRAST <1 person.n.01 EQU speaker enjoy.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now entity.n.01
+مجھے ڈر ہے کہ آپ نے غلط نمبر ڈائل کیا ہے۔	person.n.01 EQU speaker time.n.08 EQU now afraid.a.02 Time -1 Proposition >1 Experiencer -2 CONTINUATION <0 person.n.01 EQU hearer dial.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now wrong.a.01 AttributeOf +1 number.n.04
+آرنلڈ شوارزنیگر آسٹریا میں پیدا ہوئے۔	male.n.02 Name "آرنلڈ شوارزنیگر" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 country.n.02 Name "آسٹریا"
+اگر میں نے رات کا کھانا اچھی طرح سے نہیں پکایا تو مجھے معاف کر دیں۔	person.n.01 EQU hearer forgive.v.01 Agent -1 Theme +1 person.n.01 EQU speaker PRECONDITION <1 person.n.01 EQU speaker NEGATION <1 cook.v.02 Agent -1 Time +1 Product +2 Manner +3 time.n.08 TPR now supper.n.01 well.a.01
+راجر ولیمز، پیانوادک، کہاں بڑے ہوئے؟	location.n.01 Name ? time.n.08 TPR now male.n.02 Name "راجر ولیمز" EQU +1 person.n.01 Role +1 pianist.n.01 grow_up.v.01 Location -5 Time -4 Patient -3
+میگی ڈکسن کے بھائی کا کیا نام ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now name.n.01 Bearer +2 female.n.02 Name "میگی ڈکسن" person.n.01 Role +1 brother.n.01 Of -2
+"اس کی عمر کتنی ہے؟" "وہ بارہ سال کی ہے۔"	old.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now female.n.02 CONTINUATION <1 female.n.02 ANA -1 time.n.08 EQU now quantity.n.01 EQU 12 year.n.01 Quantity -1 old.a.01 Theme -4 Time -3 Value -1
+ایک اڑتی طشتری آئی اور میری گایوں کو لے گئی۔	flying_saucer.n.01 come.v.02 Theme -1 Time +1 time.n.08 TPR now take_away.v.01 Agent -3 Time +1 Theme +3 time.n.08 TPR now person.n.01 EQU speaker cow.n.01 Owner -1
+ٹام کا امریکی لہجہ کس قسم کا ہے؟	entity.n.01 InstanceOf +2 EQU ? country.n.02 Name "امریکا" accent.n.01 Source -1 time.n.08 EQU now male.n.02 Name "ٹام" have.v.02 Theme -5 Time -2 Pivot -1
+1999 میں کتنے لوگوں نے ڈزنی لینڈ کا دورہ کیا؟	person.n.01 Quantity ? visit.v.01 Agent -1 Time +1 Location +2 Time +3 time.n.08 TPR now park.n.02 Name "Disneyland" time.n.08 YearOfCentury 1999
+ان کا طیارہ دوپہر 2 بجے ہانگ کانگ کے لیے روانہ ہوتا ہے۔	person.n.01 plane.n.01 User -1 leave.v.01 Theme -1 Time +1 Destination +2 Time +3 time.n.08 TSU now region.n.03 Name "ہانگ کانگ" time.n.08 ClockTime 14:00
+گیبریل گارکو راؤل بووا کی طرح خوبصورت ہے۔	male.n.02 Name "گیبریل گارکو" time.n.08 EQU now as.r.01 Theme -2 Co-Theme +2 beautiful.a.01 AttributeOf -3 Time -2 Degree -1 male.n.02 Name "راؤل بووا"
+http://www.ispaworld.org/canada/rules1.html	event.v.01 Participant +1 url.n.01 Name "http://www.ispaworld.org/canada/rules1.html"
+الڈرک ہیزن ایمز کی بیوی کا نام ماریا تھا۔	male.n.02 Name "الڈرک ہیزن ایمز" person.n.01 Role +1 wife.n.01 Of -2 time.n.08 TPR now call.v.01 Theme -3 Time -1 Result +1 name.n.01 EQU "ماریا"
+کیا آپ مٹ رومنی کو سپورٹ کرتے ہیں یا براک اوباما؟	time.n.08 EQU now person.n.01 EQU hearer support.v.03 Time -2 Experiencer -1 Stimulus +1 entity.n.01 NEGATION <1 NEGATION <1 male.n.02 Name "مٹ رومنی" EQU -1 NEGATION <2 male.n.02 Name "براک اوباما" EQU -2
+1991 میں، ایلین کولنز ایک خلاباز بن گئیں۔	time.n.08 YearOfCentury 1991 female.n.02 Name "ایلین کولنز" become.v.02 Time -2 Patient -1 Time +1 Result +2 time.n.08 TPR now person.n.01 Role +1 astronaut.n.01
+ریمبرینڈٹ کی یہ پینٹنگ ایک شاہکار ہے۔	painting.n.01 Creator +1 male.n.02 Name "ریمبرینڈٹ" be.v.01 Theme -2 Time +1 Co-Theme +2 time.n.08 EQU now masterpiece.n.01
+روس کے کس حصے میں تیل کی پائپ پھٹ گئی؟	part.n.05 Name ? PartOf +1 country.n.02 Name "روس" time.n.08 TPR now oil_pipeline.n.01 burst.v.01 Location -4 Time -2 Patient -1
+گیرٹروڈ جیکل نے دی وائلڈ گارڈن کے شریک مصنف ہیں۔	female.n.02 Name "گیرٹروڈ جیکل" co-author.v.01 Agent -1 Time +1 Result +2 time.n.08 TPR now book.n.01 Name "دی وائلڈ گارڈن"
+ایک چمکدار سرخ لیڈی بگ میری انگلی پر اترا۔	bright-red.a.01 ladybug.n.01 Colour -1 land.v.02 Theme -1 Time +1 Destination +3 time.n.08 TPR now person.n.01 EQU speaker fingertip.n.01 PartOf -1
+فننش میرے بچوں کی مادری زبان ہے۔	finnish.n.01 be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now mother_tongue.n.01 Creator +2 person.n.01 EQU speaker child.n.02 Of -1
+میں نے سوچا کہ اس آدمی کے پاس بندوق ہے، اس لیے میں نے اسے گولی مار دی۔	person.n.01 EQU speaker think.v.01 Proposition >1 Agent -1 Time +1 time.n.08 TPR now CONTINUATION <0 guy.n.01 have.v.01 Pivot -1 Time +1 Theme +2 time.n.08 TPR now gun.n.01
+"یہ کس کے دستانے ہیں؟" "وہ لیزا کے ہیں۔"	person.n.01 Name ? glove.n.02 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 CONTINUATION <1 entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 Name "لیزا" glove.n.02 User -1
+میں ماریکا کو فون نہیں کر سکتا۔ وہ فن لینڈ میں رہتی ہے!	person.n.01 EQU speaker NEGATION <1 POSSIBILITY <1 phone.v.01 Agent -1 Theme +1 female.n.02 Name "ماریکا" CONTINUATION <1 female.n.02 live.v.01 Theme -1 Time +1 Location +2 time.n.08 EQU now country.n.02 Name "فن لینڈ"
+سربینیکا کی ڈچ تصاویر غائب ہو گئی ہیں۔	country.n.02 Name "نیدرلینڈز" photo.n.01 Source -1 Theme +1 city.n.01 Name "سربینیکا" disappear.v.01 Theme -2 Time +1 time.n.08 TPR now
+چیپینڈیل سٹرپٹیز کلب کی بنیاد کس نے رکھی؟	person.n.01 Name ? found.v.02 Agent -1 Time +1 Theme +3 time.n.08 TPR now striptease.n.02 club.n.07 Name "چیپینڈیل" Theme -1
+میں کام قبول کروں گا، بشرطیکہ آپ میری مدد کریں۔	person.n.01 EQU speaker time.n.08 TSU now accept.v.03 Agent -2 Time -1 Theme +1 work.n.01 EXPLANATION <1 person.n.01 EQU hearer help.v.01 Agent -1 Beneficiary +1 person.n.01 EQU speaker
+http://www.anl.siemens.de/solution/index.html	event.v.01 Participant +1 url.n.01 Name "http://www.anl.siemens.de/solution/index.html"
+مشیل کیمڈیسس آئی ایم ایف کے منیجنگ ڈائریکٹر ہیں۔	male.n.02 Name "مشیل کیمڈیسس" be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now person.n.01 Role +1 managing_director.n.01 Of +1 organization.n.01 Name "آئی ایم ایف"
+موٹلی کریو کی نکی سکس کا اصل نام کیا ہے؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now musical_organization.n.01 Name "موٹلی کریو" male.n.02 Name "نکی سکس" PartOf -1 real.a.01 AttributeOf +1 name.n.01 Bearer -2
+مارٹن سکورسی میرے پسندیدہ فلم ڈائریکٹر ہیں۔	male.n.02 Name "مارٹن سکورسی" be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 EQU speaker favorite.a.02 Experiencer -1 Stimulus +2 person.n.01 Role +1 film_director.n.01
+وولف گینگ اماڈیئوس موزارٹ سالزبرگ میں پیدا ہوا تھا۔	male.n.02 Name "وولف گینگ اماڈیئوس موزارٹ" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Location +1 city.n.01 Name "سالزبرگ"
+کھیلوں سے محبت کرنے کے علاوہ، میرا بیٹا آرٹ سے بھی محبت کرتا ہے۔	love.v.01 Stimulus +1 Experiencer +2 sport.n.01 person.n.01 Role +2 person.n.01 EQU speaker son.n.01 Of -1 love.v.01 Experiencer -3 Time +1 Stimulus +2 time.n.08 EQU now art.n.01
+ڈین نے الزائمر کی علامات ظاہر کرنا شروع کر دیں۔	male.n.02 Name "ڈین" begin.v.01 Time +1 PartOf +2 time.n.08 TPR now display.v.01 Goal -3 Theme +1 symptom.n.01 Causer +1 alzheimer's.n.01
+اکتوبر 1995 میں، فوجی پلانٹ کو توسیع دی گئی۔	time.n.08 MonthOfYear 10 EQU +1 time.n.08 YearOfCentury 1995 city.n.01 Name "فوجی" plant.n.01 Location -1 time.n.08 TPR now expand.v.02 Time -5 Patient -2 Time -1
+ماؤنٹ کلیمنجارو کس ملک میں واقع ہے؟	country.n.02 Name ? time.n.08 EQU now mountain.n.01 Name "Mount Kilimanjaro" located.a.01 Location -3 Time -2 Theme -1
+گراف نے آسٹریلیا کے بریڈک کو 6:2، 6:2 سے شکست دی۔	female.n.02 Name "گراف" defeat.v.01 Agent -1 Time +1 Co-Agent +2 Extent +5 time.n.08 TPR now female.n.02 Name "بریڈک" Source +1 country.n.02 Name "آسٹریلیا" score.n.03 Value 6-2 entity.n.01 Sub -1 Sub +1 score.n.03 Value 6-2
+اخبار کے مطابق کل برف باری ہوگی۔	according.a.02 Proposition >1 Source +1 paper.n.03 CONTINUATION <0 entity.n.01 time.n.08 TSU now snow.v.01 EQU -2 Time -1 Time +1 time.n.08 TIN +2 day.n.03 TCT now TAB +1 day.n.03
+میرا گللک میری شرارتی بہن نے توڑ دیا۔	person.n.01 EQU speaker piggy_bank.n.01 User -1 time.n.08 TPR now break.v.05 Patient -2 Time -1 Agent +3 person.n.01 EQU speaker naughty.a.02 AttributeOf +1 person.n.01 Role +1 sister.n.01 Of -3
+کیا یہ سچ ہے کہ ٹام ایک جاپانی لڑکی سے ڈیٹنگ کر رہا ہے؟	time.n.08 EQU now entity.n.01 true.a.01 Time -2 Proposition >1 EQU -1 CONTINUATION <0 male.n.02 Name "ٹام" time.n.08 EQU now date.v.01 Agent -2 Time -1 Co-Agent +2 country.n.02 Name "جاپان" girl.n.01 Source -1
+ایک خوبصورت رابن میرے کمرے کی کھڑکی پر اترا۔	pretty.a.01 AttributeOf +1 robin.n.01 land.v.01 Theme -1 Time +1 Destination +4 time.n.08 TPR now person.n.01 EQU speaker room.n.01 User -1 windowsill.n.01 PartOf -1
+کیا آپ نے ڈارون کے نظریہ ارتقاء کا مطالعہ کیا ہے؟	person.n.01 EQU hearer study.v.01 Agent -1 Time +1 Theme +3 time.n.08 TPR now male.n.02 Name "ڈارون" theory_of_evolution.n.01 Creator -1
+"آئی ڈریم آف جینی" کس ساحل پر فلمایا گیا تھا؟	beach.n.01 Name ? time.n.08 TPR now movie.n.01 Name "I Dream of Jeannie" film.v.01 Location -3 Time -2 Theme -1
+یوکو اب لندن میں ہے۔ وہ انگریزی پڑھ رہی ہے۔	female.n.02 Name "یوکو" be.v.03 Theme -1 Time +1 Location +2 Time +3 time.n.08 EQU now city.n.01 Name "لندن" time.n.08 EQU now CONTINUATION <1 female.n.02 ANA -5 time.n.08 EQU now study.v.02 Agent -2 Time -1 Theme +1 english.n.03
+نہ انیا اور نہ ہی مگڈلینا جسٹن بیبر سے محبت کرتے ہیں۔	NEGATION <1 female.n.02 Name "انیا" love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "جسٹن بیبر" NEGATION <2 female.n.02 Name "مگڈلینا" love.v.01 Experiencer -1 Time +1 Stimulus +2 time.n.08 EQU now male.n.02 Name "جسٹن بیبر"
+ہالینڈ میں ایکسٹیسی کی گولی کی قیمت کتنی ہے؟	measure.n.02 Quantity ? time.n.08 EQU now pill.n.02 Content +1 ecstasy.n.03 cost.v.01 Value -4 Time -3 Theme -2 Location +1 country.n.02 Name "ہالینڈ"
+فرانسیسی کے علاوہ وہ ظاہر ہے انگریزی بول سکتا ہے۔	male.n.02 POSSIBILITY <1 entity.n.01 french.n.01 SubOf -1 obviously.r.01 speak.v.03 Agent -4 Theme -3 Manner -1 english.n.01 SubOf -4
+جے پیٹرک رونی کس کمپنی کے چیئرمین ہیں؟	company.n.01 Name ? be.v.08 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now male.n.02 Name "جے پیٹرک رونی" chairman.n.01 Of -4
+"امریکن بیوٹی" میں سکاٹ بکولا کس نے ادا کیا؟	person.n.01 Name ? time.n.08 TPR now male.n.02 Name "سکاٹ بکولا" play.v.04 Theme -3 Time -2 Agent -1 Context +1 movie.n.01 Name "امریکن بیوٹی"
+اس نے وہ گھر خریدا کیونکہ اس کی بیوی اسے پسند کرتی تھی۔	person.n.01 buy.v.01 Agent -1 Time +1 Theme +2 time.n.08 TPR now house.n.01 EXPLANATION <1 person.n.01 ANA -4 person.n.01 Role +1 wife.n.01 Of -2 like.v.03 Experiencer -2 Time +1 Stimulus +2 time.n.08 TPR now entity.n.01
+"یہ بالیاں کس کی ہیں؟" "وہ تانیا کے ہیں۔"	person.n.01 Name ? earring.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 CONTINUATION <1 entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now female.n.02 Name "تانیا" earring.n.01 User -1
+میں نے کل قراقرم شہر کا دورہ کیا ہے۔	person.n.01 EQU speaker visit.v.02 Agent -1 Time +1 Theme +2 Time +4 time.n.08 TPR now city.n.01 EQU +1 city.n.01 Name "کاراکورم" time.n.08 TIN +2 day.n.03 TCT now day.n.03 TAB -1
+وزیر خارجہ گائیڈو ڈی ٹیلا برطانیہ گئے۔	foreign_minister.n.01 male.n.02 Name "گائیڈو ڈی ٹیلا" Role -1 go.v.01 Theme -1 Time +1 Destination +2 time.n.08 TPR now country.n.02 Name "برطانیہ"
+سارہ ہیل نے 1830 میں کون سی مشہور آیت لکھی؟	famous.a.01 AttributeOf +1 verse.n.02 Name ? time.n.08 TPR now female.n.02 Name "سارہ ہیل" write.v.01 Result -3 Time -2 Agent -1 Time +1 time.n.08 YearOfCentury 1830
+اس نے آکسفورڈ یونیورسٹی میں انگریزی ادب پڑھا۔	person.n.01 read.v.07 Agent -1 Time +1 Theme +3 Location +4 time.n.08 TPR now english.n.01 literature.n.02 Context -1 university.n.03 Name "آکسفورڈ یونیورسٹی"
+وینبرگ، سلام اور گلاشو نے کون سا انعام جیتا؟	prize.n.01 Name ? time.n.08 TPR now male.n.02 Name "وینبرگ" male.n.02 Name "سلام" entity.n.01 Sub -2 Sub -1 Sub +1 male.n.02 Name "گلاشو" win.v.01 Theme -6 Time -5 Agent -2
+جان ملیئس کی ہدایت کاری میں بننے والی پہلی فلم کون سی تھی؟	entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now film.n.01 Order 1 direct.v.03 Theme -1 Agent +1 male.n.02 Name "جان ملیئس"
+برسوں سے ٹام کو درد شقیقہ کے درد کا سامنا تھا۔	year.n.01 male.n.02 Name "ٹام" suffer.v.02 Duration -2 Experiencer -1 Time +1 Stimulus +2 time.n.08 TPR now migraine.n.01 headache.n.02 EQU -1
+بدمعاشوں نے بینک سے ہزاروں ڈالر لوٹ لیے۔	person.n.01 Role +1 gangster.n.01 rob.v.01 Agent -2 Time +1 Source +2 Theme +3 time.n.08 TPR now bank.n.02 entity.n.01 Quantity +1 EQU +2 quantity.n.01 MOR 2000 dollar.n.01
+پانچ سو برطانوی فوجی پکڑے گئے تھے۔	quantity.n.01 EQU 500 country.n.02 Name "برطانیہ" person.n.01 Quantity -2 Source -1 Role +1 soldier.n.01 time.n.08 TPR now capture.v.03 Theme -3 Time -1
+ولٹ چیمبرلین نے کس سال 100 پوائنٹس اسکور کیے؟	time.n.08 YearOfCentury ? time.n.08 TPR now male.n.02 Name "ولٹ چیمبرلین" score.v.01 Time -3 Time -2 Agent -1 Theme +2 quantity.n.01 EQU 100 point.n.10 Quantity -1
+گرم موسم میں ہائیڈریشن انتہائی اہم ہے۔	hydration.n.01 time.n.08 EQU now critically.r.01 important.a.03 AttributeOf -3 Time -2 Degree -1 Context +2 hot.a.01 Value + weather.n.01 Attribute -1
+1945 میں ہیروشیما پر ایٹم بم گرایا گیا۔	time.n.08 YearOfCentury 1945 atomic_bomb.n.01 time.n.08 TPR now drop.v.02 Time -3 Theme -2 Time -1 Destination +1 city.n.01 Name "ہیروشیما"
+جارج واشنگٹن 22 فروری 1732 کو پیدا ہوئے۔	male.n.02 Name "جارج واشنگٹن" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +2 time.n.08 DayOfMonth 22 EQU +1 time.n.08 MonthOfYear 2 EQU +1 time.n.08 YearOfCentury 1732
+"گریز" میں ہائی اسکول کا نام کیا تھا؟	entity.n.01 EQU ? be.v.02 Theme -1 Time +1 Co-Theme +2 time.n.08 TPR now name.n.01 Bearer +1 Context +2 high_school.n.01 situation_comedy.n.02 Name "گریز"
+ایک اطالوی ہدایت کار کو اعزازی آسکر سے نوازا جاتا ہے۔	country.n.02 Name "اٹلی" person.n.01 Source -1 Role +1 director.n.04 time.n.08 EQU now award.v.01 Beneficiary -3 Time -1 Theme +2 honorary.a.01 AttributeOf +1 oscar.n.01
+وینیسا ریڈگریو کس تنظیم کو سپورٹ کرتی ہے؟	organization.n.01 Name ? time.n.08 EQU now female.n.02 Name "ونیسا ریڈگریو" support.v.02 Beneficiary -3 Time -2 Agent -1
+کیا آپ کو لگتا ہے کہ میری چیئر لیڈر بننے کے لیے بہت موٹی ہے؟	time.n.08 EQU now person.n.01 EQU hearer think.v.01 Time -2 Proposition >1 Agent -1 Time +1 time.n.08 EQU now CONTINUATION <0 female.n.02 Name "میری" time.n.08 EQU now fat.a.01 AttributeOf -2 Time -1 NEGATION <1 POSSIBILITY <1 be.v.08 Theme -3 Co-Theme +1 person.n.01 Role +1 cheerleader.n.02
+کیپٹن سکاٹ دسمبر 1902 میں اسکاٹ آئی لینڈ پہنچا۔	captain.n.01 male.n.02 Name "سکاٹ" Title -1 reach.v.01 Theme -1 Time +1 Goal +2 Time +3 time.n.08 TPR now island.n.01 Name "اسکاٹ آئی لینڈ" time.n.08 MonthOfYear 12 EQU +1 time.n.08 YearOfCentury 1902
+حادثے میں متعدد سیاح زخمی ہوگئے۔	entity.n.01 Quantity + EQU +1 person.n.01 Role +1 tourist.n.01 time.n.08 TPR now injure.v.01 Patient -4 Time -1 Causer +1 accident.n.01
+ریگولیشن گولف بال میں کتنے ڈمپل ہوتے ہیں؟	dimple.n.02 Quantity ? time.n.08 EQU now regulation.a.01 AttributeOf +1 golf_ball.n.01 have.v.02 Theme -4 Time -3 Pivot -1
+"یہ کاغذات کس کے ہیں؟" "وہ مائیکل کے ہیں۔"	person.n.01 Name ? document.n.01 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 CONTINUATION <1 entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now male.n.02 Name "مائیکل" 's.n.01 User -1
+جرمن فوجی بوسنیا میں بوسنا پر پل کی مرمت کر رہے ہیں۔	country.n.02 Name "جرمنی" person.n.01 Source -1 Role +1 soldier.n.01 repair.v.01 Agent -2 Patient +1 Location +3 bridge.n.01 Path +1 river.n.01 Name "بوسنا" country.n.02 Name "بوسنیا"
+سالانہ صلاحیت اب تقریباً 90,000 ٹن ہے۔	annual.a.02 AttributeOf +1 capacity.n.01 time.n.08 EQU now amount.v.02 Theme -2 Time -1 Time +1 Value +3 time.n.08 EQU now quantity.n.01 APX 90000 ton.n.02 Quantity -1
+لغت میں تقریباً نصف ملین الفاظ ہیں۔	dictionary.n.01 contain.v.01 Pivot -1 Time +1 Theme +3 time.n.08 EQU now quantity.n.01 APX 500000 word.n.01 Quantity -1
+رگبی ایک ایسا کھیل ہے جو بارش سے کبھی نہیں رکتا۔	rugby.n.01 be.v.01 Theme -1 Time +1 Co-Theme +2 time.n.08 EQU now sport.n.01 NEGATION <1 time.n.08 EQU now call_off.v.01 Theme -2 Time -1 Causer +1 rain.n.01
+لوسی، ایک اشرافیہ، ڈریکولا کا شکار بن جاتی ہے۔	female.n.02 Name "لوسی" EQU +1 person.n.01 Role +1 aristocrat.n.01 become.v.02 Patient -3 Time +1 Result +2 time.n.08 EQU now person.n.01 Role +1 victim.n.01 Of +1 male.n.02 Name "ڈریکولا"
+نینسی اور ڈومینک ایانیرو کے پاس کینیڈا کی شہریت تھی۔	female.n.02 Name "نینسی" entity.n.01 Sub -1 Sub +1 male.n.02 Name "ڈومینک ایانیرو" have.v.02 Pivot -2 Time +1 Theme +3 time.n.08 TPR now country.n.02 Name "کینیڈا" citizenship.n.01 Source -1
+ریگولیشن پنگ پونگ ٹیبل پر نیٹ کتنا اونچا ہے؟	high.a.01 Value ? Time +1 AttributeOf +2 time.n.08 EQU now net.n.05 PartOf +2 regulation.a.01 AttributeOf +1 ping-pong_table.n.01
+انتہائی تیز موسیقی نے ان کی گفتگو میں خلل ڈالا۔	extremely.r.01 loud.a.01 Degree -1 Value + AttributeOf +1 music.n.01 interrupt.v.03 Causer -1 Time +1 Patient +3 time.n.08 TPR now person.n.01 conversation.n.01 Creator -1
+میری روشنی کے لیے حساس ہے، اس لیے وہ دھوپ کا چشمہ پہنتی ہے۔	female.n.02 Name "میری" time.n.08 EQU now sensitive.a.01 Experiencer -2 Time -1 Stimulus +1 light.n.01 CONTINUATION <1 female.n.02 ANA -4 wear.v.02 Agent -1 Time +1 Theme +2 time.n.08 EQU now sunglasses.n.01
+میرے ساٹھ سالہ مالک مکان نے ٹرامپولین کیوں خریدی؟	reason.n.01 EQU ? time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 60 year.n.01 Quantity -1 old.a.01 Value -1 AttributeOf +1 person.n.01 Role +1 landlord.n.01 Of -5 buy.v.01 Causer -8 Time -7 Agent -2 Theme +1 trampoline.n.01
+"یہ رسالے کس کے ہیں؟" "وہ ڈاکٹر کے ہیں۔"	person.n.01 Name ? magazine.n.02 User -1 be.v.02 Co-Theme -1 Time +1 Theme +2 time.n.08 EQU now entity.n.01 CONTINUATION <1 entity.n.01 be.v.02 Theme -1 Time +1 Co-Theme +4 time.n.08 EQU now person.n.01 Role +1 doctor.n.01 magazine.n.02 User -2
+ڈیوڈ کیمرون کا تعلق یونائیٹڈ کنگڈم کنزرویٹو پارٹی سے ہے۔	male.n.02 Name "ڈیوڈ کیمرون" belong.v.05 Theme -1 Time +1 Goal +3 time.n.08 EQU now country.n.02 Name "یونائیٹڈ کنگڈم" party.n.01 Name "کنزرویٹو پارٹی" Location -1
+ڈینیئل گیبریل فارن ہائیٹ 1686 میں ڈینزگ میں پیدا ہوئے۔	male.n.02 Name "ڈینیئل گیبریل فارن ہائیٹ" time.n.08 TPR now bear.v.02 Patient -2 Time -1 Time +1 Location +2 time.n.08 YearOfCentury 1686 city.n.01 Name "ڈینزگ"
+یوکیچی فوکوزاوا نے مغربی خیالات کو جاپان میں متعارف کرایا۔	male.n.02 Name "یوکیچی فوکوزاوا" introduce.v.02 Agent -1 Time +1 Theme +3 Destination +4 time.n.08 TPR now western.a.01 AttributeOf +1 idea.n.01 country.n.02 Name "جاپان"
+ریاستہائے متحدہ امریکا میں آپ کا پسندیدہ چھوٹا شہر کون سا ہے؟	entity.n.01 Name ? be.v.02 Theme -1 Time +1 Co-Theme +5 time.n.08 EQU now person.n.01 EQU hearer favorite.a.02 User -1 Stimulus +2 small.a.01 AttributeOf +1 town.n.01 Location +1 country.n.02 Name "ریاستہائے متحدہ امریکا"
+روڈولف شرپنگ کس سیاسی جماعت کے رکن ہیں؟	political_party.n.01 Name ? be.v.01 Time +1 Theme +2 Co-Theme +3 time.n.08 EQU now male.n.02 Name "روڈولف شرپنگ" person.n.01 Role +1 member.n.01 Of -5
+میں سردی کے لیے بہت حساس ہوں، کیا مجھے ایک اور کمبل مل سکتا ہے؟	person.n.01 EQU speaker time.n.08 EQU now very.r.01 sensitive.a.01 Experiencer -3 Time -2 Degree -1 Stimulus +1 cold.n.02 CONTINUATION <1 POSSIBILITY <1 person.n.01 EQU speaker have.v.01 Pivot -1 Theme +2 blanket.n.01 NEQ +1 blanket.n.01
+بہت سے جھگڑے غلط فہمی سے ہوتے ہیں۔	quarrel.n.01 Quantity + come_about.v.01 Theme -1 Time +1 Causer +2 time.n.08 EQU now misunderstanding.n.02
+کس ہسپانوی ایکسپلورر نے مسیسیپی دریا دریافت کیا؟	country.n.02 Name "ہسپانیہ" person.n.01 Name ? Source -1 Role +1 explorer.n.01 discover.v.01 Agent -2 Time +1 Theme +2 time.n.08 TPR now river.n.01 Name "مسیسیپی دریا"
+کاغذات کے مطابق اس شخص نے بالآخر اعتراف جرم کر لیا ہے۔	according.a.02 Proposition >1 Source +1 paper.n.03 CONTINUATION <0 man.n.01 finally.r.01 confess.v.01 Agent -2 Manner -1 Time +1 time.n.08 TPR now
+اندریس برزنش لیٹویا کے نئے صدر بنیں گے۔	male.n.02 Name "اندریس برزنش" time.n.08 TSU now become.v.02 Patient -2 Time -1 Result +2 new.a.05 AttributeOf +1 person.n.01 Role +1 president.n.03 Of +1 state.n.04 Name "لیٹویا"
+ایکٹینیم کو 1899 میں آندرے لوئس ڈیبیرن نے دریافت کیا تھا۔	actinium.n.01 time.n.08 TPR now discover.v.03 Theme -2 Time -1 Agent +1 Time +2 male.n.02 Name "آندرے لوئس ڈیبیرن" time.n.08 YearOfCentury 1899
+ولیم کولبیک دسمبر 1902 میں جزیرہ مارکھم پہنچا۔	male.n.02 Name "ولیم کولبیک" reach.v.01 Theme -1 Time +1 Goal +2 Time +3 time.n.08 TPR now island.n.01 Name "مارکہم جزیرہ" time.n.08 MonthOfYear 12 EQU +1 time.n.08 YearOfCentury 1902
+وکٹر ایمانوئل تیسرا 1900 سے 1946 تک اٹلی کا بادشاہ رہا۔	male.n.02 Name "وکٹر ایمانوئل تیسرا" be.v.08 Theme -1 Time +1 Co-Theme +2 Start +5 Finish +6 time.n.08 TPR now person.n.01 Role +1 king.n.01 Of +1 state.n.04 Name "اٹلی" time.n.08 YearOfCentury 1900 time.n.08 YearOfCentury 1946
+اٹلی چیمپئن شپ میں کتنی فٹ بال ٹیمیں کھیلتی ہیں؟	football_team.n.01 Quantity ? play.v.01 Agent -1 Time +1 Context +3 time.n.08 EQU now country.n.02 Name "اٹلی" championship.n.02 Location -1
+شوسٹاکووچ کا سٹرنگ کوارٹیٹ نمبر 8 کس کے لیے وقف ہے؟	person.n.01 Name ? male.n.02 Name "شوسٹاکووچ" music.n.01 Name "سٹرنگ کوارٹیٹ نمبر 8" Creator -1 dedicate.v.03 Recipient -3 Theme -1
+سوسن اور باب لندن سے آسٹریلیا کے شہر سڈنی کے لیے پرواز کر چکے ہیں۔	female.n.02 Name "سوسن" entity.n.01 Sub -1 Sub +1 male.n.02 Name "باب" fly.v.01 Theme -2 Time +1 Source +2 Destination +3 time.n.08 TPR now city.n.01 Name "لندن" city.n.01 Name "سڈنی" PartOf +1 country.n.02 Name "آسٹریلیا"
+http://www.nahost-politik.de/friedensbewegung/peace-80.htm	event.v.01 Participant +1 url.n.01 Name "http://www.nahost-politik.de/friedensbewegung/peace-80.htm"
+خاتون اول ہلیری کلنٹن نے کن ممالک کا دورہ کیا؟	country.n.02 Name ? time.n.08 TPR now visit.v.04 Destination -2 Time -1 Theme +2 first_lady.n.02 female.n.02 Name "ہلیری کلنٹن" Role -1
+جاپان 1912 سے اولمپکس میں کھلاڑیوں کو بھیج رہا ہے۔	state.n.04 Name "جاپان" time.n.08 TPR now send.v.01 Agent -2 Time -1 Theme +1 Destination +3 Start +4 person.n.01 Role +1 athlete.n.01 olympics.n.01 time.n.08 YearOfCentury 1912
+ایس پی ڈی پارٹی کی نائب صدر محترمہ میتھیس میئر نے اتفاق کیا۔	ms.n.05 female.n.02 Name "متیوس میئر" Title -1 EQU +1 person.n.01 Role +1 vice_president.n.01 Of +1 party.n.01 Name "ایس پی ڈی پارٹی" agree.v.01 Agent -4 Time +1 time.n.08 TPR now
+اینڈرے ہینری کونسٹنٹ ون ہاسلٹ ماسٹرکت میں تعلیم یافتہ تھا۔	male.n.02 Name "اینڈرے ہینری کونسٹنٹ ون ہاسلٹ" time.n.08 TPR now educate.v.01 Recipient -2 Time -1 Location +1 city.n.01 Name "ماسٹرکت"
+آج میں نے اپنے چار سالہ بھتیجے کو کنڈرگارٹن سے اٹھایا۔	time.n.08 TIN +2 day.n.03 TCT now day.n.03 EQU -1 person.n.01 EQU speaker pick_up.v.04 Time -4 Agent -1 Time +1 Theme +6 Source +8 time.n.08 TPR now person.n.01 EQU speaker quantity.n.01 EQU 4 year.n.01 Quantity -1 old.a.01 Value -1 AttributeOf +1 person.n.01 Role +1 nephew.n.01 User -5 kindergarten.n.01
+کتنی کتابیں ہیں! کیا ان کا تعلق یونیورسٹی کی لائبریری سے ہے؟	be.v.01 Theme +1 Co-Theme +2 entity.n.01 entity.n.01 Quantity + EQU +1 book.n.02 CONTINUATION <1 time.n.08 EQU now entity.n.01 belong.v.01 Time -2 Theme -1 Pivot +2 university.n.03 library.n.02 PartOf -1
+سائیکلنگ اچھی ورزش ہے۔ مزید یہ کہ یہ ہوا کو آلودہ نہیں کرتا۔	cycling.n.01 be.v.01 Theme -1 Time +1 Co-Theme +3 time.n.08 EQU now good.a.01 AttributeOf +1 exercise.n.01 CONTINUATION <1 entity.n.01 NEGATION <1 time.n.08 EQU now pollute.v.01 Causer -2 Time -1 Patient +1 air.n.01
+1995 میں پیداوار کا حجم 100,000 میٹرک ٹن سے زیادہ تھا۔	time.n.08 YearOfCentury 1995 production.n.05 volume.n.01 Theme -1 total.v.02 Time -3 Theme -1 Time +1 Value +4 time.n.08 TPR now quantity.n.01 MOR +1 quantity.n.01 EQU 100000 metric_ton.n.01 Quantity -2
+ایڈا چارلٹن کو 1945 میں کس تابکار مادے سے انجکشن لگایا گیا تھا؟	radioactive.a.01 AttributeOf +1 substance.n.04 EQU ? time.n.08 TPR now female.n.02 Name "ایڈا چارلٹن" inject.v.01 Theme -3 Time -2 Destination -1 Time +1 time.n.08 YearOfCentury 1945
+متیوس مائیر (ایس پی ڈی) حکومت کے معاشی اقدامات پر تنقید کرتا ہے۔	male.n.02 Name "متیوس مائیر" PartOf +1 party.n.01 Name "ایس پی ڈی" criticize.v.01 Agent -2 Time +1 Theme +4 time.n.08 EQU now government.n.01 economic.a.01 AttributeOf +1 measure.n.01 Creator -2
+آج اسٹچ نے سوئٹزرلینڈ کے مارک روزیٹ پر 6:3، 6:4 اور 6:2 سے کامیابی حاصل کی۔	time.n.08 TIN +2 day.n.03 TCT now day.n.03 EQU -1 male.n.02 Name "اسٹچ" win.v.01 Time -4 Agent -1 Time +1 Extent +4 Co-Agent +6 time.n.08 TPR now score.n.03 Value 6-3 score.n.03 Value 6-4 entity.n.01 Sub -2 Sub -1 Sub +1 score.n.03 Value 6-2 male.n.02 Name "مارک روزیٹ" Source +1 country.n.02 Name "سوئٹزرلینڈ"
+اگر میں انگریزی میں ایک ہزار فلمیں دیکھوں تو کیا میں اس میں روانی بن جاؤں گا؟	person.n.01 EQU speaker watch.v.03 Agent -1 Theme +2 quantity.n.01 EQU 1000 movie.n.01 Quantity -1 Context +1 english.n.01 CONSEQUENCE <1 time.n.08 TSU now person.n.01 EQU speaker become.v.01 Time -2 Patient -1 Result +1 fluent.a.02 Experiencer -2 Stimulus +1 entity.n.01
+یوئیفا کپ کے سیمی فائنل میں ایف سی بائرن میونخ نے ایف سی بارسلونا کو 2-2 سے شکست دی۔	tournament.n.01 Name "یوئیفا کپ" semi-final.n.01 PartOf -1 team.n.01 Name "ایف سی بائرن میونخ" play.v.01 Theme -2 Agent -1 Time +1 Co-Agent +2 Extent +3 time.n.08 TPR now team.n.01 Name "ایف سی بارسلونا" score.n.03 Value 2-2
+مور (اناکس ایو) ایک خوبصورت اور آسانی سے پہچانی جانے والی تتلی ہے۔	NEGATION <1 peacock.n.01 inachis_io.n.01 EQU -1 NEGATION <1 be.v.01 Theme -2 Time +1 Co-Theme +5 time.n.08 EQU now beautiful.a.01 AttributeOf +3 easily.r.01 recognizable.a.01 AttributeOf +1 butterfly.n.01 Role -2
+فرینک لیمپرڈ نے گیند بیکہم کو دے دی۔ بیکہم نے گیند کو کک مار کر گول کیا!	male.n.02 Name "فرینک لیمپرڈ" pass.v.20 Agent -1 Time +1 Theme +2 Destination +3 time.n.08 TPR now ball.n.01 male.n.02 Name "بیکہم" CONTINUATION <1 male.n.02 Name "بیکہم" kick.v.03 Agent -1 Time +1 Theme +2 time.n.08 TPR now ball.n.01 score.v.01 Agent -4 Time +1 time.n.08 TPR now
+جنوری 1896 میں رینٹگن نے ایک سائنسی معاشرے میں دوبارہ تجربہ کیا۔	time.n.08 MonthOfYear 1 EQU +1 time.n.08 YearOfCentury 1896 male.n.02 Name "رینٹگن" perform.v.01 Time -3 Agent -1 Time +1 Theme +2 Location +4 time.n.08 TPR now experiment.n.01 scientific.a.01 AttributeOf +1 society.n.02
+30 اپریل 1993 کو کس خاتون ٹینس کھلاڑی کی پیٹھ میں چھری سے وار کیا گیا؟	female.n.02 AttributeOf +1 person.n.01 Name ? Role +1 tennis_player.n.01 time.n.08 TPR now stab.v.01 Patient -3 Time -1 Location +1 Instrument +2 Time +4 back.n.01 knife.n.02 time.n.08 MonthOfYear 4 EQU +1 time.n.08 DayOfMonth 30 EQU +1 time.n.08 YearOfCentury 1993
+ایوان چہارم (ایوان دی ٹیریبل) نے بہت سے تاتاریوں کو اسلام سے عیسائیت اختیار کرنے پر مجبور کیا۔	male.n.02 Name "ایوان چہارم" male.n.02 Name "ایوان دی ٹیریبل" EQU -1 force.v.01 Agent -2 Time +1 Patient +2 Result +4 time.n.08 TPR now person.n.01 Quantity + Role +1 tatar.n.01 convert.v.03 Patient -2 Start +1 Result +2 islam.n.02 christianity.n.01
+ہسپانوی مصور پابلو پیکاسو کی کندہ کاری "لا فامم کی پلیئر ایک" کے لیے کتنی رقم ادا کی گئی؟	measure.n.02 Quantity ? time.n.08 TPR now pay.v.01 Asset -2 Time -1 Theme +1 artifact.n.01 Name "لا فامم کی پلیئر ایک" EQU +1 engraving.n.01 Creator +3 country.n.02 Name "ہسپانیہ" painter.n.01 male.n.02 Name "پابلو پیکاسو" Source -2 Role -1
+مصری حکومت نے منگل کو ان قیاس آرائیوں کو مسترد کر دیا کہ لاپتہ پاکستانیوں کے ایک گروپ نے بم دھماکوں میں مدد کی تھی۔	country.n.02 Name "مصر" government.n.01 Location -1 time.n.08 DayOfWeek tuesday dismiss.v.01 Agent -2 Time -1 Time +1 Theme +2 time.n.08 TPR now speculation.n.01 Proposition >1 CONTINUATION <0 group.n.01 Part +2 missing.a.01 AttributeOf +1 person.n.01 Source +1 country.n.02 Name "پاکستان" help.v.01 Agent -4 Time +1 Theme +2 time.n.08 TPR now bombing.n.01
+یونان میں 22 ستمبر 1996 کو پارلیمانی انتخابات ہوئے۔کوستاس سیمیتیس کی حکمران پانہیلینک سوشلسٹ موومنٹ (پاسوک) دوبارہ منتخب ہو گئی، جس نے ملٹیڈیس ایورٹ کی لبرل قدامت پسند نیو ڈیموکریسی پارٹی کو شکست دی۔	parliamentary.a.01 AttributeOf +1 election.n.01 time.n.08 TPR now hold.v.03 Theme -2 Time -1 Location +1 Time +3 country.n.02 Name "یونان" time.n.08 DayOfMonth 22 EQU +1 time.n.08 MonthOfYear 9 EQU +1 time.n.08 YearOfCentury 1996 CONTINUATION <1 ruling.a.01 Name "پانہیلینک سوشلسٹ موومنٹ" Part +3 party.n.01 EQU -1 party.n.01 Name "پاسوک" EQU -1 male.n.02 Name "کوستاس سیمیتیس" time.n.08 TPR now reelect.v.01 Theme -4 Time -1 Manner +1 defeat.v.01 Agent -5 Co-Agent +3 liberal-conservative.a.01 AttributeOf +2 party.n.01 Name "نیو ڈیموکریسی" party.n.01 EQU -1 Part +1 male.n.02 Name "ملٹیڈیس ایورٹ"
