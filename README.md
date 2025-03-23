@@ -6,10 +6,10 @@ In this repo, we include the code, dataset, and model for our LR&E paper entitle
 
 Here, we include:
 
-1. **dataset:** This folder includes all flavors of augmented datasets and also the dataset without augmentation. 
-2. **evaluation:** This folder contains scripts to evaluate model performance through automatic and pre-trained model-based evaluation metrics for both parsing and generation. 
-3. **output_files:** This folder contains the model-generated outputs for all the experiments reported in the paper.
-4. **code:** All dataset processing scripts for dataset development and augmentation are present in the folder.
+1. **code:** All dataset processing scripts for dataset development and augmentation are present in the folder.
+2. **dataset:** This folder includes all flavors of augmented datasets and also the dataset without augmentation. 
+3. **evaluation:** This folder contains scripts to evaluate model performance through automatic and pre-trained model-based evaluation metrics for both parsing and generation. 
+4. **output_files:** This folder contains the model-generated outputs for all the experiments reported in the paper.
 
 
 
