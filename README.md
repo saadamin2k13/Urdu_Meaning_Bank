@@ -11,7 +11,7 @@ Here, we include:
 3. **evaluation:** This folder contains scripts to evaluate model performance through automatic and pre-trained model-based evaluation metrics for both parsing and generation. 
 4. **output_files:** This folder contains the model-generated outputs for all the experiments reported in the paper.
 
-
+Our fine-tuned models for Urdu [**Semantic Parsing**](saadamin2k13/urdu_semantic_parsing) and [**Text Generation**](saadamin2k13/urdu_text_generation) are publically available for research purposes.
 
 
 **1. The figure below represents multilingual different representations of the DRS/SBN.**
