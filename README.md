@@ -14,26 +14,31 @@ Here, we include:
 
 
 
-**1. The figure below represents the DRS/SBN transformations.**
-
-![image](https://github.com/user-attachments/assets/e0784225-7050-4ab2-8774-a46987495ba4)
-
-
-**2. Table below represents augmentations examples.**
-
-<img width="948" alt="image" src="https://github.com/user-attachments/assets/de4d4d1e-f68d-4739-a446-81cdfbea239f">
+**1. The figure below represents multilingual different representations of the DRS/SBN.**
+[drs-shapes.pdf](https://github.com/user-attachments/files/19407608/drs-shapes.pdf)
 
 
 
 
-**3. Figure below represents impact of augmentation on the dataset.**
+**2. Comparing English and Urdu SBN along with their corresponding textual representations based on syntactic structure and surface alignment. Note that word order in Urdu is right to left.**
+[urdu-english-shapes.pdf](https://github.com/user-attachments/files/19407613/urdu-english-shapes.pdf)
 
-<img width="622" alt="image" src="https://github.com/user-attachments/assets/a2bf1c6e-26fb-412e-b643-149554731af2">
 
 
-**4. Table below represents augmentations results.**
+**3. Augmentation examples for Urdu semantic parsing and generation. Note: Aug = Augmentation.**
+[tab-1.pdf](https://github.com/user-attachments/files/19407618/tab-1.pdf)
 
-<img width="1118" alt="image" src="https://github.com/user-attachments/assets/6c9b536d-9431-4173-94f0-76050106abac">
+
+
+**4. Meaning representation of the sentence “Bill didn’t commit the crime.” of fine-grained evaluation in node-level and edge-level. We highlight two examples in Nouns and Verbs in blue in (a) and one operator-triple in orange in (b).**
+[examples.pdf](https://github.com/user-attachments/files/19407633/examples.pdf)
+
+**5. Human Evaluation**
+
+Perfect and ROSE evaluation based on manual analysis for Urdu generation task. We have listed 4 different cases each reporting: (1) Perfect: all those examples that have the same model-generated text as listed in
+the gold examples; (2) Semantics: representing those examples that are semantically correct only; (3) Grammaticality: examples that are grammatically correct but not sustaining the same semantic information; and (4) ROSE: that is the product of semantic and grammatical evaluation scores. Note: for the first 2 columns, we have mentioned the English translations of the Urdu text (in double quotes) for understanding purposes.
+[tab-2.pdf](https://github.com/user-attachments/files/19407634/tab-2.pdf)
+
 
 
 ### Contributors
